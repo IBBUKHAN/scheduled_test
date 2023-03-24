@@ -1,59 +1,63 @@
-const schedule = require("node-schedule");
 const axios = require("axios");
-// let AllbotData = require("./coroverBotInfo.json");
-const { Pool } = require('pg');
-var AllbotData;
- const pool = new Pool({user: 'corover_prod',host: 'prodbinstance.ch4ne6pszkn4.ap-south-1.rds.amazonaws.com',database: 'postgres',password: 'CoroverAWS', port: 5432});
- pool.query('SELECT * FROM nlp.scheduler_data', (error, results) => {if (error) {throw error; }
-AllbotData = results.rows;
- console.log(results.rows);
- pool.end();});
-;
+const fs = require("fs");
+const json = require("./ibb.json");
 
-const notWorking = [];
+async function voiceapi(payload) {
+  let result;
+  const axiosConfig = {
+    headers: {
+      "Access-Control-Allow-Origin": "*",
+      Connection: "keep-alive",
+      "auth-Key": "2b5fb5d4-0753-4302-b661-f8580e9effb0",
+      "sec-ch-ua-mobile": "?0",
+      "User-Agent":
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+      "Content-Type": "application/json",
+      Accept: "application/json, text/plain, */*",
+      "Cache-Control": "max-age=31536000",
+      "app-id": "29fd4f94-f793-4227-9588-056b5ffb1318",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Dest": "empty",
+      Referer: "https://assistant.corover.mobi/irctc/chatbot.html",
+      "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
+    },
+  };
 
-async function BotQuery()
-{
-
-// console.log(AllbotData);
- for(let bot in AllbotData)
- {
-
-console.log(AllbotData[bot].answerkey_url,
-  AllbotData[bot].payload,
-  AllbotData[bot].headers)
-    try{
-      const response =
-        await axios
-          .post(
-            AllbotData[bot].answerkey_url,
-            AllbotData[bot].payload,
-            {
-              headers:AllbotData[bot].headers
-              
-            }
-            
-            )
-            
-          .then(async (res) => {
-            console.log(res)
-            result = res;
-          });
-      
-        if (result.payload) {
-          console.log("voice =>", result.payload);
-        } 
-      // console.log('Response:', response.data);
-    }
-    catch(error){
-        console.log("Error:", error.message);
-        notWorking.push(AllbotData[bot].client_name);
-    }
+  try {
+    const res = await axios.post(
+      "https://licdev.corover.ai/nlpAPI/convertRealTimeAudio",
+      payload,
+      axiosConfig
+    );
+    result = res.data;
+  } catch (error) {
+    console.error(error);
+    result = null;
   }
-  
 
-  console.log(notWorking)
+  return result;
 }
 
-BotQuery();
+async function main() {
+  const output = [];
 
+  for (let i = 0; i < json.length; i++) {
+    const payload = {
+      sourceText: json[i].Answer_hi,
+      sourceLanguage: "hi",
+    };
+
+    const result = await voiceapi(payload);
+    if (result) {
+      output.push({
+        input: payload.sourceText,
+        output: result,
+      });
+    }
+  }
+
+  fs.writeFileSync("output.json", JSON.stringify(output));
+}
+
+main();
