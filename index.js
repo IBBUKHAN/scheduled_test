@@ -1,6 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
-const json = require("./ibb.json");
+const json = require("./digisaathiaudio.json");
 
 async function voiceapi(payload) {
   let result;
@@ -26,7 +26,7 @@ async function voiceapi(payload) {
 
   try {
     const res = await axios.post(
-      "https://licdev.corover.ai/nlpAPI/convertRealTimeAudio",
+      "https://licdev.corover.ai/nlpAPI/convertRealTimeAudioWav",
       payload,
       axiosConfig
     );
@@ -44,8 +44,8 @@ async function main() {
 
   for (let i = 0; i < json.length; i++) {
     const payload = {
-      sourceText: json[i].Answer_hi,
-      sourceLanguage: "hi",
+      sourceText: json[i].Answer_EN,
+      sourceLanguage: "en",
     };
 
     const result = await voiceapi(payload);
