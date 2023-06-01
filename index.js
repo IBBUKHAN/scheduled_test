@@ -1,13 +1,13 @@
 const axios = require("axios");
 const fs = require("fs");
-const json = require("./digisaathiaudio.json");
+const json = require("./lic_branch.json");
 
-async function translationFn(query, language) {
+async function translationFn(text) {
   return new Promise((resolve, reject) => {
     axios
       .get(
-        `https://www.googleapis.com/language/translate/v2?key=YOUR_API_KEY&source=${language}&target=en&q=${encodeURIComponent(
-          query
+        `https://www.googleapis.com/language/translate/v2?key=AIzaSyCAPKjw4U8MgkXrcXh1xEuogF3TQopKyac&source=en&target=hi&q=${encodeURIComponent(
+          text
         )}`
       )
       .then(function (response) {
@@ -24,19 +24,30 @@ async function main() {
   const output = [];
 
   for (let i = 0; i < json.length; i++) {
-    const query = json[i].Answer_EN;
-    const language = "en";
+    const data = json[i];
+    const translatedData = {
+      branch_code: data.branch_code,
+      branch_name: await translationFn(data.branch_name),
+      address_1: await translationFn(data.address_1),
+      address_2: await translationFn(data.address_2),
+      address_3: await translationFn(data.address_3),
+      city:  await translationFn(data.city),
+      state: await translationFn(data.state),
+      pin: data.pin,
+      division_name: await translationFn(data.division_name),
+      id: data.id
+    };
 
-    const result = await translationFn(query, language);
-    if (result) {
-      output.push({
-        input: query,
-        output: result,
-      });
-    }
+    console.log(translatedData);
+    output.push(translatedData);
   }
 
   fs.writeFileSync("output.json", JSON.stringify(output));
 }
 
 main();
+
+
+
+
+
