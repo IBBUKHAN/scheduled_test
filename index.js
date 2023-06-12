@@ -1,6 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
-const json = require("./digisaathiaudio.json");
+const json = require("./diidgi.json");
 
 async function voiceapi(payload) {
   let result;
@@ -26,7 +26,7 @@ async function voiceapi(payload) {
 
   try {
     const res = await axios.post(
-      "https://licdev.corover.ai/nlpAPI/convertRealTimeAudioWav",
+      "https://licdev.corover.ai/nlpAPI/convertRealTimeAudio",
       payload,
       axiosConfig
     );
@@ -41,23 +41,45 @@ async function voiceapi(payload) {
 
 async function main() {
   const output = [];
+  const answerOutput = [];
 
   for (let i = 0; i < json.length; i++) {
+    let answerText = json[i].Response;
+
+    // Remove specific HTML tags from the answer text
+    answerText = answerText.replace(/<br>/gi, '');
+    answerText = answerText.replace(/<b>/gi, '');
+    answerText = answerText.replace(/<a[^>]*>(.*?)<\/a>/gi, '$1');
+    answerText = answerText.replace(/-/g, '')
+    answerText = answerText.replace(/#N\/A/g, '');
+    answerText = answerText.replace(/<li><\/li>/gi, '');
+
     const payload = {
-      sourceText: json[i].Answer_EN,
-      sourceLanguage: "en",
+      sourceText: answerText,
+      sourceLanguage: "mr",
     };
 
     const result = await voiceapi(payload);
     if (result) {
+      console.log("Audio URL:", result["Uploaded URL"]);
       output.push({
-        input: payload.sourceText,
-        output: result,
+        Answer: payload.sourceText,
+        Answer_audio: result["Uploaded URL"],
       });
+      answerOutput.push([{
+        answer: {
+          contextCount: 1,
+          response: json[i].Response,
+          audio: result["Uploaded URL"],
+          options: [],
+        },
+      }]);
+      
     }
   }
 
   fs.writeFileSync("output.json", JSON.stringify(output));
+  fs.writeFileSync("Answer.json", JSON.stringify(answerOutput));
 }
 
 main();
