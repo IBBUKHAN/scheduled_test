@@ -1,53 +1,63 @@
-const axios = require("axios");
-const fs = require("fs");
-const json = require("./lic_branch.json");
+const fs = require('fs');
+const csv = require('csv-parser');
+const { Pool } = require('pg');
+const dbConfig = {
+          user: "corover_prod",
+          host: "prodbinstance.ch4ne6pszkn4.ap-south-1.rds.amazonaws.com",
+          database: "postgres",
+          password: "CoroverAWS",
+          port: 5432,
+};
 
-async function translationFn(text) {
+const csvFilePath = 'C:/Users/Ibbu/Documents/GitHub/scheduled_test/lic_offices.csv';
+
+function readCSVFile(filePath) {
   return new Promise((resolve, reject) => {
-    axios
-      .get(
-        `https://www.googleapis.com/language/translate/v2?key=AIzaSyCAPKjw4U8MgkXrcXh1xEuogF3TQopKyac&source=en&target=hi&q=${encodeURIComponent(
-          text
-        )}`
-      )
-      .then(function (response) {
-        resolve(response.data.data.translations[0].translatedText);
+    const results = [];
+    fs.createReadStream(filePath)
+      .pipe(csv())
+      .on('data', (data) => {
+        results.push(data);
       })
-      .catch(function (error) {
-        console.log(error);
-        resolve(null);
+      .on('end', () => {
+        resolve(results);
+      })
+      .on('error', (err) => {
+        reject(err);
       });
   });
 }
 
-async function main() {
-  const output = [];
+async function insertData(data) {
+  const pool = new Pool(dbConfig);
 
-  for (let i = 0; i < json.length; i++) {
-    const data = json[i];
-    const translatedData = {
-      branch_code: data.branch_code,
-      branch_name: await translationFn(data.branch_name),
-      address_1: await translationFn(data.address_1),
-      address_2: await translationFn(data.address_2),
-      address_3: await translationFn(data.address_3),
-      city:  await translationFn(data.city),
-      state: await translationFn(data.state),
-      pin: data.pin,
-      division_name: await translationFn(data.division_name),
-      id: data.id
-    };
+  try {
+    const client = await pool.connect();
+    await client.query('BEGIN');
 
-    console.log(translatedData);
-    output.push(translatedData);
+    for (const record of data) {
+      const keys = Object.keys(record);
+      const values = Object.values(record);
+      const placeholders = keys.map((_, i) => `$${i + 1}`).join(',');
+      const columns = keys.join(',');
+
+      const query = {
+        text: `INSERT INTO nlp.lic_offices(${columns}) VALUES(${placeholders})`,
+        values,
+      };
+
+      await client.query(query);
+    }
+
+    await client.query('COMMIT');
+    console.log('Data inserted successfully!');
+  } catch (err) {
+    console.error('Error inserting data:', err);
+  } finally {
+    pool.end();
   }
-
-  fs.writeFileSync("output.json", JSON.stringify(output));
 }
 
-main();
-
-
-
-
-
+readCSVFile(csvFilePath)
+  .then((data) => insertData(data))
+  .catch((err) => console.error('Error reading CSV file:', err));
