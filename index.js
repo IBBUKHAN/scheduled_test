@@ -9,7 +9,7 @@ const dbConfig = {
           port: 5432,
 };
 
-const csvFilePath = 'C:/Users/Ibbu/Documents/GitHub/scheduled_test/lic_offices.csv';
+const csvFilePath = 'C:/Users/Ibbu/Downloads/zones.csv';
 
 function readCSVFile(filePath) {
   return new Promise((resolve, reject) => {
@@ -42,7 +42,7 @@ async function insertData(data) {
       const columns = keys.join(',');
 
       const query = {
-        text: `INSERT INTO nlp.lic_offices(${columns}) VALUES(${placeholders})`,
+        text: `INSERT INTO nlp.hello(${columns}) VALUES(${placeholders})`,
         values,
       };
 
