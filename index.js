@@ -1,63 +1,61 @@
 const fs = require('fs');
-const csv = require('csv-parser');
-const { Pool } = require('pg');
-const dbConfig = {
-          user: "corover_prod",
-          host: "prodbinstance.ch4ne6pszkn4.ap-south-1.rds.amazonaws.com",
-          database: "postgres",
-          password: "CoroverAWS",
-          port: 5432,
-};
+const PDFParser = require('pdf-parse');
+const axios = require('axios');
 
-const csvFilePath = 'C:/Users/Ibbu/Downloads/zones.csv';
+const OPENAI_API_KEY = ''; // Replace with your OpenAI API key
+const OPENAI_API_URL = 'https://api.openai.com/v1/engines/davinci-codex/completions';
+const SAMPLE_PDF_FILE = 'khan.pdf'; // Path to your sample PDF file
 
-function readCSVFile(filePath) {
-  return new Promise((resolve, reject) => {
-    const results = [];
-    fs.createReadStream(filePath)
-      .pipe(csv())
-      .on('data', (data) => {
-        results.push(data);
-      })
-      .on('end', () => {
-        resolve(results);
-      })
-      .on('error', (err) => {
-        reject(err);
-      });
-  });
+const QUERY = `
+Want to extract information about "Harishena composed a prashasti in praise of Gautamiputra Shri Satakarni.".
+Return the results in JSON format without any explanation.
+The text related to "Harishena composed a prashasti in praise of Gautamiputra Shri Satakarni." is as follows:
+%s
+`;
+
+async function extractPDFContent(pdfPath) {
+  const pdfData = fs.readFileSync(pdfPath);
+  const pdf = await PDFParser(pdfData);
+  return pdf.text;
 }
 
-async function insertData(data) {
-  const pool = new Pool(dbConfig);
+async function callOpenAIAPI(pdfText) {
+  const requestBody = {
+    prompt: QUERY.replace('%s', pdfText),
+    temperature: 0.5,
+    max_tokens: 2048,
+  };
 
+  const config = {
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${OPENAI_API_KEY}`,
+    },
+  };
+
+  const response = await axios.post(OPENAI_API_URL, requestBody, config);
+  return response.data.choices[0].text;
+}
+
+function extractAnswer(apiResponse) {
   try {
-    const client = await pool.connect();
-    await client.query('BEGIN');
-
-    for (const record of data) {
-      const keys = Object.keys(record);
-      const values = Object.values(record);
-      const placeholders = keys.map((_, i) => `$${i + 1}`).join(',');
-      const columns = keys.join(',');
-
-      const query = {
-        text: `INSERT INTO nlp.hello(${columns}) VALUES(${placeholders})`,
-        values,
-      };
-
-      await client.query(query);
-    }
-
-    await client.query('COMMIT');
-    console.log('Data inserted successfully!');
-  } catch (err) {
-    console.error('Error inserting data:', err);
-  } finally {
-    pool.end();
+    const answer = JSON.parse(apiResponse);
+    return answer;
+  } catch (error) {
+    return {};
   }
 }
 
-readCSVFile(csvFilePath)
-  .then((data) => insertData(data))
-  .catch((err) => console.error('Error reading CSV file:', err));
+async function main() {
+  try {
+    const pdfPath = `C:/Users/Ibbu/Downloads/khan.pdf`;
+    const pdfText = await extractPDFContent(pdfPath);
+    const apiResponse = await callOpenAIAPI(pdfText);
+    const results = extractAnswer(apiResponse);
+    console.log(results);
+  } catch (error) {
+    console.error('An error occurred:', error);
+  }
+}
+
+main();
