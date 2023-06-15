@@ -1,28 +1,28 @@
-const fs = require('fs');
-const csv = require('csv-parser');
-const { Pool } = require('pg');
+const fs = require("fs");
+const csv = require("csv-parser");
+const { Pool } = require("pg");
 const dbConfig = {
-          user: "corover_prod",
-          host: "prodbinstance.ch4ne6pszkn4.ap-south-1.rds.amazonaws.com",
-          database: "postgres",
-          password: "CoroverAWS",
-          port: 5432,
+  user: "corover_prod",
+  host: "prodbinstance.ch4ne6pszkn4.ap-south-1.rds.amazonaws.com",
+  database: "postgres",
+  password: "CoroverAWS",
+  port: 5432,
 };
 
-const csvFilePath = 'C:/Users/Ibbu/Downloads/zones.csv';
+const csvFilePath = "C:/Users/Ibbu/Downloads/ibbukhan.csv";
 
 function readCSVFile(filePath) {
   return new Promise((resolve, reject) => {
     const results = [];
     fs.createReadStream(filePath)
       .pipe(csv())
-      .on('data', (data) => {
+      .on("data", (data) => {
         results.push(data);
       })
-      .on('end', () => {
+      .on("end", () => {
         resolve(results);
       })
-      .on('error', (err) => {
+      .on("error", (err) => {
         reject(err);
       });
   });
@@ -33,26 +33,33 @@ async function insertData(data) {
 
   try {
     const client = await pool.connect();
-    await client.query('BEGIN');
+    await client.query("BEGIN");
+
+    //column names original case mei rahe
+    const keys = Object.keys(data[0]);
+    // console.log("Column names:", keys);
 
     for (const record of data) {
-      const keys = Object.keys(record);
-      const values = Object.values(record);
-      const placeholders = keys.map((_, i) => `$${i + 1}`).join(',');
-      const columns = keys.join(',');
+      const values = keys.map((key) => {
+        const value = record[key];
+        return value !== "" ? value : null;
+      });
+
+      const placeholders = keys.map((_, i) => `$${i + 1}`).join(",");
+      const columns = keys.map((key) => `"${key}"`).join(",");
 
       const query = {
-        text: `INSERT INTO nlp.hello(${columns}) VALUES(${placeholders})`,
+        text: `INSERT INTO nlp.lic_policies(${columns}) VALUES(${placeholders})`,
         values,
       };
 
       await client.query(query);
     }
 
-    await client.query('COMMIT');
-    console.log('Data inserted successfully!');
+    await client.query("COMMIT");
+    console.log("Data inserted successfully!");
   } catch (err) {
-    console.error('Error inserting data:', err);
+    console.error("Error inserting data:", err);
   } finally {
     pool.end();
   }
@@ -60,4 +67,4 @@ async function insertData(data) {
 
 readCSVFile(csvFilePath)
   .then((data) => insertData(data))
-  .catch((err) => console.error('Error reading CSV file:', err));
+  .catch((err) => console.error("Error reading CSV file:", err));
