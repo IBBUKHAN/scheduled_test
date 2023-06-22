@@ -1,6 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
-const json = require("./diidgi.json");
+const json = require("./ibb.json");
 
 async function voiceapi(payload) {
   let result;
@@ -44,19 +44,19 @@ async function main() {
   const answerOutput = [];
 
   for (let i = 0; i < json.length; i++) {
-    let answerText = json[i].Response;
+    let answerText = json[i].Answer_hi;
 
     // Remove specific HTML tags from the answer text
-    answerText = answerText.replace(/<br>/gi, '');
-    answerText = answerText.replace(/<b>/gi, '');
-    answerText = answerText.replace(/<a[^>]*>(.*?)<\/a>/gi, '$1');
-    answerText = answerText.replace(/-/g, '')
-    answerText = answerText.replace(/#N\/A/g, '');
-    answerText = answerText.replace(/<li><\/li>/gi, '');
+    answerText = answerText.replace(/<br>/gi, "");
+    answerText = answerText.replace(/<b>/gi, "");
+    answerText = answerText.replace(/<a[^>]*>(.*?)<\/a>/gi, "$1");
+    answerText = answerText.replace(/-/g, "");
+    answerText = answerText.replace(/#N\/A/g, "");
+    answerText = answerText.replace(/<li><\/li>/gi, "");
 
     const payload = {
       sourceText: answerText,
-      sourceLanguage: "mr",
+      sourceLanguage: "hi",
     };
 
     const result = await voiceapi(payload);
@@ -66,20 +66,19 @@ async function main() {
         Answer: payload.sourceText,
         Answer_audio: result["Uploaded URL"],
       });
-      answerOutput.push([{
-        answer: {
-          contextCount: 1,
-          response: json[i].Response,
-          audio: result["Uploaded URL"],
-          options: [],
-        },
-      }]);
-      
+      // answerOutput.push([{
+      //   answer: {
+      //     contextCount: 1,
+      //     response: json[i].Response,
+      //     audio: result["Uploaded URL"],
+      //     options: [],
+      //   },
+      // }]);
     }
   }
 
   fs.writeFileSync("output.json", JSON.stringify(output));
-  fs.writeFileSync("Answer.json", JSON.stringify(answerOutput));
+  // fs.writeFileSync("Answer.json", JSON.stringify(answerOutput));
 }
 
 main();
