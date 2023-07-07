@@ -1,6 +1,6 @@
 const axios = require("axios");
 const fs = require("fs");
-const json = require("./ibb.json");
+const json = require("./audiosebi.json");
 
 async function voiceapi(payload) {
   let result;
@@ -50,18 +50,24 @@ async function main() {
     answerText = answerText.replace(/<br>/gi, "");
     answerText = answerText.replace(/<b>/gi, "");
     answerText = answerText.replace(/<a[^>]*>(.*?)<\/a>/gi, "$1");
-    answerText = answerText.replace(/-/g, "");
+    // answerText = answerText.replace(/-/g, "");
     answerText = answerText.replace(/#N\/A/g, "");
     answerText = answerText.replace(/<li><\/li>/gi, "");
+    answerText = answerText.replace(/\n/gi, "");
 
     const payload = {
       sourceText: answerText,
-      sourceLanguage: "hi",
+      sourceLanguage: "en",
     };
 
     const result = await voiceapi(payload);
     if (result) {
-      console.log("Audio URL:", result["Uploaded URL"]);
+      const audioUrl = result["Uploaded URL"];
+      const audioNumber = i + 1;
+
+      // Display the console log with the numbered format and green Audio URL
+      console.log("%d Audio URL: \x1b[32m%s\x1b[0m", audioNumber, audioUrl);
+
       output.push({
         Answer: payload.sourceText,
         Answer_audio: result["Uploaded URL"],
