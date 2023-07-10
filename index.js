@@ -1,70 +1,27 @@
 const fs = require("fs");
-const csv = require("csv-parser");
-const { Pool } = require("pg");
-const dbConfig = {
-  user: "corover_prod",
-  host: "prodbinstance.ch4ne6pszkn4.ap-south-1.rds.amazonaws.com",
-  database: "postgres",
-  password: "CoroverAWS",
-  port: 5432,
-};
+const axios = require("axios");
+const jsonData = require("./hello.json");
 
-const csvFilePath = "C:/Users/Ibbu/Downloads/ibbukhan.csv";
+async function testJSONData() {
+  let notWorkingCount = 0;
+  let totalQuestions = jsonData.length;
 
-function readCSVFile(filePath) {
-  return new Promise((resolve, reject) => {
-    const results = [];
-    fs.createReadStream(filePath)
-      .pipe(csv())
-      .on("data", (data) => {
-        results.push(data);
-      })
-      .on("end", () => {
-        resolve(results);
-      })
-      .on("error", (err) => {
-        reject(err);
-      });
-  });
-}
-
-async function insertData(data) {
-  const pool = new Pool(dbConfig);
-
-  try {
-    const client = await pool.connect();
-    await client.query("BEGIN");
-
-    //column names original case mei rahe
-    const keys = Object.keys(data[0]);
-    // console.log("Column names:", keys);
-
-    for (const record of data) {
-      const values = keys.map((key) => {
-        const value = record[key];
-        return value !== "" ? value : null;
-      });
-
-      const placeholders = keys.map((_, i) => `$${i + 1}`).join(",");
-      const columns = keys.map((key) => `"${key}"`).join(",");
-
-      const query = {
-        text: `INSERT INTO nlp.lic_policies(${columns}) VALUES(${placeholders})`,
-        values,
-      };
-
-      await client.query(query);
+  for (let i = 0; i < totalQuestions; i++) {
+    const prompt = jsonData[i].Question;
+    const response = await axios.post(
+      "http://34.93.162.189:9003/bharatgpt/getResponse",
+      {
+        prompt: prompt,
+      }
+    );
+    if (response.data.Message === "list index out of range") {
+      console.log("Not Working =====>", prompt);
+      notWorkingCount++;
     }
-
-    await client.query("COMMIT");
-    console.log("Data inserted successfully!");
-  } catch (err) {
-    console.error("Error inserting data:", err);
-  } finally {
-    pool.end();
   }
+
+  console.log("Total Questions:", totalQuestions); // Log the total number of questions
+  console.log("Total Not Working Count:", notWorkingCount);
 }
 
-readCSVFile(csvFilePath)
-  .then((data) => insertData(data))
-  .catch((err) => console.error("Error reading CSV file:", err));
+testJSONData();
