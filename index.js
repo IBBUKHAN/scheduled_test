@@ -13,8 +13,8 @@ async function main() {
 
   try {
     for (let i = 0; i < json.length; i++) {
-      const question = json[i].question;
-      const answer = json[i].answer;
+      const question = json[i].Question;
+      const answer = json[i].Answer;
 
       const data = {
         query: question,
@@ -27,11 +27,11 @@ async function main() {
       try {
         const response = await axios.post(url, data, { headers });
         const responseData = response.data.answer.response;
-        const translatevalue = response.data.answer.TranslatedQuery;
+        const translatevalue = response.data.answer.FAQ;
 
         const queryResponse = {
           query: question,
-          Translate: translatevalue,
+          FAQ: translatevalue,
           old_response: responseData,
           new_response: answer,
         };
