@@ -1,90 +1,70 @@
-const axios = require("axios");
 const fs = require("fs");
-const json = require("./audiosebi.json");
+const csv = require("csv-parser");
+const { Pool } = require("pg");
+const dbConfig = {
+  user: "postgres",
+  host: "35.200.249.148",
+  database: "postgres",
+  password: "Admin@2023",
+  port: 5432,
+};
 
-async function voiceapi(payload) {
-  let result;
-  const axiosConfig = {
-    headers: {
-      "Access-Control-Allow-Origin": "*",
-      Connection: "keep-alive",
-      "auth-Key": "2b5fb5d4-0753-4302-b661-f8580e9effb0",
-      "sec-ch-ua-mobile": "?0",
-      "User-Agent":
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
-      "Content-Type": "application/json",
-      Accept: "application/json, text/plain, */*",
-      "Cache-Control": "max-age=31536000",
-      "app-id": "29fd4f94-f793-4227-9588-056b5ffb1318",
-      "Sec-Fetch-Site": "same-origin",
-      "Sec-Fetch-Mode": "cors",
-      "Sec-Fetch-Dest": "empty",
-      Referer: "https://assistant.corover.mobi/irctc/chatbot.html",
-      "Accept-Language": "en-GB,en-US;q=0.9,en;q=0.8",
-    },
-  };
+const csvFilePath = "C:/Users/Ibbu/Downloads/yo.csv";
+
+function readCSVFile(filePath) {
+  return new Promise((resolve, reject) => {
+    const results = [];
+    fs.createReadStream(filePath)
+      .pipe(csv())
+      .on("data", (data) => {
+        results.push(data);
+      })
+      .on("end", () => {
+        resolve(results);
+      })
+      .on("error", (err) => {
+        reject(err);
+      });
+  });
+}
+
+async function insertData(data) {
+  const pool = new Pool(dbConfig);
 
   try {
-    const res = await axios.post(
-      "https://licdev.corover.ai/nlpAPI/convertRealTimeAudio",
-      payload,
-      axiosConfig
-    );
-    result = res.data;
-  } catch (error) {
-    console.error(error);
-    result = null;
-  }
+    const client = await pool.connect();
+    await client.query("BEGIN");
 
-  return result;
-}
+    //column names original case mei rahe
+    const keys = Object.keys(data[0]);
+    // console.log("Column names:", keys);
 
-async function main() {
-  const output = [];
-  const answerOutput = [];
-
-  for (let i = 0; i < json.length; i++) {
-    let answerText = json[i].Answer_hi;
-
-    // Remove specific HTML tags from the answer text
-    answerText = answerText.replace(/<br>/gi, "");
-    answerText = answerText.replace(/<b>/gi, "");
-    answerText = answerText.replace(/<a[^>]*>(.*?)<\/a>/gi, "$1");
-    // answerText = answerText.replace(/-/g, "");
-    answerText = answerText.replace(/#N\/A/g, "");
-    answerText = answerText.replace(/<li><\/li>/gi, "");
-    answerText = answerText.replace(/\n/gi, "");
-
-    const payload = {
-      sourceText: answerText,
-      sourceLanguage: "en",
-    };
-
-    const result = await voiceapi(payload);
-    if (result) {
-      const audioUrl = result["Uploaded URL"];
-      const audioNumber = i + 1;
-
-      // Display the console log with the numbered format and green Audio URL
-      console.log("%d Audio URL: \x1b[32m%s\x1b[0m", audioNumber, audioUrl);
-
-      output.push({
-        Answer: payload.sourceText,
-        Answer_audio: result["Uploaded URL"],
+    for (const record of data) {
+      const values = keys.map((key) => {
+        const value = record[key];
+        return value !== "" ? value : null;
       });
-      // answerOutput.push([{
-      //   answer: {
-      //     contextCount: 1,
-      //     response: json[i].Response,
-      //     audio: result["Uploaded URL"],
-      //     options: [],
-      //   },
-      // }]);
-    }
-  }
 
-  fs.writeFileSync("output.json", JSON.stringify(output));
-  // fs.writeFileSync("Answer.json", JSON.stringify(answerOutput));
+      const placeholders = keys.map((_, i) => `$${i + 1}`).join(",");
+      const columns = keys.map((key) => `"${key}"`).join(",");
+
+      const query = {
+        text: `INSERT INTO sebi.knowledge_base(${columns}) VALUES(${placeholders})`,
+        values,
+      };
+
+      await client.query(query);
+    }
+
+    await client.query("COMMIT");
+    console.log("Data inserted successfully!");
+  } catch (err) {
+    console.error("Error inserting data:", err);
+  } finally {
+    pool.end();
+  }
 }
 
-main();
+readCSVFile(csvFilePath)
+  .then((data) => insertData(data))
+  .catch((err) => console.error("Error reading CSV file:", err));
