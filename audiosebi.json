@@ -1,5 +1,17 @@
-[
-  {
-    "Answer_hi": "प्रधान कार्यालय:,सेबी भवन,प्लॉट सं. सी4-ए, 'जी' ब्लॉक, बांद्रा कुर्ला कॉम्प्लेक्स,बांद्रा (पूर्व), मुंबई - 400051, दूरभाष सं. : 9 1 2 2 2 6 4 4 9 0 0 0 , 4 0 4 5 9 0 0 0, फैक्स: 9 1 2 2  2 6 4 4 9 0 1 6 -2 0, 4 0 4 5 9  0 1 6 - 2 0, ईमेल: sebi@sebi.gov.in, (महाराष्ट्र, मध्य प्रदेश, छत्तीसगढ़, राजस्थान, गोवा, दमन और दीव, दादरा एवं नगर हवेली),उत्तरी प्रादेमशक कार्यालय:,पाँचवीं मंजिल, बैंक ऑफ बड़ौदा भवन, 16, संसद मार्ग,नई दिल्ली - 110001, दूरभाष सं. :  9 1 1 1 2 3 7 2 4 0 0 1 - 0 5, फैक्स: 9 1 1 1 2 3 7 2 4 0 0 6, ईमेल: sebinro@sebi.gov.in, (हरियाणा, हिमाचल प्रदेश, जम्मू और कश्मीर, पंजाब, उत्तर प्रदेश, चंडीगढ़, उत्तराखंड और दिल्ली),द्क्षिणी प्रादेशिक कार्यालय:,756-एल, सातवीं मंज़िल, ओवरसीज़ टावर्स, अन्ना साले,चेन्नई - 600002, दूरभाष सं. : 9 1 4 4 2 8 8 8 0 2 2 2, 2 8 5 2 6 6 8 6, फैक्स: 9 1 0 4 4 2 8 8 8 0 3 3 3, ईमेल: sebisro@sebi.gov.in,(आंध्र प्रदेश, कर्नाटक, केरल, तमिलनाडु, पांडिचेरी और लक्षद्वीप और मिनीकॉय द्वीप),पूर्वी प्रादेशिक कार्यालय:,तीसरी मंज़िल, एल एण्ड टी चैम्बर्स,16 कैमक स्ट्रीट,कोलकाता 700017, दूरभाष सं. :9 1 3 3 2 3 0 2 3 0 0 0, फैक्सः 9 1 3 3 2 8 7 4 3 0 7, ईमेल: sebiero@sebi.gov.in,(असम , बिहार, मणिपुर , मेघालय, नागालैंड, उड़ीसा, पश्चिम बंगाल अरुणाचल प्रदेश, मिजोरम त्रिपुरा, सिक्किम, झारखंड तथा अंडमान और निकोबार द्वीप समूह),पाशिचमी प्रादेशिक कार्यालय:,यूनिट सं. 0 0 2, तल मंज़िल,साकार-1, गांधीग्राम रलवे स्टेशन के पास,नेहरू ब्रिज के सामने,आश्रम रोड,अहमदाबाद - 380009,दूरभाष सं. : 0 7 9 2 6 5 8 3 6 3 3 -3 5,फैक्स: 0 7 9 2 6 5 8 3 6 3 2, ईमेल: sebiwro@sebi.gov.in,(गुजरात और राजस्थान)"
-  }
-]
+{
+  "answers": [
+    {
+      "id": "1",
+      "answer": "We would like to inform you that Startup India does not offer any loan-related incentives. DPIIT-recognised Startups can access the below links to explore funding opportunities: <br>a) <a href = 'https://www.sidbivcf.in/en' target='_blank'>SIDBI Fund of Funds</a><br>b) <a href = 'https://www.startupindia.gov.in/content/sih/en/reources/government-schemes.html' target='_blank'>Government Schemes</a> on Startup India portal<br>c) <a href = 'https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html' target='_blank'>State Startup Policies</a> on Startup India Portal.<br>d) Startup India <a href = 'https://seedfund.startupindia.gov.in' target='_blank'>Seed Fund Scheme</a><br>d) Participate in <a href = 'https://www.startupindia.gov.in/content/sih/en/ams-application/application-listing.html' target='_blank'>Programs and Challanges</a> <br><br>To know more about the Startup India benefits, visit <a href = 'https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/Startup%20India%20Kit_2021_V2.pdf' target='_blank'>this link.</a><br>To get your startup recognized under Startup India and avail benefits, visit <a href = 'https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html' target='_blank'>this link</a><br>To know more about funding, visit <a href ='https://www.startupindia.gov.in/content/sih/en/funding.html' target='_blank'>Funding guide for Startups</a> in the Resources menu.",
+      "label": "How can I raise funding?",
+      "audio": "https://coroverbackendstorage.blob.core.windows.net/chatbot-audio-bucket/a5f5c73c-b0d4-4712-9721-1b3879ee3162_en.mp3",
+      "alsoTry": [
+        "I want to connect with Enablers on the portal.",
+        "What is the meaning of funded or bootstrap?",
+        "I have received assistance from Government for funding. Can I apply to the seed fund scheme?",
+        "How can I partner with Startup India?",
+        "What resources are available for COVID 19 pandemic for a Startup?"
+      ]
+    }
+  ]
+}

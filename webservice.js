@@ -1,6 +1,8 @@
 const axios = require("axios");
 const xml2js = require("xml2js");
 
+const policy = "120321823750010735";
+
 async function fetchMotorDetails() {
   const soapRequestXML = `
     <soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope" xmlns:tem="http://tempuri.org/">
@@ -10,7 +12,7 @@ async function fetchMotorDetails() {
           <!--Optional:-->
           <tem:Para1>P</tem:Para1>
           <!--Optional:-->
-          <tem:Para2>120321823750010735</tem:Para2>
+          <tem:Para2>${policy}</tem:Para2>
           <!--Optional:-->
           <tem:Para3>m</tem:Para3>
           <!--Optional:-->

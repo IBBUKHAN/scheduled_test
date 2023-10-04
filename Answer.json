@@ -1,0 +1,18 @@
+[
+  {
+    "answer": {
+      "contextCount": 1,
+      "response": "We would like to inform you that Startup India does not offer any loan-related incentives. DPIIT-recognised Startups can access the below links to explore funding opportunities: <br>a) <a href = 'https://www.sidbivcf.in/en' target='_blank'>SIDBI Fund of Funds</a><br>b) <a href = 'https://www.startupindia.gov.in/content/sih/en/reources/government-schemes.html' target='_blank'>Government Schemes</a> on Startup India portal<br>c) <a href = 'https://www.startupindia.gov.in/content/sih/en/state-startup-policies.html' target='_blank'>State Startup Policies</a> on Startup India Portal.<br>d) Startup India <a href = 'https://seedfund.startupindia.gov.in' target='_blank'>Seed Fund Scheme</a><br>d) Participate in <a href = 'https://www.startupindia.gov.in/content/sih/en/ams-application/application-listing.html' target='_blank'>Programs and Challanges</a> <br><br>To know more about the Startup India benefits, visit <a href = 'https://www.startupindia.gov.in/content/dam/invest-india/Templates/public/Startup%20India%20Kit_2021_V2.pdf' target='_blank'>this link.</a><br>To get your startup recognized under Startup India and avail benefits, visit <a href = 'https://www.startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html' target='_blank'>this link</a><br>To know more about funding, visit <a href ='https://www.startupindia.gov.in/content/sih/en/funding.html' target='_blank'>Funding guide for Startups</a> in the Resources menu.",
+      "audio": "https://coroverbackendstorage.blob.core.windows.net/chatbot-audio-bucket/a5f5c73c-b0d4-4712-9721-1b3879ee3162_en.mp3",
+      "options": [],
+      "label": "How can I raise funding?",
+      "alsoTry": [
+        "I want to connect with Enablers on the portal.",
+        "What is the meaning of funded or bootstrap?",
+        "I have received assistance from Government for funding. Can I apply to the seed fund scheme?",
+        "How can I partner with Startup India?",
+        "What resources are available for COVID 19 pandemic for a Startup?"
+      ]
+    }
+  }
+]
