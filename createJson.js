@@ -4,17 +4,27 @@ const jsonData = require("./audiosebi.json");
 async function main() {
   const answerOutput = [];
 
-  for (let i = 0; i < jsonData.answers.length; i++) {
-    answerOutput.push({
-      answer: {
-        contextCount: 1,
-        response: jsonData.answers[i].answer,
-        audio: jsonData.answers[i].audio,
-        options: [],
-        label: jsonData.answers[i].label,
-        alsoTry: jsonData.answers[i].alsoTry,
-      },
-    });
+  for (let i = 0; i < jsonData.length; i++) {
+    const answers = jsonData[i].answers;
+
+    if (answers && answers.length > 0) {
+      const answerData = answers[0].answer;
+
+      answerOutput.push({
+        answers: [
+          {
+            answer: {
+              contextCount: answerData.contextCount,
+              response: answerData.response,
+              audio: answerData.audio,
+              options: answerData.options,
+              label: answerData.label,
+              alsoTry: answerData.alsoTry,
+            },
+          },
+        ],
+      });
+    }
   }
 
   fs.writeFileSync("Answer.json", JSON.stringify(answerOutput, null, 2));
