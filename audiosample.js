@@ -1,26 +1,34 @@
 const fs = require("fs");
-const ffmpeg = require("fluent-ffmpeg");
-const ffprobe = require("ffprobe-static");
+const wav = require("wav");
 
-const audioFilePath = "C:/Users/Ibbu/Downloads/boo.wav";
+async function checkSampleRate(path) {
+  const stream = fs.createReadStream(path);
+  const reader = new wav.Reader();
 
-ffmpeg.setFfprobePath(ffprobe.path);
-ffmpeg.ffprobe(audioFilePath, (err, metadata) => {
-  if (err) {
-    console.error("Error running ffprobe:", err);
-    return;
-  }
+  // Wait for the "format" event to get the sample rate
+  const sampleRate = await new Promise((resolve, reject) => {
+    reader.on("format", (format) => {
+      resolve(format.sampleRate);
+    });
 
-  if (metadata.streams && metadata.streams.length > 0) {
-    const audioStream = metadata.streams.find(
-      (stream) => stream.codec_type === "audio"
+    reader.on("error", (error) => {
+      reject(error);
+    });
+
+    stream.pipe(reader);
+  });
+
+  return sampleRate;
+}
+
+// Example usage:
+(async () => {
+  try {
+    const sampleRate = await checkSampleRate(
+      "C:/Users/Ibbu/Downloads/bial.mp3"
     );
-
-    if (audioStream) {
-      console.log(`Sample Rate: ${audioStream.sample_rate} Hz`);
-      console.log(`Number of Channels: ${audioStream.channels}`);
-    } else {
-      console.log("Sample rate not found in metadata.");
-    }
+    console.log(`The sample rate of the audio file is ${sampleRate} Hz`);
+  } catch (error) {
+    console.error("An error occurred:", error);
   }
-});
+})();
