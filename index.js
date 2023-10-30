@@ -8,7 +8,7 @@ async function testJSONData() {
   const wrongResponses = [];
 
   for (let i = 0; i < totalQuestions; i++) {
-    const prompt = jsonData[i].Question_hi;
+    const prompt = jsonData[i].Question;
     const response = await axios.post(
       "http://34.93.162.189:9003/bharatgpt/getResponse",
       {

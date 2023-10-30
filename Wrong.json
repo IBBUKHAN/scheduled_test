@@ -5,22 +5,26 @@
   {
     "wrong response": "How long does the certificate of registration remain valid?"
   },
+  { "wrong response": "What is an Auction?" },
   { "wrong response": "What is the corpus of the AIF ?" },
   {
     "wrong response": "I have a change in the data provided at the time of registration (including but limited to Directors, KMPs, Compliance Officer, change of address\u0002principal place of business, correspondence address, change in shareholding not amounting to change of control, NISM certifications undertaken, changes in email id for regulatory communication or investor grievance etc). How do I intimate SEBI?"
   },
   { "wrong response": "Non-Agricultural Commodities?" },
-  { "wrong response": "What is an auction?" },
   { "wrong response": "What is EBP platform?" },
   { "wrong response": "Is rating a one-time exercise?" },
   { "wrong response": "What is a Depository?" },
   {
     "wrong response": "If the information given in the offer document seems wrong from the point of view of facts, then whom should I contact?"
   },
+  { "wrong response": "You are welcome." },
+  { "wrong response": "I am good." },
+  { "wrong response": "I'm glad I could help." },
+  { "wrong response": "List of departments" },
+  { "wrong response": "I am good. How are you?" },
   {
     "wrong response": "If the acquirer is a third party and the open offer is made under Regulation 5A of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 [SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011] ) instead of bringing a delisting proposal, will board approval be required and due diligence done by the merchant banker?"
   },
-  { "wrong response": "What not to do when dealing with investment advisors" },
   { "wrong response": "Asset-backed securities" },
   { "wrong response": "At-the-Money Option" },
   { "wrong response": "Black-Scholes model" },
