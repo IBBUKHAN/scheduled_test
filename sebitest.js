@@ -10,10 +10,10 @@ const headers = {
 const results = [];
 
 async function sendRequest(i) {
-  const English = jsonData[i].Question;
-  // const Matching = jsonData[i].Question;
+  const Hindi = jsonData[i].Question_hi;
+  const Matching = jsonData[i].Question;
   const requestData = {
-    query: English,
+    query: Hindi,
     source:
       "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
     inputType: "TEXT",
@@ -22,32 +22,33 @@ async function sendRequest(i) {
 
   try {
     const response = await axios.post(
-      "https://sebi.corover.ai/sebiAPI/nlp/answer/en",
+      "https://sebi.corover.ai/sebiAPI/nlp/answer/hi",
       requestData,
       { headers }
     );
 
     const responseBody = response.data.answer.FAQ;
 
-    if (English === responseBody) {
+    if (Matching === responseBody) {
       results.push({
-        Question: English,
+        Question: Hindi,
         Response: "OK",
       });
-      console.log(`English: ${English} - Response: OK`);
+      // console.log(`Hindi: ${Hindi} - Response: OK`);
+      console.log("OK");
     } else {
       results.push({
-        Question: English,
+        Question: Hindi,
         Response: "Wrong Response",
       });
-      console.log(`English: ${English} - Response: Wrong Response`);
+      console.log(`Hindi: ${Hindi} - Response: Wrong Response`);
     }
   } catch (error) {
     results.push({
-      Question: English,
+      Question: Hindi,
       Response: "Error",
     });
-    console.log(`Hindi: ${English} - Response: Error`);
+    console.log(`Hindi: ${Hindi} - Response: Error`);
     console.error("Error:", error);
   }
 }
