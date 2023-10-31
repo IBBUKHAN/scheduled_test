@@ -1,0 +1,558 @@
+[
+  {
+    "Question": "उन मुद्दों के कारण जिनके कारण प्रणाली शुरू में पोषण नहीं कर सकती थी?",
+    "Translate": "What caused the issues that caused the system to initially not be able to nourish?"
+  },
+  {
+    "Question": "अंतर-संचालन के मुद्दे को कैसे संबोधित किया गया?",
+    "Translate": "How were interoperability issues addressed?"
+  },
+  {
+    "Question": "भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) के कार्यालयों के संपर्क संबंधी ब्यौरे तथा उनके अधिकार क्षेत्र",
+    "Translate": "Contact details of Securities and Exchange Board of India (SEBI) offices and their jurisdiction"
+  },
+  {
+    "Question": "सीआईएस के रूप में कौन सी योजनाओं को नहीं माना जाता है?",
+    "Translate": "Which schemes are not considered as CIS?"
+  },
+  {
+    "Question": "क्या यूनिट सर्टिफिकेट को स्टॉक एक्सचेंजों पर सूचीबद्ध किया जाएगा?",
+    "Translate": "Will unit certificates be listed on stock exchanges?"
+  },
+  {
+    "Question": "शिकायत निवारण के लिए किससे संपर्क करें?",
+    "Translate": "Whom to contact for grievance redressal?"
+  },
+  {
+    "Question": "क्या कॉन्ट्रा ट्रेड प्रतिबंध शेयर वार या डेट वार पर लागू होते हैं?",
+    "Translate": "Do contra trade restrictions apply share wise or debt wise?"
+  },
+  {
+    "Question": "क्या सहायक कर्मचारियों के सभी टीम के सदस्यों को शामिल करना अनिवार्य है यानी आईटी, सचिवीय, वित्त आदि को नामित व्यक्ति या केवल प्रबंधक और ऊपर की सूची में शामिल किया जाना है?",
+    "Translate": "Is it mandatory to include all team members of support staff i.e. IT, secretarial, finance etc. to be included in the nominated person or only the manager and those in the list above?"
+  },
+  {
+    "Question": "आरटीए को दस्तावेज / विवरण प्रदान किए जा सकते हैं जिनके माध्यम से विभिन्न मोड उपलब्ध हैं?",
+    "Translate": "Various modes through which documents/details can be provided to RTA are available?"
+  },
+  {
+    "Question": "नामांकन की आवश्यकता क्यों है?",
+    "Translate": "Why is enrollment required?"
+  },
+  {
+    "Question": "मैं नामांकन कैसे करूं?",
+    "Translate": "How do I enroll?"
+  },
+  {
+    "Question": "यदि मैं नामांकन का विकल्प चुनना चाहता हूं तो क्या प्रक्रिया है?",
+    "Translate": "What is the process if I want to opt for enrolment?"
+  },
+  {
+    "Question": "आरटीए द्वारा संसाधित विभिन्न निवेशक सेवा अनुरोध क्या हैं?",
+    "Translate": "What are the various investor service requests processed by RTA?"
+  },
+  {
+    "Question": "वृद्धि का तरीका क्या है?",
+    "Translate": "What is the method of growth?"
+  },
+  {
+    "Question": "पंजीकरण का प्रमाण पत्र कब तक मान्य रहता है?",
+    "Translate": "How long is the certificate of registration valid?"
+  },
+  {
+    "Question": "एक दलाल के प्रमुख दायित्व और जिम्मेदारियां क्या हैं?",
+    "Translate": "What are the major duties and responsibilities of a broker?"
+  },
+  {
+    "Question": "व्यापार खंड के लिए व्यापार क्या है?",
+    "Translate": "What is the business for business segment?"
+  },
+  {
+    "Question": "क्या एक से अधिक स्टॉक एक्सचेंजों में सूचीबद्ध (लिस्टिड) कंपनी यदि एक स्टॉक एक्सचेंज असूचीबद्ध (डीलिस्ट) हो जाए और दूसरे स्टॉक एक्सचेंज में सूचीबद्ध (लिस्टिड) बनी रहे, तो ऐसे में क्या उस कंपनी को शेयरधारकों के लिए निकास प्रस्ताव (एग्ज़िट ऑफर) लाना होता है?",
+    "Translate": "If a company listed on more than one stock exchange gets delisted from one stock exchange and continues to be listed on another stock exchange, will that company be allowed to make an exit offer to its shareholders? Have to bring?"
+  },
+  {
+    "Question": "किन कानूनी रूपों में एआईएफ को स्थापित किया जा सकता है?",
+    "Translate": "In what legal forms can an AIF be established?"
+  },
+  {
+    "Question": "एआईएफ का कोरस क्या है?",
+    "Translate": "What is the chorus of AIF?"
+  },
+  {
+    "Question": "एआईएफ का प्रायोजक कौन है?",
+    "Translate": "Who sponsors AIF?"
+  },
+  {
+    "Question": "क्या कोई AIF पंजीकरण के लिए अपनी श्रेणी को बदल सकता है?",
+    "Translate": "Can one change one&#39;s category for AIF registration?"
+  },
+  {
+    "Question": "क्या AIF किसी भी आकार की फंड/स्कीम लॉन्च कर सकता है?",
+    "Translate": "Can an AIF launch any size fund/scheme?"
+  },
+  {
+    "Question": "क्या कोई AIF किसी भी निवेशक से कोई भी राशि जुटा सकता है?",
+    "Translate": "Can an AIF raise any amount from any investor?"
+  },
+  {
+    "Question": "एआईएफ के लिए निवेश की स्थिति क्या है?",
+    "Translate": "What are the investment conditions for AIF?"
+  },
+  {
+    "Question": "एक निवेशक को एआईएफ से किस तरह की रिपोर्टें उम्मीद कर सकते हैं?",
+    "Translate": "What kind of reports can an investor expect from an AIF?"
+  },
+  {
+    "Question": "घुमावदार होने की प्रक्रिया क्या है?",
+    "Translate": "What is the process of winding?"
+  },
+  {
+    "Question": "मेरे पास पंजीकरण के समय प्रदान किए गए डेटा में एक बदलाव है (जिसमें निदेशकों, केएमपी, अनुपालन अधिकारी, व्यवसाय का पता प्रिंसिपल स्थान, पत्राचार का पता, नियंत्रण में परिवर्तन, नियंत्रण में परिवर्तन के लिए राशि नहीं, NISM प्रमाणपत्रों में परिवर्तन, NISM प्रमाणपत्र शामिल हैं। , नियामक संचार या निवेशक शिकायत आदि के लिए ईमेल आईडी में परिवर्तन)। मैं सेबी को कैसे अंतरंग करूं?",
+    "Translate": "I have a change in the data provided at the time of registration (including Directors, KMP, Compliance Officer, Business Address Principal Location, Correspondence Address, Change in Control, Amount Not for Change in Control, Change in NISM Certificates, NISM Certificates, change in email ID for regulatory communication or investor complaint etc.). How do I intimate SEBI?"
+  },
+  {
+    "Question": "डॉम्ड मटेरियल इवेंट्स पर पार्ट ए, आइटम 4 (डी) के अनुसूची III पैरा में उल्लेख किया गया है कि एक सूचीबद्ध इकाई बैठक के बंद होने के 30 मिनट के भीतर खुलासा करेगी, जो कि फंड जुटाने के संबंध में फैसले के संबंध में प्रस्तावित होने का प्रस्ताव है। फंड जुटाने के सभी तरीके एक ही के तहत कवर किए गए हैं?",
+    "Translate": "Schedule III para of Part A, Item 4(d) on Domesday Material Events mentions that a listed entity shall disclose, within 30 minutes of the closure of the meeting, the details of the decision in respect of fund raising to be proposed. Is proposed. Are all methods of fund raising covered under one?"
+  },
+  {
+    "Question": "चाहे कोई भी योजना बिना किसी शेयर-आधारित लाभों के साथ कर्मचारी कल्याण के उद्देश्य के साथ स्थापित हो, लेकिन सूचीबद्ध कंपनी के शेयरों या सूचीबद्ध होल्डिंग कंपनी के शेयरों को होल्डिंग/डील कर रही है, जिसे सेबी (शेयर आधारित कर्मचारी लाभ और पसीना इक्विटी) विनियमों के दायरे में शामिल किया गया है , 2021?",
+    "Translate": "Any scheme established with the objective of employee welfare with no share-based benefits but holding/dealing in shares of a listed company or shares of a listed holding company which is regulated by SEBI (Share Based Employee Benefits and Sweat Equity ) has been included within the scope of the Regulations, 2021?"
+  },
+  {
+    "Question": "SEBI (शेयरों और अधिग्रहणों का पर्याप्त अधिग्रहण) विनियम, 2011 (टेकओवर विनियम) के प्रावधानों के तहत निर्धारित दहलीज सीमा से परे कर्मचारियों के लिए पसीने की इक्विटी शेयरों के मुद्दे के अनुसार, क्या खुले प्रस्ताव को लाभार्थियों के हाथों में ट्रिगर किया जाएगा?",
+    "Translate": "As per the issue of sweat equity shares to employees beyond the threshold limit prescribed under the provisions of SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 (Takeover Regulations), will the open offer be triggered in the hands of the beneficiaries?"
+  },
+  {
+    "Question": "एक वस्तु क्या है?",
+    "Translate": "What is an object?"
+  },
+  {
+    "Question": "डिलीवरी की अवधि क्या है?",
+    "Translate": "What is the delivery period?"
+  },
+  {
+    "Question": "आधार क्या है?",
+    "Translate": "What is Aadhaar?"
+  },
+  {
+    "Question": "अप्रत्याशित परिस्थितियों के कारण, मैं पंजीकरण आवेदन को आगे नहीं बढ़ाना चाहता। वापसी के लिए प्रक्रिया क्या है?",
+    "Translate": "Due to unexpected circumstances, I do not wish to proceed with the registration application. What is the procedure for refund?"
+  },
+  {
+    "Question": "अद्वितीय क्लाइंट कोड (UCC) से क्या मतलब है?",
+    "Translate": "What is meant by Unique Client Code (UCC)?"
+  },
+  {
+    "Question": "मेरी बोली डल  गई है, इसक सबूत के तौर पर मैं व्यापारिक सदस्य (ट्रेडिंग मेंबर) या  सिंडिकेट सदस्य (सिंडिकेट मेंबर) से क्या लूँ?",
+    "Translate": "What should I get from the trading member or syndicate member as proof that my bid has been placed?"
+  },
+  {
+    "Question": "अधिकतम ब्रोकरेज क्या है जो एक ब्रोकर चार्ज कर सकता है?",
+    "Translate": "What is the maximum brokerage that a broker can charge?"
+  },
+  {
+    "Question": "मुझे निर्गम (इश्यू) में लगाया गया पैसा कैसे वापस मिलेगा?",
+    "Translate": "How will I get back the money invested in the issue?"
+  },
+  {
+    "Question": "मध्यस्थता क्या है?",
+    "Translate": "What is arbitration?"
+  },
+  {
+    "Question": "उपज से जुड़े शब्द।",
+    "Translate": "Words related to produce."
+  },
+  {
+    "Question": "क्या FVCI को कस्टोडियन नियुक्त करने की आवश्यकता है?",
+    "Translate": "Does FVCI need to appoint a custodian?"
+  },
+  {
+    "Question": "किबी किन परिस्थितियों में SEBI FVCI को दी गई पंजीकरण का प्रमाण पत्र रद्द कर सकता है?",
+    "Translate": "Under what circumstances can SEBI cancel the certificate of registration granted to FVCI?"
+  },
+  {
+    "Question": "क्या QFI द्वारा अधिकतम शेयरहोल्डिंग सीमा पर कोई कैप है?",
+    "Translate": "Is there any cap on maximum shareholding limit by QFI?"
+  },
+  {
+    "Question": "QFI अपनी म्यूचुअल फंड इकाइयों को कैसे भुनाता है?",
+    "Translate": "How does a QFI redeem its mutual fund units?"
+  },
+  {
+    "Question": "QFI और उसके स्टॉक ब्रोकर के बीच क्या संबंध होगा?",
+    "Translate": "What will be the relationship between QFI and its stock broker?"
+  },
+  {
+    "Question": "क्या QFI मार्ग के माध्यम से निवेश स्वतंत्र रूप से पुनर्खरीद है?",
+    "Translate": "Are investments freely repurchaseable through the QFI route?"
+  },
+  {
+    "Question": "क्या QFI द्वारा किए गए निवेश के लिए कोई न्यूनतम लॉक-इन अवधि है?",
+    "Translate": "Is there any minimum lock-in period for investments made by QFI?"
+  },
+  {
+    "Question": "क्या QFI उधार लेने या उधार या धन या प्रतिभूतियों में संलग्न हो सकता है?",
+    "Translate": "Can a QFI engage in borrowing or lending of money or securities?"
+  },
+  {
+    "Question": "QFI के KYC के लिए क्या आवश्यकताएं हैं?",
+    "Translate": "What are the requirements for KYC of QFI?"
+  },
+  {
+    "Question": "एक योग्य डीपी द्वारा QFI से क्या घोषणा/उपक्रम प्राप्त किए जाने हैं?",
+    "Translate": "What declarations/undertakings are to be obtained from the QFI by an eligible DP?"
+  },
+  {
+    "Question": "एक योग्य डीपी द्वारा जमाकर्ताओं को QFI होल्डिंग्स की रिपोर्टिंग के लिए क्या प्रारूप है?",
+    "Translate": "What is the format for reporting of QFI holdings to depositors by an eligible DP?"
+  },
+  {
+    "Question": "पंजीकरण आवेदन करने के लिए बेथे प्रक्रिया क्या होगी?",
+    "Translate": "What will be the procedure to apply for registration?"
+  },
+  {
+    "Question": "क्या एक्सचेंज द्वारा अपलोड किए गए एप्लिकेशन विवरण को गलत तरीके से कैप्चर किया गया/अधूरा होना चाहिए?",
+    "Translate": "Should the application details uploaded by the exchange be incorrectly captured/incomplete?"
+  },
+  {
+    "Question": "असूचीबद्धता संबंधी विनियमों के विनियम 24 के अनुसार प्रतिभूति बाजार (सिक्यूरिटीज़ मार्केट) में पहुँच रखने या किन्हीं इक्विटी शेयरों को सूचीबद्ध (की लिस्टिंग) कराए जाने पर पाबंदी हैl क्या ये पाबंदियाँ प्रतिभूतियों को खरीदने, बेचने या उनमें लेनदेन (डील) करने के संबंध में लागू हैं ?",
+    "Translate": "As per Regulation 24 of the Delisting Regulations, there are restrictions on having access to the securities market or getting any equity shares listed. Do these restrictions apply in relation to buying, selling or dealing in securities? Are applicable?"
+  },
+  {
+    "Question": "क्या मैंने पोर्टल पर स्कैन की गई प्रतियों के रूप में अपलोड किए गए भौतिक दस्तावेजों को भेजने के लिए ineed किया है?",
+    "Translate": "Do I need to send the physical documents uploaded on the portal as scanned copies?"
+  },
+  {
+    "Question": "केएमपी के लिए आवश्यक न्यूनतम कार्य अनुभव क्या है? किस तरह का काम है जो केएमपी के लिए कार्य अनुभव का गठन करता है?",
+    "Translate": "What is the minimum work experience required for KMP? What kind of work constitutes work experience for KMP?"
+  },
+  {
+    "Question": "दस्तावेजों की सूची BTI अनुलग्नक 1https: //www.sebi.gov.in/sebi_data/commondocs/nov-2020/bti annexure 1_p.pdf पर संलग्न हैं।",
+    "Translate": "List of documents is attached at BTI Annexure 1https://www.sebi.gov.in/sebi_data/commondocs/nov-2020/bti annexure 1_p.pdf."
+  },
+  {
+    "Question": "पूर्व अनुमोदन को प्राप्त करने के लिए पूर्व अनुमोदन और ताजा पंजीकरण के अनुसार कैसे किया जाता है?",
+    "Translate": "How to obtain pre-approval as per pre-approval and fresh registration?"
+  },
+  {
+    "Question": "मैं पंजीकरण के लिए आवेदन कैसे करूं?",
+    "Translate": "How do I apply for registration?"
+  },
+  {
+    "Question": "अधिमान्य मुद्दे के लिए संकल्प पारित करने के लिए प्रस्तावित आम बैठक के लिए तत्कालीन बैठक में क्या खुलासे किए जाने की आवश्यकता है?",
+    "Translate": "What disclosures are required to be made at the proposed general meeting for passing resolution for preferential issue?"
+  },
+  {
+    "Question": "अक्सर कारोबार करने वाली इकाइयाँ क्या होती हैं?",
+    "Translate": "What are frequently traded entities?"
+  },
+  {
+    "Question": "पंजीकरण के लिए आवश्यक जानकारी/दस्तावेज क्या हैं?",
+    "Translate": "What are the information/documents required for registration?"
+  },
+  {
+    "Question": "यदि Anapplicant पंजीकरण आवेदन को आगे बढ़ाने की इच्छा नहीं करता है, तो वापसी की प्रक्रिया क्या है?",
+    "Translate": "If an applicant does not wish to proceed with the registration application, what is the withdrawal process?"
+  },
+  {
+    "Question": "ईजीआर क्या है?",
+    "Translate": "What is EGR?"
+  },
+  {
+    "Question": "वर्तमान में ईजीआर में रूपांतरण के लिए सोने का कौन सा मानक स्वीकार्य है?",
+    "Translate": "Which gold standard is currently accepted for conversion to EGR?"
+  },
+  {
+    "Question": "ईजीआर का निपटान कैसे होगा?",
+    "Translate": "How will EGR be disposed of?"
+  },
+  {
+    "Question": "क्या वापस निकासी के लिए कोई भी नहीं है?",
+    "Translate": "Is there no one to withdraw from?"
+  },
+  {
+    "Question": "गोल्ड जमा करने के बाद, ट्रेडिंग के लिए ईजीआर कब उपलब्ध होगा?",
+    "Translate": "After gold deposit, when will EGR be available for trading?"
+  },
+  {
+    "Question": "वॉल्टमैनर कौन है? उनकी भूमिका क्या है?",
+    "Translate": "Who is Waltmaner? What is their role?"
+  },
+  {
+    "Question": "सेबी द्वारा वॉल्ट मैनेजर के रूप में कौन से संस्थाएं पंजीकृत हैं?",
+    "Translate": "Which entities are registered by SEBI as Vault Managers?"
+  },
+  {
+    "Question": "ईजीआर के अंतर्निहित भौतिक सोने के लिए भंडारण शुल्क कौन करेगा?",
+    "Translate": "Who will pay the storage charges for the physical gold underlying EGR?"
+  },
+  {
+    "Question": "ईजीआर के बीओ द्वारा तिजोरी प्रबंधकों के भंडारण शुल्क का भुगतान कैसे किया जाएगा?",
+    "Translate": "How will the storage charges of Vault Managers be paid by the BO of EGR?"
+  },
+  {
+    "Question": "क्या ईजीआर में बाजार लेनदेन की अनुमति है?",
+    "Translate": "Are market transactions allowed in EGR?"
+  },
+  {
+    "Question": "क्या ईजीआर को गिरवी या परिकल्पित किया जा सकता है?",
+    "Translate": "Can EGR be pledged or hypothecated?"
+  },
+  {
+    "Question": "पीओए संचालित के लिए किसी भी लेनदेन की सूचना कैसे दी जा सकती है?",
+    "Translate": "How can any transaction be reported for PoA operations?"
+  },
+  {
+    "Question": "क्या कोई विमुद्रीकरण की प्रतिज्ञा कर सकता है?",
+    "Translate": "Can anyone pledge for demonetization?"
+  },
+  {
+    "Question": "किसी को कैसे पता चलता है कि डीपी ने प्रत्येक के बाद खाते को अपडेट किया है?",
+    "Translate": "How does one know that the DP has updated the account after each one?"
+  },
+  {
+    "Question": "किसी भी निवेशक शिकायत / समस्या / क्वेरी के मामले में बीओ से संपर्क करना चाहिए?",
+    "Translate": "Where should the BO contact in case of any investor complaint/problem/query?"
+  },
+  {
+    "Question": "नामांकित कौन हो सकता है?",
+    "Translate": "Who can be nominated?"
+  },
+  {
+    "Question": "डेबिट ट्रांजेक्शन की अंतरंगता बो एस ऑप्टिंग फोर्ब्स्डा को कैसे दी जाएगी?",
+    "Translate": "How will the confidentiality of debit transactions be provided to Forbesda?"
+  },
+  {
+    "Question": "एक प्रस्ताव दस्तावेज़ के लिए फाइलिंग शुल्क क्या है?",
+    "Translate": "What is the filing fee for a proposal document?"
+  },
+  {
+    "Question": "Amutual फंड द्वारा देय वार्षिक शुल्क क्या है?",
+    "Translate": "What is the annual fee payable by mutual funds?"
+  },
+  {
+    "Question": "एक योजना के लिए शुल्क और खर्चों पर सीमाएं क्या हैं?",
+    "Translate": "What are the limits on fees and expenses for a plan?"
+  },
+  {
+    "Question": "प्रत्यक्ष योजना क्या है?",
+    "Translate": "What is Pratyaksha Scheme?"
+  },
+  {
+    "Question": "कैनिनवेसर्स ने अपनी शिकायतें कहाँ से दर्ज कीं?",
+    "Translate": "Where do Canineweavers lodge their complaints?"
+  },
+  {
+    "Question": "क्या पैन का होना जरूरी है ?",
+    "Translate": "Is it necessary to have PAN?"
+  },
+  {
+    "Question": "प्रश्न पूछने / शिकायत करने के लिए, मैं कहाँ संपर्क करूँ?",
+    "Translate": "Where do I contact for queries/complaints?"
+  },
+  {
+    "Question": "क्या 1 अप्रैल , 2019 के बाद शेयर कागज़ी रूप में रखे जा सकते हैं ? ",
+    "Translate": "Can shares be held in paper form after April 1, 2019?"
+  },
+  {
+    "Question": "बाजार और बाजार के त्याग की प्रक्रिया क्या है?",
+    "Translate": "What is the process of market and market abandonment?"
+  },
+  {
+    "Question": "सेबी से पोर्टफोलियो मैनेजर के रूप में पंजीकरण प्राप्त करने के लिए एक आवेदन करने की प्रक्रिया क्या है?",
+    "Translate": "What is the procedure for making an application for obtaining registration as a portfolio manager from SEBI?"
+  },
+  {
+    "Question": "क्या क्लाइंट को अपने खाते को टॉप करने की आवश्यकता है यदि पोर्टफोलियो मूल्य न्यूनतम निवेश राशि से नीचे आता है जैसा कि सेबी (पोर्टफोलियो मैनेजर्स) विनियमों में प्रदान किया गया है, 2020 पोर्टफोलियो के मूल्यांकन के परिणामस्वरूप?",
+    "Translate": "Is the client required to top up his account if the portfolio value falls below the minimum investment amount as provided in the SEBI (Portfolio Managers) Regulations, 2020 as a result of valuation of the portfolio?"
+  },
+  {
+    "Question": "क्या सेबी पोर्टफोलियो प्रबंधकों द्वारा दी जाने वाली किसी भी सेवा को मंजूरी देता है?",
+    "Translate": "Does SEBI approve any services offered by portfolio managers?"
+  },
+  {
+    "Question": "क्या सेबी पोर्टफोलियो मैनेजर के प्रकटीकरण दस्तावेज को मंजूरी देता है?",
+    "Translate": "Does SEBI approve the disclosure document of portfolio manager?"
+  },
+  {
+    "Question": "स्कोर क्या है?",
+    "Translate": "What&#39;s the score?"
+  },
+  {
+    "Question": "पुरानी शिकायतकर्ता कौन है?",
+    "Translate": "Who is the old complainer?"
+  },
+  {
+    "Question": "एक परिचित कौन है?",
+    "Translate": "Who is an acquaintance?"
+  },
+  {
+    "Question": "स्टॉक एक्सचेंज में अक्सर शेयरों की गणना की जाती है, जिसमें शेयरों की गणना की जाती है?",
+    "Translate": "In which stock exchange are shares often traded?"
+  },
+  {
+    "Question": "स्टॉक एक्सचेंज में शेयरों की गणना की जाती है, स्टॉक एक्सचेंज में आमतौर पर शेयर की गणना कैसे की जाती है?",
+    "Translate": "Shares are calculated in the stock exchange, how are shares generally calculated in the stock exchange?"
+  },
+  {
+    "Question": "मैं निर्गमकर्ताओं (इश्युअर्स) द्वारा भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) के पास दाखिल किए गए प्रस्ताव दस्तावेजों (ऑफर डाक्यूमेंट) की स्थिति केसे जानूँ?",
+    "Translate": "How do I know the status of the offer documents filed by the issuers with the Securities and Exchange Board of India (SEBI)?"
+  },
+  {
+    "Question": "क्या एक परिचित एक बार किए गए खुले प्रस्ताव को वापस ले सकता है?",
+    "Translate": "Can an acquaintance withdraw an open offer once made?"
+  },
+  {
+    "Question": "कोई निर्गम (इश्यू) कितने दिनों तक खुला रहता है?",
+    "Translate": "For how many days does an issue remain open?"
+  },
+  {
+    "Question": "मैं शेयरों के लिए आवेदन करने /  बोली लगाने के आवेदन फॉर्म कहाँ से प्राप्त कर सकता हूँ?",
+    "Translate": "Where can I get the application forms to apply/bid for shares?"
+  },
+  {
+    "Question": "जिन मामलों में बही-निर्माण (बुक बिल्डिंग) प्रक्रिया में कम से कम 25% सार्वजनिक शेयरधारक (पब्लिक शेयरहोल्डर) हिस्सा न लेते हों, उनमें असूचीबद्धता संबंधी विनियमों के विनियम 17(ख) के परंतुक के अनुसार यह कैसे साबित किया जाएगा  कि सभी सार्वजनिक शेयरधारकों को प्रस्ताव पत्र (लेटर ऑफ ऑफर) दिया जा चुका है ?",
+    "Translate": "In cases where at least 25% public shareholders do not participate in the book building process, how will it be proved that all the public shareholders are held as per the proviso to Regulation 17(b) of the Delisting Regulations? Has the letter of offer been given to the shareholders?"
+  },
+  {
+    "Question": "शेयर प्राप्त न होने, पैसे वापस मिलने (रिफंड) में देरी होने की शिकायत करने के लिए मैं किससे संपर्क करू ? ",
+    "Translate": "Whom do I contact to complain about non-receipt of shares or delay in refund?"
+  },
+  {
+    "Question": "असूचीबद्धता संबंधी विनियमों के तहत निम्नतम कीमत की गणना करने के लिए किस तारीख को संदर्भ तारीख (रेफरेंस डेट) माना जाता है ?",
+    "Translate": "Which date is considered as reference date for calculating floor price under delisting regulations?"
+  },
+  {
+    "Question": "व्यापारी बैंकर के संबंध में आकस्मिक गतिविधि का क्या अर्थ है?",
+    "Translate": "What is meant by contingent activity in relation to merchant banker?"
+  },
+  {
+    "Question": "निवेश सलाहकारों (इन्वेस्टमेंट एडवाइज़र्स) के साथ व्यवहार करते समय क्या न करें",
+    "Translate": "What not to do when dealing with investment advisors"
+  },
+  {
+    "Question": "निवेशक अपनी शिकायत कैसे दर्ज कर सकते हैं?",
+    "Translate": "How can investors lodge their complaints?"
+  },
+  {
+    "Question": "क्या स्टॉक एक्सचेंज से-सिद्धांत की मंजूरी लेने की कोई आवश्यकता है?",
+    "Translate": "Is there any requirement to obtain in-principle approval from the stock exchange?"
+  },
+  {
+    "Question": "ऑफ़र दस्तावेज़ में क्या खुलासे किए जाने वाले खुलासे हैं?",
+    "Translate": "What are the disclosures required to be made in the offer document?"
+  },
+  {
+    "Question": "मुझे प्रस्ताव दस्तावेज (ऑफर डॉक्यूमेंट) की प्रतियाँ कहाँ से मिलेंगी ?",
+    "Translate": "Where can I get copies of the offer document?"
+  },
+  {
+    "Question": "प्रस्ताव दस्तावेज़ के सेबी पोस्ट फाइलिंग द्वारा अवलोकन जारी करने का समय क्या है?",
+    "Translate": "What is the timing of issue of observation by SEBI post filing of offer document?"
+  },
+  {
+    "Question": "एक आमंत्रण के रूप में पंजीकरण के लिए मुख्य आवश्यकताएं क्या हैं?",
+    "Translate": "What are the main requirements for registration as an invitation?"
+  },
+  {
+    "Question": "क्या आमंत्रण के लिए एक अनुपालन अधिकारी नियुक्त करने की आवश्यकता है?",
+    "Translate": "Is there a need to appoint a compliance officer for the invitation?"
+  },
+  {
+    "Question": "क्या इन-प्रिंसिपल अनुमोदन के लिए एक आमंत्रण आवेदन कर सकता है?",
+    "Translate": "Can an invitee apply for in-principal approval?"
+  },
+  {
+    "Question": "निवेशक आमंत्रित इकाइयों या आमंत्रित इकाइयों के आवंटन में शामिल किसी भी अन्य बिचौलियों को आमंत्रित करने के खिलाफ अपनी शिकायतों का निवारण कैसे कर सकते हैं?",
+    "Translate": "How can investors redress their grievances against the inviting units or any other intermediaries involved in the allotment of the inviting units?"
+  },
+  {
+    "Question": "मुझे आबंटित (अलॉट) किए गए शेयर कब सूचीबद्ध (लिस्ट) होंगे?",
+    "Translate": "When will the shares allotted to me be listed?"
+  },
+  {
+    "Question": "क्या मैं UPI का उपयोग करके IPO के पहले दिन और अंतिम दिन में गिरावट कर सकता हूं?",
+    "Translate": "Can I dip on the first day and last day of IPO using UPI?"
+  },
+  {
+    "Question": "एक इकाई एक विदेशी उद्यम पूंजी निवेशक (FVCI) के रूप में पंजीकृत कैसे हो सकती है?",
+    "Translate": "How can an entity register as a Foreign Venture Capital Investor (FVCI)?"
+  },
+  {
+    "Question": "क्या iselectronic गोल्ड रसीद (EGR) खंड?",
+    "Translate": "What is Electronic Gold Receipt (EGR) clause?"
+  },
+  {
+    "Question": "यदि प्रस्ताव दस्तावेज़ में दी गई जानकारी तथ्यों के दृष्टिकोण से गलत लगती है, तो मुझे किससे संपर्क करना चाहिए?",
+    "Translate": "If the information given in the proposal document appears to be factually incorrect, who should I contact?"
+  },
+  {
+    "Question": "अगर मैं कभी यह जानना चाहता हूं कि मुद्दे की मांग कितनी है (मुद्दा। है, तो मैं यह कैसे जान सकता हूं?",
+    "Translate": "If I ever want to know how much demand there is for an issue(s), how can I find out?"
+  },
+  {
+    "Question": "क्या मैं अपनी बोली बदल सकता हूं?",
+    "Translate": "Can I change my quote?"
+  },
+  {
+    "Question": "कृपया मुझे बताएं कि मुझे इस दौरान क्या करना चाहिए?",
+    "Translate": "Please tell me what should I do during this time?"
+  },
+  {
+    "Question": "यदि कोई अर्जनकर्ता (एक्वायरर) थर्ड पार्टी हो तथा भारतीय प्रतिभूति और विनिमय बोर्ड (शेयरों का पर्याप्त अर्जन और अधिग्रहण) विनियम, 2011 [सेबी (सब्सटैंशियल एक्विज़ीशन  ऑफ शेयर्स  एंड टेकओवर्स) रेग्यूलेशन्स, 2011] के  विनियम 5क के तहत खुला प्रस्ताव   (ओपन ऑफर) लाने के बजाय असूचीबद्धता प्रस्ताव (डीलिस्टिंग ऑफर) लाता हो, तो ऐसे में क्या बोर्ड की मंजूरी लेनी होगी और मर्चेंट बैंककार (बैंकर) से ड्यू डिलीजेंस करवाना होगा ?",
+    "Translate": "If the acquirer is a third party and the open offer is made under Regulation 5A of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 [SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011] ) instead of bringing a delisting offer, will board approval be required and due diligence done by the merchant banker?"
+  },
+  {
+    "Question": "SEBI का CPIO और संपर्क विवरण कौन है?",
+    "Translate": "Who is CPIO of SEBI and contact details?"
+  },
+  {
+    "Question": "आरटीआई अधिनियम और संपर्क विवरण के तहत सेबी का अपीलीय प्राधिकरण कौन है?",
+    "Translate": "Who is the Appellate Authority of SEBI under RTI Act and Contact Details?"
+  },
+  {
+    "Question": "RTI अधिनियम और संपर्क विवरण के तहत SEBI का पारदर्शिता अधिकारी कौन है?",
+    "Translate": "Who is the Transparency Officer of SEBI under RTI Act and contact details?"
+  },
+  {
+    "Question": "सेबी में कर्मचारी प्रोफ़ाइल?",
+    "Translate": "Employee Profile in SEBI?"
+  },
+  {
+    "Question": "सेबी के कर्मचारियों के लिए मनोरंजक गतिविधियाँ क्या हैं?",
+    "Translate": "What are the recreational activities for SEBI employees?"
+  },
+  {
+    "Question": "सेबी में कितने प्रबंधक हैं?",
+    "Translate": "How many managers are there in SEBI?"
+  },
+  {
+    "Question": "निवेश सलाहकार के साथ काम करते हुए करते हैं",
+    "Translate": "Working with an investment advisor"
+  },
+  {
+    "Question": "निवेश सलाहकारों के साथ काम करते हुए नहीं",
+    "Translate": "Not while working with investment advisors"
+  },
+  {
+    "Question": "क्या सामूहिक निवेश प्रबंधन कंपनी असीमित अवधि (ओपन एंडेड) वाली सामूहिक निवेश स्कीम ला सकती है ?",
+    "Translate": "Can a Collective Investment Management Company launch an open ended Collective Investment Scheme?"
+  },
+  {
+    "Question": "यदि किसी सामूहिक निवेश प्रबंधन कंपनी (सीआईएमसी) ने भारतीय प्रतिभूति और विनिमय बोर्ड (सेबी) के पास किसी स्कीम का प्रस्ताव दस्तावेज (ऑफर डाक्यूमेंट) दाखि़ल किया है, तो क्या उस स्कीम को निवेश के लिहाज से सुरक्षित माना जा सकता है ?",
+    "Translate": "If a Collective Investment Management Company (CIMC) has filed the offer document of a scheme with the Securities and Exchange Board of India (SEBI), can that scheme be considered safe for investment?"
+  },
+  {
+    "Question": "क्या मौजूदा सामूहिक निवेश स्कीम और पैसे जुटा सकती है ?",
+    "Translate": "Can existing collective investment schemes raise more money?"
+  },
+  {
+    "Question": "मौजूदा सामूहिक निवेश स्कीम को बंद करने की क्या प्रक्रिया है ?",
+    "Translate": "What is the procedure for winding up an existing Collective Investment Scheme?"
+  },
+  {
+    "Question": "कितनी मौजूदा सामूहिक निवेश स्कीमों को रजिस्ट्रीकरण प्रमाणपत्र प्रदान किया गया ?",
+    "Translate": "How many existing collective investment schemes were granted registration certificate?"
+  }
+]
