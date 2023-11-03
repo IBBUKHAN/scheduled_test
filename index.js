@@ -6,6 +6,7 @@ async function testJSONData() {
   let notWorkingCount = 0;
   let totalQuestions = jsonData.length;
   const wrongResponses = [];
+  const results = [];
 
   for (let i = 0; i < totalQuestions; i++) {
     const prompt = jsonData[i].Question;
@@ -16,21 +17,24 @@ async function testJSONData() {
       }
     );
 
-    if (response.data.reply === prompt) {
-      console.log("OK");
+    if (response.data.reply != "Sorry, I don't know") {
+      results.push({
+        Question: prompt,
+        Matching: response.data.reply,
+      });
     } else {
-      console.log("Wrong Response:", prompt);
-      notWorkingCount++;
-      // Add the wrong response to the array
-      wrongResponses.push({ "wrong response": prompt });
+      // console.log("Wrong Response:", prompt);
+      // notWorkingCount++;
+      // // Add the wrong response to the array
+      // wrongResponses.push({ "wrong response": prompt });
     }
   }
 
   // Write the wrong responses to a JSON file
-  fs.writeFileSync("Wrong.json", JSON.stringify(wrongResponses));
+  fs.writeFileSync("results.json", JSON.stringify(results, null, 2), "utf-8");
 
-  console.log("Total Questions:", totalQuestions);
-  console.log("Total Not Working Count:", notWorkingCount);
+  // console.log("Total Questions:", totalQuestions);
+  // console.log("Total Not Working Count:", notWorkingCount);
 }
 
 testJSONData();

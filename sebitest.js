@@ -10,8 +10,8 @@ const headers = {
 const results = [];
 
 async function sendRequest(i) {
-  const Hindi = jsonData[i].Question_hi;
-  const Matching = jsonData[i].Question;
+  const Hindi = jsonData[i].Question;
+  // const Matching = jsonData[i].Question;
   const requestData = {
     query: Hindi,
     source:
@@ -22,26 +22,28 @@ async function sendRequest(i) {
 
   try {
     const response = await axios.post(
-      "https://sebi.corover.ai/sebiAPI/nlp/answer/hi",
+      "https://sebi.corover.ai/sebiAPI/nlp/answer/en",
       requestData,
       { headers }
     );
 
     const responseBody = response.data.answer.FAQ;
 
-    if (Matching === responseBody) {
+    if (Hindi === responseBody) {
       results.push({
         Question: Hindi,
         Response: "OK",
       });
       // console.log(`Hindi: ${Hindi} - Response: OK`);
-      console.log("OK");
+      console.log(`${results.length}. OK`);
     } else {
       results.push({
         Question: Hindi,
         Response: "Wrong Response",
       });
-      console.log(`Hindi: ${Hindi} - Response: Wrong Response`);
+      console.log(
+        `${results.length}. Hindi: ${Hindi} - Response: Wrong Response`
+      );
     }
   } catch (error) {
     results.push({
