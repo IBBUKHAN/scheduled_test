@@ -44,7 +44,7 @@ async function main() {
   const answerOutput = [];
 
   for (let i = 0; i < json.length; i++) {
-    let answerText = json[i].answers_ml;
+    let answerText = json[i].Answer;
 
     // Remove specific HTML tags from the answer text
     answerText = answerText.replace(/<br>/gi, "");
@@ -59,7 +59,7 @@ async function main() {
 
     const payload = {
       sourceText: answerText,
-      sourceLanguage: "ml",
+      sourceLanguage: "en",
     };
 
     const result = await voiceapi(payload);
@@ -85,7 +85,7 @@ async function main() {
     }
   }
 
-  fs.writeFileSync("sebiaudio.json", JSON.stringify(output));
+  fs.writeFileSync("sebiaudio1.json", JSON.stringify(output));
   // fs.writeFileSync("Answer.json", JSON.stringify(answerOutput));
 }
 
