@@ -11,7 +11,7 @@ const results = [];
 
 async function sendRequest(i) {
   const Hindi = jsonData[i].Question;
-  // const Matching = jsonData[i].Question;
+  const Matching = jsonData[i].Answer;
   const requestData = {
     query: Hindi,
     source:
@@ -29,10 +29,11 @@ async function sendRequest(i) {
 
     const responseBody = response.data.answer.FAQ;
 
-    if (Hindi === responseBody) {
+    if (Matching === responseBody) {
       results.push({
         Question: Hindi,
         Response: "OK",
+        Matching: responseBody,
       });
       // console.log(`Hindi: ${Hindi} - Response: OK`);
       console.log(`${results.length}. OK`);
@@ -40,6 +41,7 @@ async function sendRequest(i) {
       results.push({
         Question: Hindi,
         Response: "Wrong Response",
+        Matching: responseBody,
       });
       console.log(
         `${results.length}. Hindi: ${Hindi} - Response: Wrong Response`
