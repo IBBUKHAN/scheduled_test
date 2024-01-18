@@ -1,34 +1,33 @@
+const axios = require("axios");
 const fs = require("fs");
-const wav = require("wav");
 
-async function checkSampleRate(path) {
-  const stream = fs.createReadStream(path);
-  const reader = new wav.Reader();
+const apiUrl =
+  "https://api.elevenlabs.io/v1/text-to-speech/XrExE9yKIg1WjnnlVkGX";
 
-  // Wait for the "format" event to get the sample rate
-  const sampleRate = await new Promise((resolve, reject) => {
-    reader.on("format", (format) => {
-      resolve(format.sampleRate);
-    });
+const headers = {
+  "Content-Type": "application/json",
+  "xi-api-key": "2f11d41239d71d4b24a56ad2d471cd2f",
+};
 
-    reader.on("error", (error) => {
-      reject(error);
-    });
+const data = {
+  model_id: "eleven_multilingual_v2",
+  text: "Vicky aur uske friends ne ek chat group banaaya jisme wo memes, school ke notes aur yaha wahan ki baatein share karte the.",
+  voice_settings: {
+    similarity_boost: 0.75,
+    stability: 0.5,
+    use_speaker_boost: true,
+    style: 0,
+  },
+};
 
-    stream.pipe(reader);
+axios
+  .post(apiUrl, data, { headers, responseType: "arraybuffer" })
+  .then((response) => {
+    const audioBuffer = Buffer.from(response.data);
+    const filePath = "response.mp3";
+    fs.writeFileSync(filePath, audioBuffer);
+    console.log(`Audio response saved to ${filePath}`);
+  })
+  .catch((error) => {
+    console.error("Error:", error.message || error);
   });
-
-  return sampleRate;
-}
-
-// Example usage:
-(async () => {
-  try {
-    const sampleRate = await checkSampleRate(
-      "C:/Users/Ibbu/Downloads/bial.mp3"
-    );
-    console.log(`The sample rate of the audio file is ${sampleRate} Hz`);
-  } catch (error) {
-    console.error("An error occurred:", error);
-  }
-})();

@@ -50,10 +50,11 @@ async function main() {
     answerText = answerText.replace(/<br>/gi, "");
     answerText = answerText.replace(/<b>/gi, "");
     answerText = answerText.replace(/’/gi, "");
-    answerText = answerText.replace(/<a[^>]*>(.*?)<\/a>/gi, "$1");
+    answerText = answerText.replace(/<a[^>]*>(.*?)<\/a>/gi, "");
     answerText = answerText.replace(/\//g, "");
     // answerText = answerText.replace(/-/g, "");
     answerText = answerText.replace(/#N\/A/g, "");
+    answerText = answerText.replace(/<p><\/p>/gi, "");
     answerText = answerText.replace(/<li><\/li>/gi, "");
     answerText = answerText.replace(/\n/gi, "");
 
@@ -71,7 +72,7 @@ async function main() {
       console.log("%d Audio URL: \x1b[32m%s\x1b[0m", audioNumber, audioUrl);
 
       output.push({
-        Answer: payload.sourceText,
+        Answer: answerText,
         Answer_audio: result["Uploaded URL"],
       });
       // answerOutput.push([{
