@@ -1,0 +1,7952 @@
+[
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64e27"
+    },
+    "slug": "canterbury",
+    "country": "United Kingdom",
+    "name": "Canterbury",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5b3b684cef70a31e4ecb8b23"
+    },
+    "country": "United States",
+    "name": "College Station (Texas)",
+    "countrySlug": "united-states",
+    "slug": "college-station",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecf90cd718f226c7278a104"
+    },
+    "country": "India",
+    "name": "Jalandhar",
+    "countrySlug": "india",
+    "slug": "jalandhar",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecfadcd11e294194724596c"
+    },
+    "country": "Nepal",
+    "name": "Pokhara",
+    "countrySlug": "nepal",
+    "slug": "pokhara",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5b518163d930230a4c0d76ba"
+    },
+    "country": "United States",
+    "name": "Boston (Massachusetts)",
+    "countrySlug": "united-states",
+    "slug": "boston",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cefbd6048a3cb13245e2e0e"
+    },
+    "country": "United States",
+    "name": "Pennsylvania",
+    "countrySlug": "united-states",
+    "slug": "pennsylvania",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecf92f6718f226c7278a112"
+    },
+    "country": "India",
+    "name": "Kottayam",
+    "enable": false,
+    "countrySlug": "india",
+    "slug": "kottayam"
+  },
+  {
+    "_id": {
+      "$oid": "5d0c7fb1ca7a626a408a37ed"
+    },
+    "country": "Germany",
+    "name": "Frankfurt",
+    "countrySlug": "germany",
+    "slug": "frankfurt",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecf9288718f226c7278a10a"
+    },
+    "country": "India",
+    "name": "Jammu",
+    "countrySlug": "india",
+    "slug": "jammu",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d52907af509a942d65d1747"
+    },
+    "country": "Germany",
+    "name": "Dortmund",
+    "countrySlug": "germany",
+    "slug": "dortmund",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5bf91a9fd3e04b157e1e09f2"
+    },
+    "country": "United Kingdom",
+    "name": "Brighton (UK)",
+    "enable": true,
+    "countrySlug": "united-kingdom",
+    "slug": "brighton"
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee65057"
+    },
+    "slug": "springvale",
+    "country": "Australia",
+    "name": "Springvale",
+    "countrySlug": "australia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d412c2630dbd228915a26a7"
+    },
+    "country": "United States",
+    "name": "Philadelphia (Pennsylvania)",
+    "countrySlug": "united-states",
+    "slug": "philadelphia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d4ea88ef509a942d65d13db"
+    },
+    "country": "France",
+    "name": "Marseille",
+    "enable": true,
+    "countrySlug": "france",
+    "slug": "marseille"
+  },
+  {
+    "_id": {
+      "$oid": "5c1333383ef96e7a40d6a7de"
+    },
+    "country": "South Korea",
+    "name": "Seoul",
+    "countrySlug": "south-korea",
+    "slug": "seoul",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5b3b6801ef70a31e4ecb8b21"
+    },
+    "country": "United States",
+    "name": "New Haven (Connecticut)",
+    "countrySlug": "united-states",
+    "slug": "new-haven",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a672278015c14671071981a"
+    },
+    "slug": "ipswich",
+    "country": "United Kingdom",
+    "name": "Ipswich",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecf9116718f226c7278a105"
+    },
+    "country": "India",
+    "name": "Chitradurga",
+    "countrySlug": "india",
+    "slug": "chitradurga",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5b3b6830ef70a31e4ecb8b22"
+    },
+    "country": "United States",
+    "name": "Tallahassee (Florida)",
+    "countrySlug": "united-states",
+    "slug": "tallahassee",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a6f01d070748f8d66bbd368"
+    },
+    "slug": "north-melbourne",
+    "country": "Australia",
+    "name": "North Melbourne",
+    "countrySlug": "australia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b86"
+    },
+    "slug": "belfast",
+    "country": "United Kingdom",
+    "name": "Belfast",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5c52b1633f9b841cc65bca57"
+    },
+    "country": "United Kingdom",
+    "name": "Norwich",
+    "enable": true,
+    "countrySlug": "united-kingdom",
+    "slug": "norwich"
+  },
+  {
+    "_id": {
+      "$oid": "5d27443ce0a05c21fef70405"
+    },
+    "country": "United States",
+    "name": "Raleigh (North Carolina)",
+    "enable": true,
+    "countrySlug": "united-states",
+    "slug": "raleigh"
+  },
+  {
+    "_id": {
+      "$oid": "5bb756c3bfa4620fe912635d"
+    },
+    "country": "New Zealand",
+    "name": "Christchurch",
+    "countrySlug": "new-zealand",
+    "slug": "christchurch",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b6d"
+    },
+    "slug": "hull",
+    "country": "United Kingdom",
+    "name": "Hull",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee652c5"
+    },
+    "slug": "dubai",
+    "country": "United Arab Emirates",
+    "name": "Dubai",
+    "countrySlug": "united-arab-emirates",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecf8df5718f226c7278a100"
+    },
+    "country": "India",
+    "name": "Raipur",
+    "countrySlug": "india",
+    "slug": "raipur",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b5d"
+    },
+    "slug": "newport",
+    "country": "United Kingdom",
+    "name": "Newport",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64e2f"
+    },
+    "slug": "bolton",
+    "country": "United Kingdom",
+    "name": "Bolton",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d4d2aabf509a942d65d123a"
+    },
+    "country": "France",
+    "name": "La Rochelle",
+    "enable": true,
+    "countrySlug": "france",
+    "slug": "la-rochelle"
+  },
+  {
+    "_id": {
+      "$oid": "5d4d4e25f509a942d65d126f"
+    },
+    "country": "Canada",
+    "name": "British Columbia",
+    "countrySlug": "canada",
+    "slug": "british-columbia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecf9c03718f226c7278a157"
+    },
+    "country": "India",
+    "name": "Rajpura",
+    "countrySlug": "india",
+    "slug": "rajpura",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64860"
+    },
+    "slug": "darwin",
+    "country": "Australia",
+    "name": "Darwin",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a673771c0cb9b78d9f7fd50"
+    },
+    "slug": "newyork",
+    "country": "United States",
+    "name": "New York",
+    "countrySlug": "united-states",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dce9e7bee75e7045a77035e"
+    },
+    "country": "United States",
+    "name": "Milledgeville",
+    "countrySlug": "united-states",
+    "slug": "milledgeville",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecfaec611e2941947245970"
+    },
+    "country": "Nepal",
+    "name": "Kathmandu",
+    "countrySlug": "nepal",
+    "slug": "kathmandu",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d52b692f509a942d65d1793"
+    },
+    "country": "United States",
+    "name": "Washington",
+    "enable": true,
+    "countrySlug": "united-states",
+    "slug": "washington"
+  },
+  {
+    "_id": {
+      "$oid": "5d120702ab36ac75c93b6a4f"
+    },
+    "country": "United States",
+    "name": "California",
+    "enable": true,
+    "countrySlug": "united-states",
+    "slug": "california"
+  },
+  {
+    "_id": {
+      "$oid": "5d4285c1f73aa6254b6833cb"
+    },
+    "country": "Spain",
+    "name": "Tarragona",
+    "countrySlug": "spain",
+    "slug": "tarragona",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5b45a056717c5d01d2f096ce"
+    },
+    "country": "New Zealand",
+    "name": "Wellington",
+    "countrySlug": "new-zealand",
+    "slug": "wellington",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64ca8"
+    },
+    "slug": "madison-heights",
+    "country": "United States",
+    "name": "Madison (Wisconsin)",
+    "countrySlug": "united-states",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee65063"
+    },
+    "slug": "gold-coast",
+    "country": "Australia",
+    "name": "Gold Coast",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a6f076970748f8d66bbd40f"
+    },
+    "slug": "box-hill",
+    "country": "Australia",
+    "name": "Box Hill",
+    "countrySlug": "australia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5b5182b1d930230a4c0d76bc"
+    },
+    "country": "United States",
+    "name": "Chicago (Illinois)",
+    "countrySlug": "united-states",
+    "slug": "chicago",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d19c435335840177016d4fd"
+    },
+    "country": "Ireland",
+    "name": "County Donegal",
+    "countrySlug": "ireland",
+    "slug": "county-donegal",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5bf3e411ae26865eb104cc27"
+    },
+    "country": "United Kingdom",
+    "name": "Stirling",
+    "enable": true,
+    "countrySlug": "united-kingdom",
+    "slug": "stirling"
+  },
+  {
+    "_id": {
+      "$oid": "5d4284adf73aa6254b6833c4"
+    },
+    "country": "France",
+    "name": "Valenciennes",
+    "countrySlug": "france",
+    "slug": "valenciennes",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecf9081718f226c7278a103"
+    },
+    "country": "India",
+    "name": "Jabalpur",
+    "countrySlug": "india",
+    "slug": "jabalpur",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5c7cd47e54733c535cb5ea40"
+    },
+    "country": "United Kingdom",
+    "name": "Carlisle",
+    "enable": true,
+    "countrySlug": "united-kingdom",
+    "slug": "carlisle"
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee650af"
+    },
+    "slug": "lancaster",
+    "country": "United Kingdom",
+    "name": "Lancaster",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecf935a718f226c7278a113"
+    },
+    "country": "India",
+    "name": "Madurai",
+    "countrySlug": "india",
+    "slug": "madurai",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5c836969bdc1dd0db79be2c1"
+    },
+    "country": "United Kingdom",
+    "name": "Staffordshire",
+    "enable": false,
+    "countrySlug": "united-kingdom",
+    "slug": "staffordshire"
+  },
+  {
+    "_id": {
+      "$oid": "5a6725c4015c14671071a11b"
+    },
+    "slug": "egham",
+    "country": "United Kingdom",
+    "name": "Egham",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecf984f718f226c7278a140"
+    },
+    "country": "India",
+    "name": "Nashik",
+    "countrySlug": "india",
+    "slug": "nashik",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a6726ca015c14671071a182"
+    },
+    "slug": "high-wycombe",
+    "country": "United Kingdom",
+    "name": "High Wycombe",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee6486e"
+    },
+    "slug": "lismore",
+    "country": "Australia",
+    "name": "Lismore",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecf8f24718f226c7278a101"
+    },
+    "country": "India",
+    "name": "Bhilai",
+    "countrySlug": "india",
+    "slug": "bhilai",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d19ef57335840177016d60d"
+    },
+    "country": "United States",
+    "name": "Florida",
+    "countrySlug": "united-states",
+    "slug": "florida",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5c1b3a6e2ad54c23c8964b52"
+    },
+    "country": "France",
+    "name": "Nancy",
+    "countrySlug": "france",
+    "slug": "nancy",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65289"
+    },
+    "slug": "cambridge",
+    "country": "United Kingdom",
+    "name": "Cambridge",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ec398a52bc2310f7134fe5e"
+    },
+    "country": "India",
+    "name": "Gwalior",
+    "countrySlug": "india",
+    "slug": "gwalior",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee65068"
+    },
+    "slug": "craigieburn",
+    "country": "Australia",
+    "name": "Craigieburn",
+    "countrySlug": "australia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec396e12bc2310f7134fe56"
+    },
+    "country": "India",
+    "name": "Rajkot",
+    "countrySlug": "india",
+    "slug": "rajkot",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec3972b2bc2310f7134fe57"
+    },
+    "country": "India",
+    "name": "Mangalore",
+    "countrySlug": "india",
+    "slug": "mangalore",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec3981c2bc2310f7134fe5c"
+    },
+    "country": "India",
+    "name": "Jaipur",
+    "countrySlug": "india",
+    "slug": "jaipur",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee6524e"
+    },
+    "slug": "warwick",
+    "country": "United Kingdom",
+    "name": "Warwick",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecfaca111e2941947245965"
+    },
+    "country": "Bangladesh",
+    "name": "Dhaka",
+    "countrySlug": "bangladesh",
+    "slug": "dhaka",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5e3b99c8bc29af51d5a8c042"
+    },
+    "country": "United States",
+    "name": "Knoxville",
+    "countrySlug": "united-states",
+    "slug": "knoxville",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecfad2b11e2941947245969"
+    },
+    "country": "Bangladesh",
+    "name": "Chittagong",
+    "countrySlug": "bangladesh",
+    "slug": "chittagong",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5da6c7d2fbcd031199537a59"
+    },
+    "country": "Japan",
+    "name": "Tokyo",
+    "countrySlug": "japan",
+    "slug": "tokyo",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64dcf"
+    },
+    "slug": "geelong",
+    "country": "Australia",
+    "name": "Geelong",
+    "countrySlug": "australia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee6522b"
+    },
+    "slug": "melbourne",
+    "country": "Australia",
+    "name": "Melbourne",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a672a13015c14671071a532"
+    },
+    "slug": "sunshine-coast",
+    "country": "Australia",
+    "name": "Sunshine Coast",
+    "countrySlug": "australia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5e1c12daf43078678ce7d8a9"
+    },
+    "country": "United States",
+    "name": "State College (Pennsylvania)",
+    "countrySlug": "united-states",
+    "slug": "state-college",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecfacd911e2941947245967"
+    },
+    "country": "Sri Lanka",
+    "name": "Colombo",
+    "countrySlug": "sri-lanka",
+    "slug": "colombo",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec395292bc2310f7134fe4a"
+    },
+    "country": "India",
+    "name": "Coimbatore",
+    "countrySlug": "india",
+    "slug": "coimbatore",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecf8d21718f226c7278a0fe"
+    },
+    "country": "India",
+    "name": "Mysuru",
+    "countrySlug": "india",
+    "slug": "mysuru",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee650c3"
+    },
+    "slug": "bournemouth",
+    "country": "United Kingdom",
+    "name": "Bournemouth",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee65056"
+    },
+    "slug": "sydney",
+    "country": "Australia",
+    "name": "Sydney",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a6f31c870748f8d66bbeeab"
+    },
+    "slug": "newcastle",
+    "country": "United Kingdom",
+    "name": "Newcastle",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dd63f609a20a02f60e9714d"
+    },
+    "country": "India",
+    "name": "Hyderabad",
+    "countrySlug": "india",
+    "slug": "hyderabad",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec395ac2bc2310f7134fe4c"
+    },
+    "country": "India",
+    "name": "Warangal",
+    "countrySlug": "india",
+    "slug": "warangal",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65235"
+    },
+    "slug": "coffs-harbour",
+    "country": "Australia",
+    "name": "Coffs Harbour",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d00f9a41fdc4f1b16d397cf"
+    },
+    "country": "Spain",
+    "name": "Alcala de Henares",
+    "enable": true,
+    "countrySlug": "spain",
+    "slug": "alcala-de-henares"
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee652a0"
+    },
+    "slug": "aberystwyth",
+    "country": "United Kingdom",
+    "name": "Aberystwyth",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5eb64ba71959db06ec1cedca"
+    },
+    "country": "United States",
+    "name": "Clemson (South Carolina)",
+    "countrySlug": "united-states",
+    "slug": "clemson",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5f2b947b284c21202da5b4f5"
+    },
+    "country": "Canada",
+    "name": "Victoria",
+    "countrySlug": "canada",
+    "slug": "victoria",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5cee2234bb89ee0410090790"
+    },
+    "country": "Ireland",
+    "name": "Limerick",
+    "countrySlug": "ireland",
+    "slug": "limerick",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d31cb683073207f453a0451"
+    },
+    "country": "United States",
+    "name": "Fairfax (Virginia)",
+    "enable": true,
+    "countrySlug": "united-states",
+    "slug": "fairfax"
+  },
+  {
+    "_id": {
+      "$oid": "5ecf99ae718f226c7278a14b"
+    },
+    "country": "India",
+    "name": "Puducherry",
+    "countrySlug": "india",
+    "slug": "puducherry",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecf9a4d718f226c7278a155"
+    },
+    "country": "India",
+    "name": "Panaji",
+    "countrySlug": "india",
+    "slug": "panaji",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec395dd2bc2310f7134fe4d"
+    },
+    "country": "India",
+    "name": "Visakhapatnam",
+    "countrySlug": "india",
+    "slug": "visakhapatnam",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec395a92bc2310f7134fe4b"
+    },
+    "country": "India",
+    "name": "Surat",
+    "countrySlug": "india",
+    "slug": "surat",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee650de"
+    },
+    "slug": "singapore",
+    "country": "Singapore",
+    "name": "Singapore",
+    "countrySlug": "singapore",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5b45a228717c5d01d2f096d0"
+    },
+    "country": "Canada",
+    "name": "Ontario",
+    "countrySlug": "canada",
+    "slug": "ontario",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dd640689a20a02f60e97166"
+    },
+    "country": "India",
+    "name": "Mumbai",
+    "countrySlug": "india",
+    "slug": "mumbai",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b68"
+    },
+    "slug": "liverpool",
+    "country": "United Kingdom",
+    "name": "Liverpool",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dd6706135dc4949bdd1165d"
+    },
+    "country": "United States",
+    "name": "Austin (Texas)",
+    "countrySlug": "united-states",
+    "slug": "austin",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cebb632a9cdce6c7a51c60e"
+    },
+    "country": "Germany",
+    "name": "Munich",
+    "countrySlug": "germany",
+    "slug": "munich",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cf6670fe7f45f37a24a605b"
+    },
+    "country": "Canada",
+    "name": "Montreal",
+    "enable": true,
+    "countrySlug": "canada",
+    "slug": "montreal"
+  },
+  {
+    "_id": {
+      "$oid": "5e3b9907bc29af51d5a8c040"
+    },
+    "country": "United States",
+    "name": "Weatherford",
+    "countrySlug": "united-states",
+    "slug": "weatherford",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b56"
+    },
+    "slug": "peterhead",
+    "country": "United Kingdom",
+    "name": "Peterhead",
+    "countrySlug": "united-kingdom",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee650c6"
+    },
+    "slug": "birmingham",
+    "country": "United Kingdom",
+    "name": "Birmingham",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5b45a461717c5d01d2f096d1"
+    },
+    "country": "Spain",
+    "name": "Madrid",
+    "countrySlug": "spain",
+    "slug": "madrid",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cb172f08cb0557c787525c0"
+    },
+    "country": "United Kingdom",
+    "name": "Hatfield",
+    "countrySlug": "united-kingdom",
+    "slug": "hatfield",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65245"
+    },
+    "slug": "wrexham",
+    "country": "United Kingdom",
+    "name": "Wrexham",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e16cb8dbdde946fd5f5dad3"
+    },
+    "country": "United States",
+    "name": "Buffalo (New York)",
+    "countrySlug": "united-states",
+    "slug": "buffalo",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d134e935317e43e6a515da2"
+    },
+    "country": "Switzerland",
+    "name": "Geneva",
+    "countrySlug": "switzerland",
+    "slug": "geneva",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a67326f015c14671071ac82"
+    },
+    "slug": "dublin",
+    "country": "Ireland",
+    "name": "Dublin",
+    "countrySlug": "ireland",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cef516c0df97508133622dd"
+    },
+    "country": "Portugal",
+    "name": "Porto",
+    "countrySlug": "portugal",
+    "slug": "porto",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ceb828cfbb83a6b4e38715b"
+    },
+    "country": "France",
+    "name": "Reims",
+    "countrySlug": "france",
+    "slug": "reims",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5b45a56f717c5d01d2f096d2"
+    },
+    "country": "Spain",
+    "name": "Valencia",
+    "countrySlug": "spain",
+    "slug": "valencia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d270d08e0a05c21fef7038a"
+    },
+    "country": "Netherlands",
+    "name": "Leiden",
+    "enable": false,
+    "countrySlug": "netherlands",
+    "slug": "leiden"
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee649ec"
+    },
+    "slug": "swansea",
+    "country": "United Kingdom",
+    "name": "Swansea",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e255b6b4753c9660ccbe553"
+    },
+    "country": "United States",
+    "name": "Champaign (Illinois)",
+    "countrySlug": "united-states",
+    "slug": "champaign",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b67"
+    },
+    "slug": "london",
+    "country": "United Kingdom",
+    "name": "London",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ec3964d2bc2310f7134fe50"
+    },
+    "country": "India",
+    "name": "Amritsar",
+    "countrySlug": "india",
+    "slug": "amritsar",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecfae6711e294194724596f"
+    },
+    "country": "Nepal",
+    "name": "Butwal",
+    "countrySlug": "nepal",
+    "slug": "butwal",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec396ad2bc2310f7134fe54"
+    },
+    "country": "India",
+    "name": "Bhubaneswar",
+    "countrySlug": "india",
+    "slug": "bhubaneswar",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec396e12bc2310f7134fe55"
+    },
+    "country": "India",
+    "name": "Nagpur",
+    "countrySlug": "india",
+    "slug": "nagpur",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5b51804cd930230a4c0d76b6"
+    },
+    "country": "United States",
+    "name": "San Francisco (California)",
+    "enable": true,
+    "countrySlug": "united-states",
+    "slug": "san-francisco"
+  },
+  {
+    "_id": {
+      "$oid": "5d9eeb5547ce1a46fbc5a635"
+    },
+    "country": "Hungary",
+    "name": "Budapest",
+    "countrySlug": "hungary",
+    "slug": "budapest",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a6094ffeab2ac270ee647b5"
+    },
+    "slug": "colchester",
+    "country": "United Kingdom",
+    "name": "Colchester",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b7d"
+    },
+    "slug": "bristol",
+    "country": "United Kingdom",
+    "name": "Bristol",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e1c5d9f47f5b578ed72c46c"
+    },
+    "country": "Canada",
+    "name": "Kingston (Canada)",
+    "countrySlug": "canada",
+    "slug": "kingston-canada",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecf989a718f226c7278a141"
+    },
+    "country": "India",
+    "name": "Patiala",
+    "countrySlug": "india",
+    "slug": "patiala",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec397cf2bc2310f7134fe5b"
+    },
+    "country": "India",
+    "name": "Kozhikode",
+    "countrySlug": "india",
+    "slug": "kozhikode",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecf9d41718f226c7278a15a"
+    },
+    "country": "India",
+    "name": "Ghaziabad",
+    "countrySlug": "india",
+    "slug": "ghaziabad",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5dee3870ee55cc7775b75cbc"
+    },
+    "country": "Others",
+    "name": "Others",
+    "countrySlug": "others",
+    "slug": "others",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec396112bc2310f7134fe4f"
+    },
+    "country": "India",
+    "name": "Kolkata",
+    "countrySlug": "india",
+    "slug": "kolkata",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d427c9cf73aa6254b6833b1"
+    },
+    "country": "United States",
+    "name": "New Orleans",
+    "countrySlug": "united-states",
+    "slug": "new-orleans",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5dedfb16f387333d4597d51d"
+    },
+    "country": "United States",
+    "name": "Urbana (Illinois)",
+    "countrySlug": "united-states",
+    "slug": "urbana",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64a34"
+    },
+    "slug": "kingston",
+    "country": "United Kingdom",
+    "name": "Kingston (UK)",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5c7cc14354733c535cb5ea16"
+    },
+    "country": "Ireland",
+    "name": "Cork",
+    "enable": true,
+    "countrySlug": "ireland",
+    "slug": "cork"
+  },
+  {
+    "_id": {
+      "$oid": "5e00687457c86a28a7c887a9"
+    },
+    "country": "United States",
+    "name": "Tuscaloosa (Alabama)",
+    "countrySlug": "united-states",
+    "slug": "tuscaloosa",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a6721ac015c1467107196b9"
+    },
+    "slug": "coventry",
+    "country": "United Kingdom",
+    "name": "Coventry",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dcea083ee75e7045a770366"
+    },
+    "country": "United States",
+    "name": "Toledo (Ohio)",
+    "countrySlug": "united-states",
+    "slug": "toledo",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee650ca"
+    },
+    "slug": "bedford",
+    "country": "United Kingdom",
+    "name": "Bedford",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e0ad6d10b09a946b7c330a4"
+    },
+    "country": "United States",
+    "name": "Valparaiso",
+    "countrySlug": "united-states",
+    "slug": "valparaiso",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ec396562bc2310f7134fe51"
+    },
+    "country": "India",
+    "name": "Vadodara",
+    "countrySlug": "india",
+    "slug": "vadodara",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d122310ab36ac75c93b6a63"
+    },
+    "country": "United States",
+    "name": "Maryland",
+    "enable": false,
+    "countrySlug": "united-states",
+    "slug": "maryland"
+  },
+  {
+    "_id": {
+      "$oid": "5e3b9971bc29af51d5a8c041"
+    },
+    "country": "United States",
+    "name": "College Park (Maryland)",
+    "countrySlug": "united-states",
+    "slug": "college-park",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cc8052e3de1447ae85e16ee"
+    },
+    "country": "United States",
+    "name": "Davis (California)",
+    "countrySlug": "united-states",
+    "slug": "davis",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cc2f3f7753f65670671759d"
+    },
+    "country": "United Kingdom",
+    "name": "Winchester",
+    "countrySlug": "united-kingdom",
+    "slug": "winchester",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a67232c015c146710719a8b"
+    },
+    "slug": "dundee",
+    "country": "United Kingdom",
+    "name": "Dundee",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee648d1"
+    },
+    "slug": "bradford",
+    "country": "United Kingdom",
+    "name": "Bradford",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e253495617dce1e79bc8d8e"
+    },
+    "country": "United States",
+    "name": "Bloomington",
+    "countrySlug": "united-states",
+    "slug": "bloomington",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e09d00e0abe9e2ba08ac697"
+    },
+    "country": "Canada",
+    "name": "Oshawa",
+    "countrySlug": "canada",
+    "slug": "oshawa",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a671fa7015c14671071936f"
+    },
+    "slug": "exeter",
+    "country": "United Kingdom",
+    "name": "Exeter",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecfaefb11e2941947245971"
+    },
+    "country": "Bhutan",
+    "name": "Phuentsholing",
+    "countrySlug": "bhutan",
+    "slug": "phuentsholing",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ecf9c43718f226c7278a158"
+    },
+    "country": "India",
+    "name": "Siliguri",
+    "countrySlug": "india",
+    "slug": "siliguri",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5cb9985be5c5e006f31d1f4a"
+    },
+    "country": "France",
+    "name": "Bordeaux",
+    "countrySlug": "france",
+    "slug": "bordeaux",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64dd4"
+    },
+    "slug": "wollongong",
+    "country": "Australia",
+    "name": "Wollongong",
+    "countrySlug": "australia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65279"
+    },
+    "slug": "lincoln",
+    "country": "United Kingdom",
+    "name": "Lincoln",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5f29457679125448a7f2a2fa"
+    },
+    "country": "Germany",
+    "name": "Dresden",
+    "countrySlug": "germany",
+    "slug": "dresden",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dcea006ee75e7045a770364"
+    },
+    "country": "United States",
+    "name": "Tucson (Arizona)",
+    "countrySlug": "united-states",
+    "slug": "tucson",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dd664fe6cd5bf42423397b5"
+    },
+    "country": "India",
+    "name": "Kota",
+    "countrySlug": "india",
+    "slug": "kota",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5cfb5910819b69774f0c1e09"
+    },
+    "country": "Canada",
+    "name": "Ottawa",
+    "countrySlug": "canada",
+    "slug": "ottawa",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ec396092bc2310f7134fe4e"
+    },
+    "country": "India",
+    "name": "Vijayawada",
+    "countrySlug": "india",
+    "slug": "vijayawada",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d42816cf73aa6254b6833ba"
+    },
+    "country": "United States",
+    "name": "New Jersey",
+    "countrySlug": "united-states",
+    "slug": "new-jersey",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d07480a7a3feb45e8045a1b"
+    },
+    "country": "New Zealand",
+    "name": "Auckland",
+    "countrySlug": "new-zealand",
+    "slug": "auckland",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a671eff015c14671071921f"
+    },
+    "slug": "huddersfield",
+    "country": "United Kingdom",
+    "name": "Huddersfield",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b41"
+    },
+    "slug": "stoke-on-trent",
+    "country": "United Kingdom",
+    "name": "Stoke on Trent",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee648bc"
+    },
+    "slug": "leicester",
+    "country": "United Kingdom",
+    "name": "Leicester",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cde895195949a018eb2baa3"
+    },
+    "country": "United States",
+    "name": "Dallas (Texas)",
+    "enable": true,
+    "countrySlug": "united-states",
+    "slug": "dallas"
+  },
+  {
+    "_id": {
+      "$oid": "5ecfad8b11e294194724596b"
+    },
+    "country": "Nepal",
+    "name": "Chitwan",
+    "countrySlug": "nepal",
+    "slug": "chitwan",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec394a82bc2310f7134fe49"
+    },
+    "country": "India",
+    "name": "Ahmedabad",
+    "countrySlug": "india",
+    "slug": "ahmedabad",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d14c1a2c60ce47669dd94a8"
+    },
+    "country": "New Zealand",
+    "name": "Hamilton",
+    "countrySlug": "new-zealand",
+    "slug": "hamilton",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dca385d9a94d674f215df02"
+    },
+    "country": "United States",
+    "name": "Kalamazoo (Michigan)",
+    "countrySlug": "united-states",
+    "slug": "kalamazoo",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ecfaf2e11e2941947245972"
+    },
+    "country": "Bhutan",
+    "name": "Thimphu",
+    "countrySlug": "bhutan",
+    "slug": "thimphu",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec3967b2bc2310f7134fe52"
+    },
+    "country": "India",
+    "name": "Bhopal",
+    "countrySlug": "india",
+    "slug": "bhopal",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5f030287dc108734c350cd24"
+    },
+    "country": "Egypt",
+    "name": "Giza",
+    "countrySlug": "egypt",
+    "slug": "giza",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d8effb047ce1a46fbc59cb5"
+    },
+    "country": "United States",
+    "name": "Irvine (California)",
+    "countrySlug": "united-states",
+    "slug": "irvine",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5c9c410d6ebb3b42755c90cf"
+    },
+    "country": "Germany",
+    "name": "Berlin",
+    "countrySlug": "germany",
+    "slug": "berlin",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d5bd1394e40902b9d1a3fad"
+    },
+    "country": "Canada",
+    "name": "Fredericton",
+    "enable": true,
+    "countrySlug": "canada",
+    "slug": "fredericton"
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee648dc"
+    },
+    "slug": "bangor",
+    "country": "United Kingdom",
+    "name": "Bangor",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee648a7"
+    },
+    "slug": "plymouth",
+    "country": "United Kingdom",
+    "name": "Plymouth",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d076f8dc5aa2f53b759753c"
+    },
+    "country": "Netherlands",
+    "name": "Rotterdam",
+    "enable": true,
+    "countrySlug": "netherlands",
+    "slug": "rotterdam"
+  },
+  {
+    "_id": {
+      "$oid": "5dccd14628eed75e99dc6121"
+    },
+    "country": "United States",
+    "name": "Ann Arbor (Michigan)",
+    "countrySlug": "united-states",
+    "slug": "ann-arbor",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d29b488435c42434643cc30"
+    },
+    "country": "France",
+    "name": "Angers",
+    "enable": true,
+    "countrySlug": "france",
+    "slug": "angers"
+  },
+  {
+    "_id": {
+      "$oid": "5ecf9818718f226c7278a13f"
+    },
+    "country": "India",
+    "name": "Namakkal",
+    "countrySlug": "india",
+    "slug": "namakkal",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec398722bc2310f7134fe5d"
+    },
+    "country": "India",
+    "name": "Guwahati",
+    "countrySlug": "india",
+    "slug": "guwahati",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee6509b"
+    },
+    "slug": "oxford",
+    "country": "United Kingdom",
+    "name": "Oxford (UK)",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5da98900da3c2f0c211ca0e5"
+    },
+    "country": "United States",
+    "name": "West Lafayette",
+    "countrySlug": "united-states",
+    "slug": "west-lafayette",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a6723d7015c146710719c7b"
+    },
+    "slug": "sunderland",
+    "country": "United Kingdom",
+    "name": "Sunderland",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dba9a0385a39178dfc6cb78"
+    },
+    "country": "United States",
+    "name": "Brighton (USA)",
+    "countrySlug": "united-states",
+    "slug": "brighton-usa",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dd6105b49206d0ef01d8e27"
+    },
+    "country": "United States",
+    "name": "Berkeley (California)",
+    "countrySlug": "united-states",
+    "slug": "berkeley",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee648b3"
+    },
+    "slug": "middlesbrough",
+    "country": "United Kingdom",
+    "name": "Middlesbrough",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cfdf401819b69774f0c1e34"
+    },
+    "country": "Ireland",
+    "name": "Galway",
+    "enable": true,
+    "countrySlug": "ireland",
+    "slug": "galway"
+  },
+  {
+    "_id": {
+      "$oid": "5d2493a69524e13dc8ba9e85"
+    },
+    "country": "Netherlands",
+    "name": "Delft",
+    "countrySlug": "netherlands",
+    "slug": "delft",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee650ae"
+    },
+    "slug": "leeds",
+    "country": "United Kingdom",
+    "name": "Leeds",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5f29468579125448a7f2a2fb"
+    },
+    "country": "Germany",
+    "name": "Hamburg",
+    "enable": true,
+    "countrySlug": "germany",
+    "slug": "hamburg"
+  },
+  {
+    "_id": {
+      "$oid": "5ecf9ce8718f226c7278a159"
+    },
+    "country": "India",
+    "name": "Indore",
+    "countrySlug": "india",
+    "slug": "indore",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec396a22bc2310f7134fe53"
+    },
+    "country": "India",
+    "name": "Thiruvananthapuram",
+    "countrySlug": "india",
+    "slug": "thiruvananthapuram",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a6f070270748f8d66bbd405"
+    },
+    "slug": "south-yarra",
+    "country": "Australia",
+    "name": "South Yarra",
+    "countrySlug": "australia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee65052"
+    },
+    "slug": "bunbury",
+    "country": "Australia",
+    "name": "Bunbury",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ce7d3343d2478532c8269fd"
+    },
+    "country": "Canada",
+    "name": "St. Catharines",
+    "countrySlug": "canada",
+    "slug": "st-catharines",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e1c5ce647f5b578ed72c46a"
+    },
+    "country": "Canada",
+    "name": "Thorold",
+    "enable": true,
+    "countrySlug": "canada",
+    "slug": "thorold"
+  },
+  {
+    "_id": {
+      "$oid": "5dd642609a20a02f60e9716b"
+    },
+    "country": "India",
+    "name": "Delhi",
+    "countrySlug": "india",
+    "slug": "delhi",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5dd642169a20a02f60e9716a"
+    },
+    "country": "India",
+    "name": "Pune",
+    "countrySlug": "india",
+    "slug": "pune",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5e3b9887bc29af51d5a8c03f"
+    },
+    "country": "United States",
+    "name": "Eugene (Oregon)",
+    "countrySlug": "united-states",
+    "slug": "eugene",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ec3972b2bc2310f7134fe58"
+    },
+    "country": "India",
+    "name": "Faridabad",
+    "countrySlug": "india",
+    "slug": "faridabad",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64888"
+    },
+    "slug": "wolverhampton",
+    "country": "United Kingdom",
+    "name": "Wolverhampton",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d1079b81379d04ba665d335"
+    },
+    "country": "Germany",
+    "name": "Aachen",
+    "enable": true,
+    "countrySlug": "germany",
+    "slug": "aachen"
+  },
+  {
+    "_id": {
+      "$oid": "5ddf96a5d2d510664a01860c"
+    },
+    "country": "United States",
+    "name": "Lehi",
+    "countrySlug": "united-states",
+    "slug": "lehi",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5dd63f0f9a20a02f60e9714c"
+    },
+    "country": "India",
+    "name": "Bengaluru",
+    "countrySlug": "india",
+    "slug": "bangalore",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5b3b5bdaef70a31e4ecb8b1f"
+    },
+    "country": "United States",
+    "name": "Auburn (Alabama)",
+    "countrySlug": "united-states",
+    "slug": "auburn",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65260"
+    },
+    "slug": "reading",
+    "country": "United Kingdom",
+    "name": "Reading",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ec78bad9dfb2b46659636e6"
+    },
+    "country": "India",
+    "name": "Chennai",
+    "countrySlug": "india",
+    "slug": "chennai",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5f030204dc108734c350cd23"
+    },
+    "country": "Egypt",
+    "name": "Cairo",
+    "countrySlug": "egypt",
+    "slug": "cairo",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ec397902bc2310f7134fe5a"
+    },
+    "country": "India",
+    "name": "Lucknow",
+    "countrySlug": "india",
+    "slug": "lucknow",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5ce50c9905f58630e46b5f41"
+    },
+    "country": "Canada",
+    "name": "Toronto",
+    "enable": true,
+    "countrySlug": "canada",
+    "slug": "toronto"
+  },
+  {
+    "_id": {
+      "$oid": "5a6f080d70748f8d66bbd41e"
+    },
+    "slug": "west-midlands",
+    "country": "United Kingdom",
+    "name": "West Midlands",
+    "countrySlug": "united-kingdom",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5d79d9938c9b7b55b51911ed"
+    },
+    "country": "Spain",
+    "name": "Seville",
+    "countrySlug": "spain",
+    "slug": "seville",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64c24"
+    },
+    "slug": "durham",
+    "country": "United Kingdom",
+    "name": "Durham",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5b45a5bf717c5d01d2f096d3"
+    },
+    "country": "Spain",
+    "name": "Barcelona",
+    "countrySlug": "spain",
+    "slug": "barcelona",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e37ac1e7008d0160a81fbcb"
+    },
+    "country": "United States",
+    "name": "Charlotte (North Carolina)",
+    "countrySlug": "united-states",
+    "slug": "charlotte",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dce9f99ee75e7045a770362"
+    },
+    "country": "United States",
+    "name": "Oxford (Mississippi)",
+    "countrySlug": "united-states",
+    "slug": "oxford-usa",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee648ca"
+    },
+    "slug": "cardiff",
+    "country": "United Kingdom",
+    "name": "Cardiff",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e5cb3ff3fec785f320dd19e"
+    },
+    "country": "Germany",
+    "name": "Stuttgart",
+    "countrySlug": "germany",
+    "slug": "stuttgart",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65255"
+    },
+    "slug": "southampton",
+    "country": "United Kingdom",
+    "name": "Southampton",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64dbe"
+    },
+    "slug": "adelaide",
+    "country": "Australia",
+    "name": "Adelaide",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee650b8"
+    },
+    "slug": "chester",
+    "country": "United Kingdom",
+    "name": "Chester",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee648e2"
+    },
+    "slug": "aberdeen",
+    "country": "United Kingdom",
+    "name": "Aberdeen",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e5a0dca7e0de678fa2e5a8c"
+    },
+    "country": "United Kingdom",
+    "name": "Medway",
+    "countrySlug": "united-kingdom",
+    "slug": "medway",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5de8d35aefbe761104371c60"
+    },
+    "country": "United States",
+    "name": "Tampa",
+    "countrySlug": "united-states",
+    "slug": "tampa",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dd3d24321f5c851857ee161"
+    },
+    "country": "India",
+    "name": "Noida",
+    "enable": false,
+    "countrySlug": "india",
+    "slug": "noida"
+  },
+  {
+    "_id": {
+      "$oid": "5eb6586eeb299c14e06b316c"
+    },
+    "country": "United States",
+    "name": "Starkville (Mississippi)",
+    "countrySlug": "united-states",
+    "slug": "starkville",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5f58589c285549258d0841ae"
+    },
+    "country": "Poland",
+    "name": "Krakow",
+    "countrySlug": "poland",
+    "slug": "krakow",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee65073"
+    },
+    "slug": "malvern-east",
+    "country": "Australia",
+    "name": "Malvern East",
+    "countrySlug": "australia",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5f29470979125448a7f2a2fc"
+    },
+    "country": "Germany",
+    "name": "Munster",
+    "enable": true,
+    "countrySlug": "germany",
+    "slug": "munster"
+  },
+  {
+    "_id": {
+      "$oid": "5ce3d0b60a1e2225ce2819e4"
+    },
+    "country": "Australia",
+    "name": "Cairns",
+    "countrySlug": "australia",
+    "slug": "cairns",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e1c5d4c47f5b578ed72c46b"
+    },
+    "country": "Canada",
+    "name": "Barrie",
+    "countrySlug": "canada",
+    "slug": "barrie",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee650a7"
+    },
+    "slug": "manchester",
+    "country": "United Kingdom",
+    "name": "Manchester",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ebe62b10a621860a9ec1bde"
+    },
+    "country": "United Kingdom",
+    "name": "Cheltenham",
+    "countrySlug": "united-kingdom",
+    "slug": "cheltenham",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dd664546cd5bf42423397af"
+    },
+    "country": "India",
+    "name": "Chandigarh",
+    "countrySlug": "india",
+    "slug": "chandigarh",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64899"
+    },
+    "slug": "sheffield",
+    "country": "United Kingdom",
+    "name": "Sheffield",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dce9f20ee75e7045a77035f"
+    },
+    "country": "United States",
+    "name": "Columbia (South Carolina)",
+    "countrySlug": "united-states",
+    "slug": "columbia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dce9f5bee75e7045a770361"
+    },
+    "country": "United States",
+    "name": "Fayetteville (Arkansas)",
+    "countrySlug": "united-states",
+    "slug": "fayetteville",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65276"
+    },
+    "slug": "loughborough",
+    "country": "United Kingdom",
+    "name": "Loughborough",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cb01d0110f8ed518aab7f29"
+    },
+    "country": "United Kingdom",
+    "name": "Stockton-on-Tees",
+    "countrySlug": "united-kingdom",
+    "slug": "stockton-on-tees",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e38fa5e85df225ac2b8b7d5"
+    },
+    "country": "United States",
+    "name": "Houston (Texas)",
+    "countrySlug": "united-states",
+    "slug": "houston",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d1340ff5317e43e6a515d19"
+    },
+    "country": "Netherlands",
+    "name": "Enschede",
+    "enable": false,
+    "countrySlug": "netherlands",
+    "slug": "enschede"
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65263"
+    },
+    "slug": "portsmouth",
+    "country": "United Kingdom",
+    "name": "Portsmouth",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5e00697b57c86a28a7c887ac"
+    },
+    "country": "United States",
+    "name": "San Marcos",
+    "countrySlug": "united-states",
+    "slug": "san-marcos",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5b518232d930230a4c0d76bb"
+    },
+    "country": "United States",
+    "name": "Los Angeles (California)",
+    "countrySlug": "united-states",
+    "slug": "los-angeles",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d41109c8da9fd36aadd5335"
+    },
+    "country": "United States",
+    "name": "Greenville (North Carolina)",
+    "enable": true,
+    "countrySlug": "united-states",
+    "slug": "greenville"
+  },
+  {
+    "_id": {
+      "$oid": "5e0068c257c86a28a7c887aa"
+    },
+    "country": "United States",
+    "name": "Hyattsville",
+    "countrySlug": "united-states",
+    "slug": "hyattsville",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a65fd27b0920aa9efdf5dcf"
+    },
+    "slug": "edinburgh",
+    "country": "United Kingdom",
+    "name": "Edinburgh",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee648a9"
+    },
+    "slug": "paisley",
+    "country": "United Kingdom",
+    "name": "Paisley",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5f22ab0cea834f03cf35900c"
+    },
+    "country": "United Kingdom",
+    "name": "Worcester",
+    "countrySlug": "united-kingdom",
+    "slug": "worcester",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65298"
+    },
+    "slug": "bath",
+    "country": "United Kingdom",
+    "name": "Bath",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d4ea7e8f509a942d65d13d8"
+    },
+    "country": "Netherlands",
+    "name": "Amsterdam",
+    "countrySlug": "netherlands",
+    "slug": "amsterdam",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dd664b26cd5bf42423397b4"
+    },
+    "country": "India",
+    "name": "Dehradun",
+    "countrySlug": "india",
+    "slug": "dehradun",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5f2944e779125448a7f2a2f9"
+    },
+    "country": "Germany",
+    "name": "Darmstadt",
+    "enable": true,
+    "countrySlug": "germany",
+    "slug": "darmstadt"
+  },
+  {
+    "_id": {
+      "$oid": "5e00679457c86a28a7c887a8"
+    },
+    "country": "United States",
+    "name": "Boca Raton",
+    "countrySlug": "united-states",
+    "slug": "boca-raton",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5e00690f57c86a28a7c887ab"
+    },
+    "country": "United States",
+    "name": "Murfreesboro",
+    "countrySlug": "united-states",
+    "slug": "murfreesboro",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65262"
+    },
+    "slug": "preston",
+    "country": "United Kingdom",
+    "name": "Preston",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5cf4f74048a3cb13245e306f"
+    },
+    "country": "Netherlands",
+    "name": "Tilburg",
+    "countrySlug": "netherlands",
+    "slug": "tilburg",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dd641c49a20a02f60e97169"
+    },
+    "country": "India",
+    "name": "Gurugram",
+    "countrySlug": "india",
+    "slug": "gurgaon",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64bed"
+    },
+    "slug": "derby",
+    "country": "United Kingdom",
+    "name": "Derby",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee648b7"
+    },
+    "slug": "luton",
+    "country": "United Kingdom",
+    "name": "Luton",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65237"
+    },
+    "slug": "canberra",
+    "country": "Australia",
+    "name": "Canberra",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dcea042ee75e7045a770365"
+    },
+    "country": "United States",
+    "name": "Statesboro (Georgia)",
+    "countrySlug": "united-states",
+    "slug": "statesboro",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5dce9fd8ee75e7045a770363"
+    },
+    "country": "United States",
+    "name": "Baton Rouge (Louisiana)",
+    "countrySlug": "united-states",
+    "slug": "baton-rouge",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d10cd92d3800271efe28715"
+    },
+    "country": "United States",
+    "name": "West Haven",
+    "enable": false,
+    "countrySlug": "united-states",
+    "slug": "west-haven"
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b0c"
+    },
+    "slug": "perth",
+    "country": "Australia",
+    "name": "Perth",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a67246f015c146710719e64"
+    },
+    "slug": "guildford",
+    "country": "United Kingdom",
+    "name": "Guildford",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5b459e95717c5d01d2f096cd"
+    },
+    "country": "France",
+    "name": "Paris",
+    "countrySlug": "france",
+    "slug": "paris",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5b45a0f4717c5d01d2f096cf"
+    },
+    "country": "Canada",
+    "name": "Vancouver",
+    "countrySlug": "canada",
+    "slug": "vancouver",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5f48d24e595649581d0666fe"
+    },
+    "country": "United States",
+    "name": "Cambridge (Massachusetts)",
+    "countrySlug": "united-states",
+    "slug": "cambridge-usa",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a671af9015c146710718c6e"
+    },
+    "slug": "glasgow",
+    "country": "United Kingdom",
+    "name": "Glasgow",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64e08"
+    },
+    "slug": "nottingham",
+    "country": "United Kingdom",
+    "name": "Nottingham",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d4282adf73aa6254b6833bf"
+    },
+    "country": "Netherlands",
+    "name": "Eindhoven",
+    "countrySlug": "netherlands",
+    "slug": "eindhoven",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5b45a627717c5d01d2f096d4"
+    },
+    "country": "Portugal",
+    "name": "Lisbon",
+    "countrySlug": "portugal",
+    "slug": "lisbon",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee65239"
+    },
+    "slug": "brisbane",
+    "country": "Australia",
+    "name": "Brisbane",
+    "countrySlug": "australia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a6725dc015c14671071a124"
+    },
+    "slug": "st-andrews",
+    "country": "United Kingdom",
+    "name": "St Andrews",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5ebe61e20a621860a9ec1bd6"
+    },
+    "country": "United Kingdom",
+    "name": "Gloucester",
+    "countrySlug": "united-kingdom",
+    "slug": "gloucester",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5de9d31d75867a2e548b75a0"
+    },
+    "country": "United States",
+    "name": "East Lansing (Michigan)",
+    "countrySlug": "united-states",
+    "slug": "east-lansing",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b34"
+    },
+    "slug": "york",
+    "country": "United Kingdom",
+    "name": "York",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5a609501eab2ac270ee652c2"
+    },
+    "slug": "stanley",
+    "country": "United Kingdom",
+    "name": "Stanley",
+    "countrySlug": "united-kingdom",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5e00673857c86a28a7c887a7"
+    },
+    "country": "United States",
+    "name": "Big Rapids",
+    "countrySlug": "united-states",
+    "slug": "big-rapids",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5a609500eab2ac270ee64b6b"
+    },
+    "slug": "royal-leamington-spa",
+    "country": "United Kingdom",
+    "name": "Royal Leamington Spa",
+    "countrySlug": "united-kingdom",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5d4287f0f73aa6254b6833d4"
+    },
+    "country": "Italy",
+    "name": "Naples",
+    "enable": true,
+    "countrySlug": "italy",
+    "slug": "naples"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f905c1a9e88fedf2cd69"
+    },
+    "name": "Alta Valle Intelvi",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "alta-valle-intelvi"
+  },
+  {
+    "_id": {
+      "$oid": "5d2f19473073207f4539fdba"
+    },
+    "country": "Italy",
+    "name": "Siena",
+    "countrySlug": "italy",
+    "slug": "siena",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f82dc1a9e88fedf28188"
+    },
+    "name": "Alassio",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "alassio"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2cddb"
+    },
+    "name": "Carovigno",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "carovigno"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2cdec"
+    },
+    "name": "Castiglione Falletto",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "castiglione-falletto"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2ce5d"
+    },
+    "name": "Mango",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "mango"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cec3"
+    },
+    "name": "Sanremo",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "sanremo"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4ff38c1a9e88fedf50e66"
+    },
+    "name": "Monza",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "monza"
+  },
+  {
+    "_id": {
+      "$oid": "5fa50063c1a9e88fedf57537"
+    },
+    "name": "Genova",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "genova"
+  },
+  {
+    "_id": {
+      "$oid": "5fa5018cc1a9e88fedf5eb16"
+    },
+    "name": "Seveso",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "seveso"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f905c1a9e88fedf2cd33"
+    },
+    "name": "Alba",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "alba"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2ce52"
+    },
+    "name": "Lecce",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "lecce"
+  },
+  {
+    "_id": {
+      "$oid": "5d1351bc5317e43e6a515da5"
+    },
+    "country": "Italy",
+    "name": "Pavia",
+    "enable": false,
+    "countrySlug": "italy",
+    "slug": "pavia"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2cdc2"
+    },
+    "name": "Bologna",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "bologna"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cf19"
+    },
+    "name": "Valdisotto",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "valdisotto"
+  },
+  {
+    "_id": {
+      "$oid": "5b459dde717c5d01d2f096cc"
+    },
+    "country": "Italy",
+    "name": "Milan",
+    "countrySlug": "italy",
+    "slug": "milan",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2ce31"
+    },
+    "name": "Fiumicino",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "fiumicino"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2ceab"
+    },
+    "name": "Ostuni",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "ostuni"
+  },
+  {
+    "_id": {
+      "$oid": "5d4a7fdb38947e2a73b17da6"
+    },
+    "country": "Italy",
+    "name": "Torino",
+    "countrySlug": "italy",
+    "slug": "torino",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2ceb7"
+    },
+    "name": "Rome",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "rome"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2cdd0"
+    },
+    "name": "Bormio",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "bormio"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cecf"
+    },
+    "name": "Santa Margherita Ligure",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "santa-margherita-ligure"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4feb0c1a9e88fedf4e015"
+    },
+    "name": "Roddi",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "roddi"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2ce17"
+    },
+    "name": "Como",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "como"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cf0c"
+    },
+    "name": "Valdidentro",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "valdidentro"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2ce02"
+    },
+    "name": "Cerano d'Intelvi",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "cerano-dintelvi"
+  },
+  {
+    "_id": {
+      "$oid": "5d3171cd3073207f453a02f1"
+    },
+    "country": "Italy",
+    "name": "Venice",
+    "enable": false,
+    "countrySlug": "italy",
+    "slug": "venice"
+  },
+  {
+    "_id": {
+      "$oid": "5fa501c2c1a9e88fedf60063"
+    },
+    "name": "Cernusco sul Naviglio",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "cernusco-sul-naviglio"
+  },
+  {
+    "_id": {
+      "$oid": "5cb582c3aeec7242a87f0339"
+    },
+    "country": "Italy",
+    "name": "Florence",
+    "countrySlug": "italy",
+    "slug": "florence",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f905c1a9e88fedf2cdac"
+    },
+    "name": "Argegno",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "argegno"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cee9"
+    },
+    "name": "Termoli",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "termoli"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2ce69"
+    },
+    "name": "Marone",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "marone"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cedc"
+    },
+    "name": "Siracusa",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "siracusa"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2cdf7"
+    },
+    "name": "Centro Valle Intelvi",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "centro-valle-intelvi"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2ce84"
+    },
+    "name": "Monforte d'Alba",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "monforte-dalba"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cf33"
+    },
+    "name": "Zoagli",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "zoagli"
+  },
+  {
+    "_id": {
+      "$oid": "5fa50143c1a9e88fedf5c47f"
+    },
+    "name": "Turin",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "turin"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cea0"
+    },
+    "name": "Nesso",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "nesso"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f906c1a9e88fedf2ce3d"
+    },
+    "name": "La Morra",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "la-morra"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cf28"
+    },
+    "name": "Valfurva",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "valfurva"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cef5"
+    },
+    "name": "Toscolano-Maderno",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "toscolano-maderno"
+  },
+  {
+    "_id": {
+      "$oid": "5fa4f907c1a9e88fedf2cf00"
+    },
+    "name": "Udine",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "udine"
+  },
+  {
+    "_id": {
+      "$oid": "5fbb7ed065adfc410081ca35"
+    },
+    "name": "Barbaresco",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "barbaresco"
+  },
+  {
+    "_id": {
+      "$oid": "5fbb7ed065adfc410081ca78"
+    },
+    "name": "Rapallo",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "rapallo"
+  },
+  {
+    "_id": {
+      "$oid": "5fbb7ed065adfc410081cae4"
+    },
+    "name": "Alghero",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "alghero"
+  },
+  {
+    "_id": {
+      "$oid": "5fe33823cfc05f1df2d4d7c8"
+    },
+    "name": "Cagliari",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "cagliari"
+  },
+  {
+    "_id": {
+      "$oid": "5fe33823cfc05f1df2d4d7e6"
+    },
+    "name": "Sesto San Giovanni",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "sesto-san-giovanni"
+  },
+  {
+    "_id": {
+      "$oid": "5fe33823cfc05f1df2d4d7ff"
+    },
+    "name": "Bresso",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "bresso"
+  },
+  {
+    "_id": {
+      "$oid": "5fe33823cfc05f1df2d4d812"
+    },
+    "name": "Villasanta",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "villasanta"
+  },
+  {
+    "_id": {
+      "$oid": "5fe6c490292a5f6681b5ddf6"
+    },
+    "country": "United Kingdom",
+    "name": "Falmouth and Penryn",
+    "enable": true,
+    "countrySlug": "united-kingdom",
+    "slug": "falmouth-and-penryn"
+  },
+  {
+    "_id": {
+      "$oid": "6017cc0908e3ec2b729b3157"
+    },
+    "country": "Italy",
+    "name": "Bari",
+    "countrySlug": "italy",
+    "slug": "bari",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "602f662244efaf71ad0b60f9"
+    },
+    "country": "Poland",
+    "name": "Gdańsk",
+    "countrySlug": "poland",
+    "slug": "gdansk",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6040d2eced42a83d557ff3ef"
+    },
+    "country": "Canada",
+    "name": "Kitchener",
+    "countrySlug": "canada",
+    "slug": "kitchener",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "604ae180dbd4cb73f6e6f2aa"
+    },
+    "country": "Spain",
+    "name": "Salamanca",
+    "countrySlug": "spain",
+    "slug": "salamanca",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "604ae26cdbd4cb73f6e6f2ab"
+    },
+    "country": "Spain",
+    "name": "Oviedo",
+    "countrySlug": "spain",
+    "slug": "oviedo",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "609119b0e47e3f71cbed7c91"
+    },
+    "name": "Lampedusa e Linosa",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "slug": "lampedusa-e-linosa"
+  },
+  {
+    "_id": {
+      "$oid": "609119b0e47e3f71cbed7caf"
+    },
+    "name": "Castellammare del Golfo",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "castellammare-del-golfo"
+  },
+  {
+    "_id": {
+      "$oid": "609119b0e47e3f71cbed7cd2"
+    },
+    "name": "Alcamo",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "alcamo"
+  },
+  {
+    "_id": {
+      "$oid": "609119b0e47e3f71cbed7cfc"
+    },
+    "name": "Livorno",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "livorno"
+  },
+  {
+    "_id": {
+      "$oid": "609119b0e47e3f71cbed7d17"
+    },
+    "name": "Cervo",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "cervo"
+  },
+  {
+    "_id": {
+      "$oid": "609b840b98e6ae21793b793f"
+    },
+    "name": "Gallipoli",
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": true,
+    "slug": "gallipoli"
+  },
+  {
+    "_id": {
+      "$oid": "60abb93125c36484593ff0bd"
+    },
+    "name": "Salford",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "enable": true,
+    "slug": "salford"
+  },
+  {
+    "_id": {
+      "$oid": "60e3bc7ea1f8ebad9448a43d"
+    },
+    "name": "Rochester (New York)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "rochester"
+  },
+  {
+    "_id": {
+      "$oid": "60e690a6fbcac9cfde62f4d7"
+    },
+    "name": "Winnipeg",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "winnipeg"
+  },
+  {
+    "_id": {
+      "$oid": "60e699ecfbcac9cfde62f5c8"
+    },
+    "name": "Waterloo",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "waterloo"
+  },
+  {
+    "_id": {
+      "$oid": "60e6a10bfbcac9cfde62f66a"
+    },
+    "name": "Hamilton",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "hamilton-2"
+  },
+  {
+    "_id": {
+      "$oid": "60e6acf6760c13dd2cb17946"
+    },
+    "name": "Peterborough",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "peterborough"
+  },
+  {
+    "_id": {
+      "$oid": "60e6b061760c13dd2cb179db"
+    },
+    "name": "Edmonton",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "edmonton"
+  },
+  {
+    "_id": {
+      "$oid": "610292cc5b96945fca5cb38a"
+    },
+    "name": "Aranjuez",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "enable": false,
+    "slug": "aranjuez"
+  },
+  {
+    "_id": {
+      "$oid": "610a0d5cbd31c3cb8a6e1f6a"
+    },
+    "name": "Pamplona",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "enable": true,
+    "slug": "pamplona"
+  },
+  {
+    "_id": {
+      "$oid": "610a5ad3c81d71d69fa65546"
+    },
+    "name": "Bormujos",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "enable": true,
+    "slug": "bormujos"
+  },
+  {
+    "_id": {
+      "$oid": "6114f18a6328a3565d34d32b"
+    },
+    "name": "Pullman (Washington)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "pullman"
+  },
+  {
+    "_id": {
+      "$oid": "6127aff86ff0075ba8ee3cca"
+    },
+    "name": "Kelowna",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": false,
+    "slug": "kelowna"
+  },
+  {
+    "_id": {
+      "$oid": "6127b38f6ff0075ba8ee3cd1"
+    },
+    "name": "Prince George",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "prince-george"
+  },
+  {
+    "_id": {
+      "$oid": "6129144d86d3f78765a73ccb"
+    },
+    "name": "Burgos",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "enable": true,
+    "slug": "burgos"
+  },
+  {
+    "_id": {
+      "$oid": "612dd7b389d515bc6addbb44"
+    },
+    "name": "Leipzig",
+    "countrySlug": "germany",
+    "country": "Germany",
+    "enable": true,
+    "slug": "leipzig"
+  },
+  {
+    "_id": {
+      "$oid": "612dd7ef89d515bc6addbb46"
+    },
+    "name": "Potsdam",
+    "countrySlug": "germany",
+    "country": "Germany",
+    "enable": true,
+    "slug": "potsdam"
+  },
+  {
+    "_id": {
+      "$oid": "612dd82589d515bc6addbb48"
+    },
+    "name": "Katowice",
+    "countrySlug": "poland",
+    "country": "Poland",
+    "enable": false,
+    "slug": "katowice"
+  },
+  {
+    "_id": {
+      "$oid": "612dd92689d515bc6addbb55"
+    },
+    "name": "Łódź",
+    "countrySlug": "poland",
+    "country": "Poland",
+    "enable": false,
+    "slug": "lodz"
+  },
+  {
+    "_id": {
+      "$oid": "614362e1e0088110d7de6ad5"
+    },
+    "name": "Lyngby",
+    "countrySlug": "denmark",
+    "country": "Denmark",
+    "enable": false,
+    "slug": "lyngby"
+  },
+  {
+    "_id": {
+      "$oid": "614363a3e0088110d7de6ad6"
+    },
+    "name": "Copenhagen",
+    "countrySlug": "denmark",
+    "country": "Denmark",
+    "enable": true,
+    "slug": "copenhagen"
+  },
+  {
+    "_id": {
+      "$oid": "6176665a0e73d0df61487d7c"
+    },
+    "name": "Burnaby",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "burnaby"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d07756b258ffb9bd4cc7"
+    },
+    "name": "Fort Collins (Colorado)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "fort-collins"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d0a256b258ffb9bd4cc8"
+    },
+    "name": "Lancaster",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "lancaster-2"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d0d156b258ffb9bd4cc9"
+    },
+    "name": "Athens (Georgia)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "athens"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d11a56b258ffb9bd4ccb"
+    },
+    "name": "Atlanta (Georgia)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "atlanta"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d13b56b258ffb9bd4ccc"
+    },
+    "name": "Orlando (Florida)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "orlando-2"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d15f56b258ffb9bd4ccd"
+    },
+    "name": "Durham (North Carolina)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "durham-2"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d1b456b258ffb9bd4cd0"
+    },
+    "name": "Lafayette (Louisiana)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "lafayette"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d1d756b258ffb9bd4cd1"
+    },
+    "name": "Riverside (California)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "riverside"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d1fb56b258ffb9bd4cd2"
+    },
+    "name": "Decatur (Georgia)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "decatur"
+  },
+  {
+    "_id": {
+      "$oid": "61a0d21f56b258ffb9bd4cd3"
+    },
+    "name": "Syracuse",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "syracuse"
+  },
+  {
+    "_id": {
+      "$oid": "61a491eb56b258ffb9bd5863"
+    },
+    "name": "Richmond",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "enable": true,
+    "slug": "richmond"
+  },
+  {
+    "_id": {
+      "$oid": "61b02e564478747c00c8d80f"
+    },
+    "name": "Somerville (Massachusetts)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "somerville"
+  },
+  {
+    "_id": {
+      "$oid": "62023add2b594fa6bb93b7f7"
+    },
+    "name": "Northampton",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "enable": true,
+    "slug": "northampton"
+  },
+  {
+    "_id": {
+      "$oid": "6204d685994ebde3ad433438"
+    },
+    "name": "Courtenay",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": false,
+    "slug": "courtenay"
+  },
+  {
+    "_id": {
+      "$oid": "6204dbbb994ebde3ad43344a"
+    },
+    "name": "Calgary",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "calgary"
+  },
+  {
+    "_id": {
+      "$oid": "6204de29994ebde3ad433451"
+    },
+    "name": "Penticton",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "penticton"
+  },
+  {
+    "_id": {
+      "$oid": "6204e033994ebde3ad43345a"
+    },
+    "name": "Vemon",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": false,
+    "slug": "vemon"
+  },
+  {
+    "_id": {
+      "$oid": "6204e341994ebde3ad433462"
+    },
+    "name": "Chilliwack",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "chilliwack"
+  },
+  {
+    "_id": {
+      "$oid": "6204e5e7994ebde3ad43346f"
+    },
+    "name": "New Westminster",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "new-westminster"
+  },
+  {
+    "_id": {
+      "$oid": "620f9d18ae8bb98f63298abf"
+    },
+    "name": "Bellingham (Washington)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "bellingham"
+  },
+  {
+    "_id": {
+      "$oid": "620f9ec8ae8bb98f63298ace"
+    },
+    "name": "Denver (Colorado)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "denver"
+  },
+  {
+    "_id": {
+      "$oid": "620f9ffbae8bb98f63298ad2"
+    },
+    "name": "Lincoln",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "nebraska"
+  },
+  {
+    "_id": {
+      "$oid": "620fa095ae8bb98f63298ad3"
+    },
+    "name": "Lincoln (Nebraska)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "lincoln-2"
+  },
+  {
+    "_id": {
+      "$oid": "621498b747b90fb6c75359a3"
+    },
+    "name": "Abbotsford",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "abbotsford"
+  },
+  {
+    "_id": {
+      "$oid": "6214996547b90fb6c75359ac"
+    },
+    "name": "Surrey",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "surrey"
+  },
+  {
+    "_id": {
+      "$oid": "62149abe47b90fb6c7535aa2"
+    },
+    "name": "Saskatoon",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "saskatoon"
+  },
+  {
+    "_id": {
+      "$oid": "62149be647b90fb6c7535abd"
+    },
+    "name": "Cochrane (Alberta)",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "cochrane"
+  },
+  {
+    "_id": {
+      "$oid": "62149d3a47b90fb6c7535acf"
+    },
+    "name": "Fort Saskatchewan",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "fort-saskatchewan"
+  },
+  {
+    "_id": {
+      "$oid": "62149de947b90fb6c7535ad7"
+    },
+    "name": "Lethbridge",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "lethbridge"
+  },
+  {
+    "_id": {
+      "$oid": "62149ed147b90fb6c7535ae6"
+    },
+    "name": "Regina",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "regina"
+  },
+  {
+    "_id": {
+      "$oid": "62149f7b47b90fb6c7535af2"
+    },
+    "name": "Airdrie",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "airdrie"
+  },
+  {
+    "_id": {
+      "$oid": "6214a02847b90fb6c7535afb"
+    },
+    "name": "Kamloops",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "kamloops"
+  },
+  {
+    "_id": {
+      "$oid": "6221ba53dd1620e7d22d72e8"
+    },
+    "name": "Mobile (Alabama)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "mobile"
+  },
+  {
+    "_id": {
+      "$oid": "6221bbc3dd1620e7d22d72f3"
+    },
+    "name": "Huntsville",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "hunstville"
+  },
+  {
+    "_id": {
+      "$oid": "622eea44dd1620e7d22dc13c"
+    },
+    "name": "Charleston",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "charleston"
+  },
+  {
+    "_id": {
+      "$oid": "622ef096dd1620e7d22dc1c9"
+    },
+    "name": "Sacramento (California)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "sacramento"
+  },
+  {
+    "_id": {
+      "$oid": "622ef1cfdd1620e7d22dc1d6"
+    },
+    "name": "Cincinnati (Ohio)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "cincinnati"
+  },
+  {
+    "_id": {
+      "$oid": "622f0df5dd1620e7d22dc2e4"
+    },
+    "name": "Columbus (Ohio)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "columbus"
+  },
+  {
+    "_id": {
+      "$oid": "622f126add1620e7d22dc33a"
+    },
+    "name": "Indianapolis (Indiana)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "indianapolis"
+  },
+  {
+    "_id": {
+      "$oid": "622f135bdd1620e7d22dc345"
+    },
+    "name": "Lubbock (Texas)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "lubbock"
+  },
+  {
+    "_id": {
+      "$oid": "622f1479dd1620e7d22dc35a"
+    },
+    "name": "Daytona Beach",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "daytona-beach"
+  },
+  {
+    "_id": {
+      "$oid": "622f1767dd1620e7d22dc385"
+    },
+    "name": "Colorado Springs (Colorado)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "colorado-springs"
+  },
+  {
+    "_id": {
+      "$oid": "622f1a80dd1620e7d22dc397"
+    },
+    "name": "Johnson City (Tennessee)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "johnson-city"
+  },
+  {
+    "_id": {
+      "$oid": "622f1bb4dd1620e7d22dc3aa"
+    },
+    "name": "Birmingham (Alabama)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "birmingham-2"
+  },
+  {
+    "_id": {
+      "$oid": "622f218bdd1620e7d22dc3cb"
+    },
+    "name": "Salamanca",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "enable": false,
+    "slug": "salamanca-2"
+  },
+  {
+    "_id": {
+      "$oid": "622f2592dd1620e7d22dc3ea"
+    },
+    "name": "Lyon",
+    "countrySlug": "france",
+    "country": "France",
+    "enable": true,
+    "slug": "lyon"
+  },
+  {
+    "_id": {
+      "$oid": "622f2789dd1620e7d22dc3fd"
+    },
+    "name": "Toulouse",
+    "countrySlug": "france",
+    "country": "France",
+    "enable": true,
+    "slug": "toulouse"
+  },
+  {
+    "_id": {
+      "$oid": "622f28b8dd1620e7d22dc401"
+    },
+    "name": "Nantes",
+    "countrySlug": "france",
+    "country": "France",
+    "enable": true,
+    "slug": "nantes"
+  },
+  {
+    "_id": {
+      "$oid": "622f29bcdd1620e7d22dc404"
+    },
+    "name": "Grenoble",
+    "countrySlug": "france",
+    "country": "France",
+    "enable": true,
+    "slug": "grenoble"
+  },
+  {
+    "_id": {
+      "$oid": "622f2b0add1620e7d22dc406"
+    },
+    "name": "Dijon",
+    "countrySlug": "france",
+    "country": "France",
+    "enable": true,
+    "slug": "dijon"
+  },
+  {
+    "_id": {
+      "$oid": "6239c396dd1620e7d22ddfd6"
+    },
+    "name": "Essex",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "enable": false,
+    "slug": "essex"
+  },
+  {
+    "_id": {
+      "$oid": "6239ca27dd1620e7d22de01c"
+    },
+    "name": "Alston",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "enable": true,
+    "slug": "alston"
+  },
+  {
+    "_id": {
+      "$oid": "623c7098dd1620e7d22defc3"
+    },
+    "name": "Flint",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "flint"
+  },
+  {
+    "_id": {
+      "$oid": "624eb5c2dd1620e7d22e4c48"
+    },
+    "name": "Vernon",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": false,
+    "slug": "vernon"
+  },
+  {
+    "_id": {
+      "$oid": "62838c3f8f07bf571a3ca686"
+    },
+    "name": "Coimbra",
+    "countrySlug": "portugal",
+    "country": "Portugal",
+    "enable": true,
+    "slug": "coimbra"
+  },
+  {
+    "_id": {
+      "$oid": "62860b0d0abd577459b3730e"
+    },
+    "name": "Bilbao",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "enable": true,
+    "slug": "bilbao"
+  },
+  {
+    "_id": {
+      "$oid": "62860fb50abd577459b37338"
+    },
+    "name": "Donostia-San Sebastian",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "enable": true,
+    "slug": "donostia-san-sebastian"
+  },
+  {
+    "_id": {
+      "$oid": "6289fa4a0abd577459b37b4f"
+    },
+    "name": "Granada",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "enable": true,
+    "slug": "granada"
+  },
+  {
+    "_id": {
+      "$oid": "628c96bc0abd577459b3825b"
+    },
+    "name": "Townsville",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "enable": true,
+    "slug": "townsville"
+  },
+  {
+    "_id": {
+      "$oid": "6298a17ee42eacbaf6ad55f0"
+    },
+    "name": "Ashfield",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "enable": false,
+    "slug": "ashfield"
+  },
+  {
+    "_id": {
+      "$oid": "629a0da42adc7a7074564629"
+    },
+    "name": "Malaga",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "enable": true,
+    "slug": "malaga"
+  },
+  {
+    "_id": {
+      "$oid": "629f295a0306315e6979cf87"
+    },
+    "name": "Ames (Iowa)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "ames"
+  },
+  {
+    "_id": {
+      "$oid": "629f2a6b0306315e6979cf90"
+    },
+    "name": "Blacksburg (Virginia)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "blacksburg"
+  },
+  {
+    "_id": {
+      "$oid": "629f314a3106c368a0036e96"
+    },
+    "name": "Bowling Green",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "bowling-green"
+  },
+  {
+    "_id": {
+      "$oid": "629f3282ca33f769c54300a3"
+    },
+    "name": "Cayce (South Carolina)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "cayce"
+  },
+  {
+    "_id": {
+      "$oid": "629f3579bb40a56dfca8d8eb"
+    },
+    "name": "Gainesville (Florida)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "gainesville"
+  },
+  {
+    "_id": {
+      "$oid": "629f36823fbf606f59eaac6c"
+    },
+    "name": "Greensboro (North Carolina)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "greensboro"
+  },
+  {
+    "_id": {
+      "$oid": "629f3795a8ba2570c143a22b"
+    },
+    "name": "Laramie",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "laramie"
+  },
+  {
+    "_id": {
+      "$oid": "629f389a1ce9de7251395037"
+    },
+    "name": "Minneapolis (Minnesota)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "minneapolis"
+  },
+  {
+    "_id": {
+      "$oid": "629f3b3cf87a4174a0afa08a"
+    },
+    "name": "Mount Pleasant (Michigan)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "mt-pleasant"
+  },
+  {
+    "_id": {
+      "$oid": "629f3c32824409767c219aa0"
+    },
+    "name": "Norman",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "norman"
+  },
+  {
+    "_id": {
+      "$oid": "629f3d2bcca74c770e74d214"
+    },
+    "name": "Stillwater (Oklahoma)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "stillwater"
+  },
+  {
+    "_id": {
+      "$oid": "629f3decf1fa2c78b3de615f"
+    },
+    "name": "Towson",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "towson"
+  },
+  {
+    "_id": {
+      "$oid": "629f3ec9f1fa2c78b3de6162"
+    },
+    "name": "Willington",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "wilmington"
+  },
+  {
+    "_id": {
+      "$oid": "62a0aa92261897e9f1dc05d0"
+    },
+    "name": "South Carolina",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "south-carolina"
+  },
+  {
+    "_id": {
+      "$oid": "62bd6db620399d825ced6fa5"
+    },
+    "name": "Scarborough",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "scarborough"
+  },
+  {
+    "_id": {
+      "$oid": "62c6c1b2894e5502899e536d"
+    },
+    "name": "Mississippi",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "mississippi"
+  },
+  {
+    "_id": {
+      "$oid": "62c6c39f894e5502899e5377"
+    },
+    "name": "University Park",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "university-park"
+  },
+  {
+    "_id": {
+      "$oid": "62cbe14e8c5cc63203564a1e"
+    },
+    "name": "CBD",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "cbd"
+  },
+  {
+    "_id": {
+      "$oid": "62cbec6b8c5cc63203564b65"
+    },
+    "name": "Pasir Panjang",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "pasir-panjang"
+  },
+  {
+    "_id": {
+      "$oid": "62cbf3278c5cc63203564bdc"
+    },
+    "name": "Jurong East",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "jurong-east"
+  },
+  {
+    "_id": {
+      "$oid": "62cbfbd28c5cc63203564d6b"
+    },
+    "name": "Paya Lebar",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "paya-lebar"
+  },
+  {
+    "_id": {
+      "$oid": "62cc02ab8c5cc63203564dc4"
+    },
+    "name": "Farnham",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "enable": true,
+    "slug": "farnham"
+  },
+  {
+    "_id": {
+      "$oid": "62cc05158c5cc63203564de6"
+    },
+    "name": "Aljunied",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "aljunied"
+  },
+  {
+    "_id": {
+      "$oid": "62cc18698c5cc63203564f92"
+    },
+    "name": "Geylang",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "geylang"
+  },
+  {
+    "_id": {
+      "$oid": "62cd1fff8c5cc63203565601"
+    },
+    "name": "Queenstown",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "queenstown"
+  },
+  {
+    "_id": {
+      "$oid": "62cd2d798c5cc63203565726"
+    },
+    "name": "Pittsburgh (Pennsylvania)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "pittsburgh"
+  },
+  {
+    "_id": {
+      "$oid": "62cd2e208c5cc63203565734"
+    },
+    "name": "San Diego (California)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "san-diego"
+  },
+  {
+    "_id": {
+      "$oid": "62cd37978c5cc632035657a7"
+    },
+    "name": "Princeton",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "princeton"
+  },
+  {
+    "_id": {
+      "$oid": "62cd382d8c5cc632035657a8"
+    },
+    "name": "Newark (New Jersey)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "newark"
+  },
+  {
+    "_id": {
+      "$oid": "62cd38c98c5cc632035657a9"
+    },
+    "name": "South Orange (New Jersey)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "south-orange"
+  },
+  {
+    "_id": {
+      "$oid": "62cd3aa48c5cc632035657c4"
+    },
+    "name": "Montclair (New Jersey)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "montclair"
+  },
+  {
+    "_id": {
+      "$oid": "62cd3b5c8c5cc632035657c5"
+    },
+    "name": "West Long Branch",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "west-long-branch"
+  },
+  {
+    "_id": {
+      "$oid": "62cd3bd68c5cc632035657c6"
+    },
+    "name": "Glassboro (New Jersey)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "glassboro"
+  },
+  {
+    "_id": {
+      "$oid": "62cd43838c5cc632035657d1"
+    },
+    "name": "Teaneck",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "teaneck"
+  },
+  {
+    "_id": {
+      "$oid": "62cd44148c5cc63203565801"
+    },
+    "name": "Hoboken",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "hoboken"
+  },
+  {
+    "_id": {
+      "$oid": "62cd45d08c5cc63203565813"
+    },
+    "name": "New Brunswick (New Jersey)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "new-brunswick"
+  },
+  {
+    "_id": {
+      "$oid": "62cd46448c5cc63203565815"
+    },
+    "name": "Clementi",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "clementi"
+  },
+  {
+    "_id": {
+      "$oid": "62cd465c8c5cc6320356581b"
+    },
+    "name": "Camden",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "camden"
+  },
+  {
+    "_id": {
+      "$oid": "62cd46fb8c5cc63203565823"
+    },
+    "name": "Piscataway",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "piscataway"
+  },
+  {
+    "_id": {
+      "$oid": "62cd48748c5cc6320356582c"
+    },
+    "name": "Jersey City (New Jersey)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "new-jersey-city"
+  },
+  {
+    "_id": {
+      "$oid": "62ce8b6a8c5cc63203566121"
+    },
+    "name": "Farrer Park",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "farrer-park"
+  },
+  {
+    "_id": {
+      "$oid": "62ce96a78c5cc6320356622d"
+    },
+    "name": "Novena Balestier",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "enable": false,
+    "slug": "novena-balestier"
+  },
+  {
+    "_id": {
+      "$oid": "62d6558c9e7caa296e4443b7"
+    },
+    "name": "Cleveland (Ohio)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "cleveland"
+  },
+  {
+    "_id": {
+      "$oid": "62da8aaa4db347329abfdb5a"
+    },
+    "name": "Wichita",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "wichita"
+  },
+  {
+    "_id": {
+      "$oid": "62e8b55caa6a0fa561e72343"
+    },
+    "name": "Dayton (Ohio)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "dayton"
+  },
+  {
+    "_id": {
+      "$oid": "62e8b727aa6a0fa561e7236a"
+    },
+    "name": "Rocklin",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "rocklin"
+  },
+  {
+    "_id": {
+      "$oid": "62e8bb65aa6a0fa561e72394"
+    },
+    "name": "North York",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": true,
+    "slug": "north-york"
+  },
+  {
+    "_id": {
+      "$oid": "62e8bdfdaa6a0fa561e723a5"
+    },
+    "name": "Orange County",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "orange-county"
+  },
+  {
+    "_id": {
+      "$oid": "62e8e838aa6a0fa561e7266c"
+    },
+    "name": "Miami",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "miami"
+  },
+  {
+    "_id": {
+      "$oid": "62f5c776cbd758eeb2b1d284"
+    },
+    "name": "Baltimore (Maryland)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "baltimore"
+  },
+  {
+    "_id": {
+      "$oid": "6303245876fb4cab0d04598d"
+    },
+    "name": "Scranton",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "scranton"
+  },
+  {
+    "_id": {
+      "$oid": "6305c9ef76fb4cab0d046f31"
+    },
+    "name": "Ithaca (New York)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "ithaca"
+  },
+  {
+    "_id": {
+      "$oid": "6307427e76fb4cab0d047d12"
+    },
+    "name": "Savannah (Georgia)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": true,
+    "slug": "savannah"
+  },
+  {
+    "_id": {
+      "$oid": "630752c776fb4cab0d048350"
+    },
+    "name": "Newfoundland",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "enable": false,
+    "slug": "newfoundland"
+  },
+  {
+    "_id": {
+      "$oid": "630763a076fb4cab0d04855f"
+    },
+    "name": "Missouri",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "enable": false,
+    "slug": "missouri"
+  },
+  {
+    "_id": {
+      "$oid": "630a258bc3f90731a35ff4b0"
+    },
+    "name": "default test",
+    "countrySlug": "spain",
+    "country": "Spain",
+    "slug": "autonomous-university-of-barcelona",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a26a0c3f90731a35ff4ec"
+    },
+    "name": "default test",
+    "countrySlug": "germany",
+    "country": "Germany",
+    "slug": "-technical-university-of-munich",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a26d9c3f90731a35ff4f9"
+    },
+    "name": "fdefault test",
+    "countrySlug": "united-arab-emirates",
+    "country": "United Arab Emirates",
+    "slug": "al-ghurair-university",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a279fc3f90731a35ff516"
+    },
+    "name": "default test",
+    "countrySlug": "united-arab-emirates",
+    "country": "United Arab Emirates",
+    "slug": "university-of-wollongong-in-dubai",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a2870c3f90731a35ff531"
+    },
+    "name": "default test",
+    "countrySlug": "united-arab-emirates",
+    "country": "United Arab Emirates",
+    "slug": "alfalah-university",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a28e7c3f90731a35ff53c"
+    },
+    "name": "default",
+    "countrySlug": "united-arab-emirates",
+    "country": "United Arab Emirates",
+    "slug": "university-of-wollongong-in-dubai-2",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a2928c3f90731a35ff563"
+    },
+    "name": "default test",
+    "countrySlug": "united-arab-emirates",
+    "country": "United Arab Emirates",
+    "slug": "zayed-university",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a29a8c3f90731a35ff585"
+    },
+    "name": "default test",
+    "countrySlug": "switzerland",
+    "country": "Switzerland",
+    "slug": "university-of-neuchatel",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a29efc3f90731a35ff5ff"
+    },
+    "name": "default test",
+    "countrySlug": "south-korea",
+    "country": "South Korea",
+    "slug": "sungkyunkwan-university",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a2a1bc3f90731a35ff619"
+    },
+    "name": "default test",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "slug": "singapore-management-university",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a2a44c3f90731a35ff626"
+    },
+    "name": "default",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "slug": "singapore-university-of-technology-and-designs",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a2a6bc3f90731a35ff635"
+    },
+    "name": "default",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "slug": "nanyang-technological-university",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630a2a91c3f90731a35ff642"
+    },
+    "name": "default test",
+    "countrySlug": "singapore",
+    "country": "Singapore",
+    "slug": "national-university-of-singapore",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "630cbe3acdab48470ea35bcf"
+    },
+    "name": "Carcavelos",
+    "countrySlug": "portugal",
+    "country": "Portugal",
+    "slug": "carcavelos",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "630cc001cdab48470ea35e11"
+    },
+    "name": "Brooklyn",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "brooklyn",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6315d09f839139acc891f971"
+    },
+    "name": "Aarhus",
+    "countrySlug": "denmark",
+    "country": "Denmark",
+    "slug": "aarhus",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6315d222839139acc891fb62"
+    },
+    "name": "Aalborg",
+    "countrySlug": "denmark",
+    "country": "Denmark",
+    "slug": "aalborg",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6315d383839139acc891fd1a"
+    },
+    "name": "Saint-Aubin",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "saint-aubin",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "6315d45d839139acc891fdd2"
+    },
+    "name": "Saint-Martin-d'Heres",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "saint-martin-d-heres",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "6315d4e9839139acc891fe0e"
+    },
+    "name": "Neuchatel",
+    "countrySlug": "switzerland",
+    "country": "Switzerland",
+    "slug": "neuchatel",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63183be4839139acc8939246"
+    },
+    "name": "Newcastle-under-Lyme",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "slug": "newcastle-under-lyme",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6328556c820811b691406b4b"
+    },
+    "name": "Langley",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "langley",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6333e9c8820811b69156bad6"
+    },
+    "name": "Thornhill",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "thornhill",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63345beba61e65457ffb9bfd"
+    },
+    "name": "Oakland (California)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "oakland",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "634916b0c96c6e1c5f8404e4"
+    },
+    "name": "Basel",
+    "countrySlug": "switzerland",
+    "country": "Switzerland",
+    "slug": "basel",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63512951a76ff922c78f24d8"
+    },
+    "name": "Quincy",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "quincy",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "635791b4a76ff922c7939290"
+    },
+    "name": "Guelph",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "guelph",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6357937aa76ff922c7939806"
+    },
+    "name": "Mississauga",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "mississauga",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "635793e7a76ff922c79399ae"
+    },
+    "name": "Stratford",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "stratford",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "6357943fa76ff922c7939bce"
+    },
+    "name": "Trenton",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "trenton",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63579477a76ff922c7939c99"
+    },
+    "name": "Burlington",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "burlington",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "635794daa76ff922c7939d24"
+    },
+    "name": "Grimsby",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "grimsby",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "635796d1a76ff922c793a395"
+    },
+    "name": "London (Canada)",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "london-canada",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "635797a7a76ff922c793a6fa"
+    },
+    "name": "Oakville",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "oakville",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6357989da76ff922c793ab32"
+    },
+    "name": "Aylmer",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "aylmer",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "635798dda76ff922c793ad8d"
+    },
+    "name": "Brossard",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "brossard",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "6368d18c71919c1c72e78f85"
+    },
+    "name": "Newcastle",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "newcastle-2",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "636a26d0effafbe4ce4e11ba"
+    },
+    "name": "Peterborough (UK)",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "enable": true,
+    "slug": "peterborough-uk"
+  },
+  {
+    "_id": {
+      "$oid": "636b3b8fa3159f6e87eaba78"
+    },
+    "name": "South Bend (Indiana)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "south-bend",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "636c9884bdf7b540cc746b60"
+    },
+    "name": "Ambleside",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "slug": "ambleside",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "6377385dbdf7b540cc87f505"
+    },
+    "name": "Charlottetown",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "charlottetown",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63785f80bdf7b540cc899a3b"
+    },
+    "name": "Thunderbay",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "thunderbay",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "637db2f182268ee2e4231472"
+    },
+    "name": "Springfield",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "springfield",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "637dc21482268ee2e42355ec"
+    },
+    "name": "Bingen",
+    "countrySlug": "germany",
+    "country": "Germany",
+    "slug": "bingen",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "638047d782268ee2e4283b67"
+    },
+    "name": "Worcester",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "worcester-2",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "638061ec82268ee2e428c16e"
+    },
+    "name": "Stamford",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "stamford",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6384421d82268ee2e42e20da"
+    },
+    "name": "Denton (Texas)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "denton",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "638592f382268ee2e4309be5"
+    },
+    "name": "Seattle (Washington)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "seattle",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "638737a782268ee2e433e3ef"
+    },
+    "name": "Vienna",
+    "countrySlug": "austria",
+    "country": "Austria",
+    "slug": "vienna",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6389d294807000a4e6f40789"
+    },
+    "name": "Gzira",
+    "countrySlug": "malta",
+    "country": "Malta",
+    "slug": "gzira",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6389d3da807000a4e6f40c16"
+    },
+    "name": "Swieqi",
+    "countrySlug": "malta",
+    "country": "Malta",
+    "slug": "swieqi",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6389d491807000a4e6f40f3d"
+    },
+    "name": "Ta Xbiex",
+    "countrySlug": "malta",
+    "country": "Malta",
+    "slug": "ta-xbiex",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6389d5a8807000a4e6f41511"
+    },
+    "name": "Sliema",
+    "countrySlug": "malta",
+    "country": "Malta",
+    "slug": "sliema",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "638b17f1807000a4e6f621bc"
+    },
+    "name": "Burnley",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "slug": "burnley",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "639845b05f1415fc7ba15883"
+    },
+    "name": "Bridgewater",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "bridgewater",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63a1b2aabc2e0efb2e661ee6"
+    },
+    "name": "Oxford (Ohio)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "oxford-ohio",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63a2d29cbc2e0efb2e677a75"
+    },
+    "name": "Arlington (Texas)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "arlington",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63a2e72cbc2e0efb2e67af02"
+    },
+    "name": "Richmond (Virginia)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "richmond-2",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63a30586b521642e15bbabb7"
+    },
+    "name": "Harrisonburg (Virginia)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "harrisonburg",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63aeaed6b521642e15cd0075"
+    },
+    "name": "Tempe (Arizona)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "tempe",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63aebe8ab521642e15cd765e"
+    },
+    "name": "Gaillard",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "gaillard",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63b544b4b521642e15d4a079"
+    },
+    "name": "Thousand Oaks ( California)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "thousand-oaks",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63b66670b521642e15d9716c"
+    },
+    "name": "Milton Keynes",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "slug": "milton-keynes",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63b7ff7cb521642e15ddf955"
+    },
+    "name": "Kent",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "kent",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63b92a3bb521642e15dec80d"
+    },
+    "name": "Flagstaff (Arizona)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "flagstaff",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63b94f45b521642e15df51ce"
+    },
+    "name": "Groningen",
+    "countrySlug": "netherlands",
+    "country": "Netherlands",
+    "slug": "groningen",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63ca88c771fa6db3a19ca290"
+    },
+    "name": "Santa Cruz (California)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "santa-cruz",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63cbd3a171fa6db3a19ea38d"
+    },
+    "name": "Shepparton",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "shepparton",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63cbd6c771fa6db3a19ea8c2"
+    },
+    "name": "Ballarat",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "ballarat",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63cbd90371fa6db3a19eaf02"
+    },
+    "name": "Bendigo",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "bendigo",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63cbdcd671fa6db3a19eb487"
+    },
+    "name": "Albury",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "albury",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63cbdf4271fa6db3a19eb845"
+    },
+    "name": "Mildura",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "mildura",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63cbdf9d71fa6db3a19eb85c"
+    },
+    "name": "Wodonga",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "wodonga",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63cbe13c71fa6db3a19eb9ad"
+    },
+    "name": "Melton",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "melton",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63ce7cb371fa6db3a1a2794b"
+    },
+    "name": "Bundoora",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "bundoora",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63d10b8971fa6db3a1a9468c"
+    },
+    "name": "Massachusetts",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "massachusetts",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63db6da571fa6db3a1c1a966"
+    },
+    "name": "Sra. da Hora",
+    "countrySlug": "portugal",
+    "country": "Portugal",
+    "slug": "sra-da-hora",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e20a0e2c08937c665bffdd"
+    },
+    "name": "Pierre-Bénite",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "pierre-benite",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e20b552c08937c665c080b"
+    },
+    "name": "Épinay-sur-Seine",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "epinay-sur-seine",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e20ba42c08937c665c0bcf"
+    },
+    "name": "Noisy-le-Sec",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "noisy-le-sec",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e20c2d2c08937c665c0e5e"
+    },
+    "name": "Clichy",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "clichy",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e20c832c08937c665c107e"
+    },
+    "name": "Nice",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "nice",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e20d132c08937c665c165b"
+    },
+    "name": "Evry Courcouronnes",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "evry-courcouronnes",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e219702c08937c665c66eb"
+    },
+    "name": "Villeneuve La Garenne",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "villeneuve-la-garenne",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e219a72c08937c665c6797"
+    },
+    "name": "Creteil",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "creteil",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e219eb2c08937c665c6915"
+    },
+    "name": "Thiais",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "thiais",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21a172c08937c665c691e"
+    },
+    "name": "Cannes",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "cannes",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21a532c08937c665c6ac2"
+    },
+    "name": "Argenteuil",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "argenteuil",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21a8f2c08937c665c6e03"
+    },
+    "name": "Bagneux",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "bagneux",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21dd42c08937c665c8e39"
+    },
+    "name": "Villeneuve-Loubet",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "villeneuve-loubet",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21e6e2c08937c665c95d3"
+    },
+    "name": "Massy",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "massy",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21ed32c08937c665c9bab"
+    },
+    "name": "Biarritz",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "biarritz",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21f312c08937c665ca407"
+    },
+    "name": "Choisy Le Roi",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "choisy-le-roi",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21f5b2c08937c665ca502"
+    },
+    "name": "Champrond-en-Gâtine",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "champrond-en-gatine",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21f8c2c08937c665ca614"
+    },
+    "name": "Avignon",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "avignon",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e21fc72c08937c665ca6e2"
+    },
+    "name": "Orly",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "orly",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e2200a2c08937c665cab29"
+    },
+    "name": "Bagnolet",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "bagnolet",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e220df2c08937c665cb149"
+    },
+    "name": "18ème Arrondissement",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "18eme-arrondissement",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e2216b2c08937c665cb887"
+    },
+    "name": "Rosny-sous-Bois",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "rosny-sous-bois",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e222a12c08937c665ccce2"
+    },
+    "name": "Lille",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "lille",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e222d52c08937c665cce4d"
+    },
+    "name": "Saint Andre Lez Lille",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "saint-andre-lez-lille",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e2239c2c08937c665cd3bd"
+    },
+    "name": "4e arrondissement de Marseille",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "4e-arrondissement-de-marseille",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e223df2c08937c665cd63d"
+    },
+    "name": "Fontainebleau",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "fontainebleau",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e224e52c08937c665cd8d1"
+    },
+    "name": "Courbevoie",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "courbevoie",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e225322c08937c665cdce5"
+    },
+    "name": "Villejuif",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "villejuif",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e225832c08937c665cdcee"
+    },
+    "name": "Marseille 1er Arrondissement",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "marseille-1er-arrondissement",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e227ff2c08937c665cf5b9"
+    },
+    "name": "Noisy Le Grand",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "noisy-le-grand",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e228422c08937c665cf5c2"
+    },
+    "name": "Puteaux",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "puteaux",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e228842c08937c665cf6d2"
+    },
+    "name": "Suresnes",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "suresnes",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e228c92c08937c665cfab4"
+    },
+    "name": "Clamart",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "clamart",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e228fe2c08937c665cfba3"
+    },
+    "name": "Le Bouscat",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "le-bouscat",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e229962c08937c665d01a3"
+    },
+    "name": "Issy Les Moulineaux",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "issy-les-moulineaux",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e229c22c08937c665d0561"
+    },
+    "name": "Colombes",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "colombes",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e22a112c08937c665d069b"
+    },
+    "name": "Romainville",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "romainville",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e22a7f2c08937c665d07ba"
+    },
+    "name": "Canet-en-Roussillon",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "canet-en-roussillon",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e22cd92c08937c665d1721"
+    },
+    "name": "Annemasse",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "annemasse",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e22d6f2c08937c665d1e62"
+    },
+    "name": "Aix En Provence",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "aix-en-provence",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e22da72c08937c665d2178"
+    },
+    "name": "Asnieres Sur Seine",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "asnieres-sur-seine",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e22dde2c08937c665d22ce"
+    },
+    "name": "Nanterre",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "nanterre",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e22e0b2c08937c665d25cc"
+    },
+    "name": "Boulogne Billancourt",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "boulogne-billancourt",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e22e362c08937c665d2784"
+    },
+    "name": "Montpellier",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "montpellier",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e22e662c08937c665d2bb5"
+    },
+    "name": "Lyon 3eme Arrondissement",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "lyon-3eme-arrondissement",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e22e922c08937c665d2d44"
+    },
+    "name": "Saint-Denis",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "saint-denis",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e22f932c08937c665d3bbf"
+    },
+    "name": "Marcq En Baroeul",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "marcq-en-baroeul",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e22fd72c08937c665d3dae"
+    },
+    "name": "Livry-Gargan",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "livry-gargan",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e22ff22c08937c665d3db7"
+    },
+    "name": "Champs Sur Marne",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "champs-sur-marne",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e230152c08937c665d3dc0"
+    },
+    "name": "Montigny Le Bretonneux",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "montigny-le-bretonneux",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e230332c08937c665d3dc9"
+    },
+    "name": "Ivry Sur Seine",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "ivry-sur-seine",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e2303d2c08937c665d3dd2"
+    },
+    "name": "Francheville",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "francheville",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e230632c08937c665d3e26"
+    },
+    "name": "Lambersart",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "lambersart",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e2306a2c08937c665d3e2f"
+    },
+    "name": "Saint-Germain-en-Laye",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "saint-germain-en-laye",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e230882c08937c665d3f4c"
+    },
+    "name": "Juvisy Sur Orge",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "juvisy-sur-orge",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e2309d2c08937c665d3f55"
+    },
+    "name": "Orleans",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "orleans",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e230ad2c08937c665d3f5e"
+    },
+    "name": "Saint-André-de-la-Roche",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "saint-andre-de-la-roche",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e230ce2c08937c665d4281"
+    },
+    "name": "Pantin",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "pantin",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e230d62c08937c665d42b9"
+    },
+    "name": "Vesseaux",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "vesseaux",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e230f62c08937c665d4567"
+    },
+    "name": "Calais",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "calais",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e230fa2c08937c665d4577"
+    },
+    "name": "Montreuil",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "montreuil",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e2311a2c08937c665d4601"
+    },
+    "name": "Saint Denis",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "saint-denis-2",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e231452c08937c665d460a"
+    },
+    "name": "6e Arrondissement de Marseille",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "6e-arrondissement-de-marseille",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e231502c08937c665d4613"
+    },
+    "name": "Castries",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "castries",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e231732c08937c665d4794"
+    },
+    "name": "Nogent-sur-Marne",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "nogent-sur-marne",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e2319c2c08937c665d4b9f"
+    },
+    "name": "Talence",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "talence",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e231b62c08937c665d4c39"
+    },
+    "name": "Champigny Sur Marne",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "champigny-sur-marne",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e231cc2c08937c665d4e45"
+    },
+    "name": "Gennevilliers",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "gennevilliers",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e231f32c08937c665d4e69"
+    },
+    "name": "Saint Ouen Sur Seine",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "saint-ouen-sur-seine",
+    "enable": false
+  },
+  {
+    "_id": {
+      "$oid": "63e2322b2c08937c665d504e"
+    },
+    "name": "Bezons",
+    "countrySlug": "france",
+    "country": "France",
+    "slug": "bezons",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e771f237adfe5b065dea51"
+    },
+    "name": "Fullerton (California)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "fullerton",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e7744c37adfe5b065df026"
+    },
+    "name": "Macon (Georgia)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "macon",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e774fa37adfe5b065df22e"
+    },
+    "name": "Moscow (Idaho)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "moscow",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e7760b37adfe5b065df453"
+    },
+    "name": "Lawrence (Kansas)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "lawrence",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63e7786237adfe5b065dfde4"
+    },
+    "name": "Corpus Christi (Texas)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "corpus-christi",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63f47966bfe76f6e53395335"
+    },
+    "name": "Maia",
+    "countrySlug": "portugal",
+    "country": "Portugal",
+    "slug": "maia",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63f8c6c3bfe76f6e53490ce1"
+    },
+    "name": "St. Louis (Missouri)",
+    "countrySlug": "united-states",
+    "country": "United States",
+    "slug": "st-louis",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "63fd8c85bfe76f6e534fe2b1"
+    },
+    "name": "Etobicoke",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "etobicoke",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6401901664cbb4aa97eaffd7"
+    },
+    "name": "Windsor",
+    "countrySlug": "canada",
+    "country": "Canada",
+    "slug": "windsor",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6405bad100bf9f1f8b339c96"
+    },
+    "name": "Geraldton",
+    "countrySlug": "australia",
+    "country": "Australia",
+    "slug": "geraldton",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "6409749700bf9f1f8b3a3604"
+    },
+    "name": "Uxbridge",
+    "countrySlug": "united-kingdom",
+    "country": "United Kingdom",
+    "slug": "uxbridge",
+    "enable": true
+  },
+  {
+    "_id": {
+      "$oid": "64116bb55b01988052b1ae6e"
+    },
+    "country": "United Kingdom",
+    "countrySlug": "united-kingdom",
+    "enable": true,
+    "name": "Ambleside",
+    "slug": "ambleside-2"
+  },
+  {
+    "_id": {
+      "$oid": "641c903696f479dc344b2417"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Kent (Ohio)",
+    "slug": "kent-2"
+  },
+  {
+    "_id": {
+      "$oid": "641d7c3991d3ab62b054b1e8"
+    },
+    "country": "United Kingdom",
+    "countrySlug": "united-kingdom",
+    "enable": true,
+    "name": "Ormskirk",
+    "slug": "ormskirk"
+  },
+  {
+    "_id": {
+      "$oid": "64212dd391d3ab62b05a5b4c"
+    },
+    "country": "Canada",
+    "countrySlug": "canada",
+    "enable": false,
+    "name": "Beaconia",
+    "slug": "beaconia"
+  },
+  {
+    "_id": {
+      "$oid": "6421824791d3ab62b05f2cee"
+    },
+    "country": "Canada",
+    "countrySlug": "canada",
+    "enable": false,
+    "name": "Wasagaming",
+    "slug": "wasagaming"
+  },
+  {
+    "_id": {
+      "$oid": "6422e51d91d3ab62b064cbb3"
+    },
+    "country": "United Kingdom",
+    "countrySlug": "united-kingdom",
+    "enable": true,
+    "name": "Halifax",
+    "slug": "halifax"
+  },
+  {
+    "_id": {
+      "$oid": "6426d5c38509eeaf352e5a1b"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": true,
+    "name": "Zaragoza",
+    "slug": "zaragoza"
+  },
+  {
+    "_id": {
+      "$oid": "6427d0258509eeaf352f4244"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Canton (Massachusetts)",
+    "slug": "canton"
+  },
+  {
+    "_id": {
+      "$oid": "642abb0e8509eeaf3535364f"
+    },
+    "country": "Sweden",
+    "countrySlug": "sweden",
+    "enable": true,
+    "name": "Stockholm",
+    "slug": "stockholm"
+  },
+  {
+    "_id": {
+      "$oid": "642abbd78509eeaf35353907"
+    },
+    "country": "Sweden",
+    "countrySlug": "sweden",
+    "enable": true,
+    "name": "Malmö",
+    "slug": "malmo"
+  },
+  {
+    "_id": {
+      "$oid": "642abc778509eeaf35353916"
+    },
+    "country": "Finland",
+    "countrySlug": "finland",
+    "enable": true,
+    "name": "Helsinki",
+    "slug": "helsinki"
+  },
+  {
+    "_id": {
+      "$oid": "642abcd38509eeaf353539eb"
+    },
+    "country": "Finland",
+    "countrySlug": "finland",
+    "enable": true,
+    "name": "Tampere",
+    "slug": "tampere"
+  },
+  {
+    "_id": {
+      "$oid": "642da63371e20dabc3b9f7b0"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Troy (Alabama)",
+    "slug": "troy"
+  },
+  {
+    "_id": {
+      "$oid": "6436e136bf2a6d2a9ed08b2e"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Terre Haute (Indiana)",
+    "slug": "terre-haute"
+  },
+  {
+    "_id": {
+      "$oid": "64372864bf2a6d2a9ed0fedc"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Mattoon (Illinois)",
+    "slug": "mattoon"
+  },
+  {
+    "_id": {
+      "$oid": "6439b1af141ebeafdd40c87e"
+    },
+    "country": "Canada",
+    "countrySlug": "canada",
+    "enable": true,
+    "name": "Sault Ste. Marie",
+    "slug": "sault-ste-marie"
+  },
+  {
+    "_id": {
+      "$oid": "64416d27f8ad7c6ca1a04d7e"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "St. Charles (Illinois)",
+    "slug": "st-charles"
+  },
+  {
+    "_id": {
+      "$oid": "644ada4a0e5c04cbdc2960d5"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "San Jose (California)",
+    "slug": "san-jose"
+  },
+  {
+    "_id": {
+      "$oid": "64513cdbc69b41a7718610a8"
+    },
+    "country": "Canada",
+    "countrySlug": "canada",
+    "enable": true,
+    "name": "Brampton",
+    "slug": "brampton"
+  },
+  {
+    "_id": {
+      "$oid": "64588f604b17e6688076c1b4"
+    },
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "enable": true,
+    "name": "Lucerne",
+    "slug": "lucerne"
+  },
+  {
+    "_id": {
+      "$oid": "6464653ca93d647a619629fe"
+    },
+    "country": "Lithuania",
+    "countrySlug": "lithuania",
+    "enable": true,
+    "name": "Vilnius",
+    "slug": "vilnius"
+  },
+  {
+    "_id": {
+      "$oid": "646466fda93d647a619646d8"
+    },
+    "country": "Latvia",
+    "countrySlug": "latvia",
+    "enable": true,
+    "name": "Riga",
+    "slug": "riga"
+  },
+  {
+    "_id": {
+      "$oid": "646544002ec5918f246df1bd"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Louisville (Kentucky)",
+    "slug": "louisville"
+  },
+  {
+    "_id": {
+      "$oid": "64668b7689dc7e966d3296af"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Binghamton (New York)",
+    "slug": "binghamton"
+  },
+  {
+    "_id": {
+      "$oid": "647096bd070b722db169021f"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Essen",
+    "slug": "essen"
+  },
+  {
+    "_id": {
+      "$oid": "6470973a070b722db16906ff"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Bremen",
+    "slug": "bremen"
+  },
+  {
+    "_id": {
+      "$oid": "647097fb070b722db1690c67"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Bonn",
+    "slug": "bonn"
+  },
+  {
+    "_id": {
+      "$oid": "64709833070b722db1690e0e"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Düsseldorf",
+    "slug": "dusseldorf"
+  },
+  {
+    "_id": {
+      "$oid": "64709867070b722db169115e"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Hannover",
+    "slug": "hannover"
+  },
+  {
+    "_id": {
+      "$oid": "6470988f070b722db169132f"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Karlsruhe",
+    "slug": "karlsruhe"
+  },
+  {
+    "_id": {
+      "$oid": "647098bd070b722db169164b"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Mannheim",
+    "slug": "mannheim"
+  },
+  {
+    "_id": {
+      "$oid": "647098ff070b722db16917a5"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Mainz",
+    "slug": "mainz"
+  },
+  {
+    "_id": {
+      "$oid": "647099a8070b722db16920a8"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Göttingen",
+    "slug": "gottingen"
+  },
+  {
+    "_id": {
+      "$oid": "64709e0d070b722db16936b6"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Augsburg",
+    "slug": "augsburg"
+  },
+  {
+    "_id": {
+      "$oid": "64709f3b070b722db1694df5"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": true,
+    "name": "Córdoba",
+    "slug": "cordoba"
+  },
+  {
+    "_id": {
+      "$oid": "64709fa9070b722db1695292"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": true,
+    "name": "Getafe",
+    "slug": "getafe"
+  },
+  {
+    "_id": {
+      "$oid": "6470a019070b722db16954ab"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": false,
+    "name": "Donostia-San Sebastian",
+    "slug": "donostia-san-sebastian-2"
+  },
+  {
+    "_id": {
+      "$oid": "6470a056070b722db16958bc"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": true,
+    "name": "Burjassot",
+    "slug": "burjassot"
+  },
+  {
+    "_id": {
+      "$oid": "6470a0aa070b722db1695d27"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": false,
+    "name": "Cartagena",
+    "slug": "cartagena"
+  },
+  {
+    "_id": {
+      "$oid": "6470a425070b722db1698f94"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "Pisa",
+    "slug": "pisa"
+  },
+  {
+    "_id": {
+      "$oid": "6470a496070b722db1699405"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "Parma",
+    "slug": "parma"
+  },
+  {
+    "_id": {
+      "$oid": "6470a503070b722db1699842"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "Santa Lucia",
+    "slug": "santa-lucia"
+  },
+  {
+    "_id": {
+      "$oid": "6470a588070b722db169a003"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "Genoa",
+    "slug": "genoa"
+  },
+  {
+    "_id": {
+      "$oid": "6470a646070b722db169a273"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "Palermo",
+    "slug": "palermo"
+  },
+  {
+    "_id": {
+      "$oid": "6470a679070b722db169a443"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "Chieti",
+    "slug": "chieti"
+  },
+  {
+    "_id": {
+      "$oid": "6470a737070b722db169ace7"
+    },
+    "country": "Netherlands",
+    "countrySlug": "netherlands",
+    "enable": true,
+    "name": "The Hague",
+    "slug": "the-hague"
+  },
+  {
+    "_id": {
+      "$oid": "6470a786070b722db169ae2a"
+    },
+    "country": "Netherlands",
+    "countrySlug": "netherlands",
+    "enable": true,
+    "name": "Utrecht",
+    "slug": "utrecht"
+  },
+  {
+    "_id": {
+      "$oid": "6470a7c6070b722db169b1c0"
+    },
+    "country": "Netherlands",
+    "countrySlug": "netherlands",
+    "enable": false,
+    "name": "Maastricht",
+    "slug": "maastricht"
+  },
+  {
+    "_id": {
+      "$oid": "6470a860070b722db169b680"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Brest",
+    "slug": "brest"
+  },
+  {
+    "_id": {
+      "$oid": "6470a8eb070b722db169ba1f"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Strasbourg",
+    "slug": "strasbourg"
+  },
+  {
+    "_id": {
+      "$oid": "6470a96b070b722db169be65"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Palaiseau",
+    "slug": "palaiseau"
+  },
+  {
+    "_id": {
+      "$oid": "6470a9cc070b722db169bfd2"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Amiens",
+    "slug": "amiens"
+  },
+  {
+    "_id": {
+      "$oid": "6470aa05070b722db169c08a"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": false,
+    "name": "Bourges",
+    "slug": "bourges"
+  },
+  {
+    "_id": {
+      "$oid": "6470aa87070b722db169c3aa"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Aix-en-Provence",
+    "slug": "aix-en-provence-2"
+  },
+  {
+    "_id": {
+      "$oid": "6470aac1070b722db169c51a"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": false,
+    "name": "Saint-Étienne",
+    "slug": "saint-etienne"
+  },
+  {
+    "_id": {
+      "$oid": "6470ab16070b722db169c8b9"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Rouen",
+    "slug": "rouen"
+  },
+  {
+    "_id": {
+      "$oid": "6470ab5f070b722db169cc63"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": false,
+    "name": "Noisy-le-Grand",
+    "slug": "noisy-le-grand-2"
+  },
+  {
+    "_id": {
+      "$oid": "6470aba8070b722db169cd97"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Versailles",
+    "slug": "versailles"
+  },
+  {
+    "_id": {
+      "$oid": "6470abdc070b722db169cfb2"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": false,
+    "name": "Rennes",
+    "slug": "rennes"
+  },
+  {
+    "_id": {
+      "$oid": "6470ad16070b722db169d711"
+    },
+    "country": "Belgium",
+    "countrySlug": "belgium",
+    "enable": true,
+    "name": "Brussels",
+    "slug": "brussels"
+  },
+  {
+    "_id": {
+      "$oid": "6470ad4e070b722db169d8d9"
+    },
+    "country": "Belgium",
+    "countrySlug": "belgium",
+    "enable": true,
+    "name": "Antwerp",
+    "slug": "antwerpen"
+  },
+  {
+    "_id": {
+      "$oid": "6470ad92070b722db169d942"
+    },
+    "country": "Belgium",
+    "countrySlug": "belgium",
+    "enable": true,
+    "name": "Leuven",
+    "slug": "leuven"
+  },
+  {
+    "_id": {
+      "$oid": "6470adba070b722db169d94c"
+    },
+    "country": "Belgium",
+    "countrySlug": "belgium",
+    "enable": false,
+    "name": "Mons",
+    "slug": "mons"
+  },
+  {
+    "_id": {
+      "$oid": "6470adee070b722db169d9a6"
+    },
+    "country": "Belgium",
+    "countrySlug": "belgium",
+    "enable": true,
+    "name": "Brugge",
+    "slug": "brugge"
+  },
+  {
+    "_id": {
+      "$oid": "6470ae2f070b722db169dacc"
+    },
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "enable": true,
+    "name": "Zürich",
+    "slug": "zurich"
+  },
+  {
+    "_id": {
+      "$oid": "6470ae69070b722db169dc9b"
+    },
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "enable": false,
+    "name": "Genève",
+    "slug": "geneve"
+  },
+  {
+    "_id": {
+      "$oid": "6470aec1070b722db169dec9"
+    },
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "enable": true,
+    "name": "Lausanne",
+    "slug": "lausanne"
+  },
+  {
+    "_id": {
+      "$oid": "6470af10070b722db169dffe"
+    },
+    "country": "Switzerland",
+    "countrySlug": "switzerland",
+    "enable": true,
+    "name": "Bern",
+    "slug": "bern"
+  },
+  {
+    "_id": {
+      "$oid": "6470af59070b722db169e0b8"
+    },
+    "country": "Poland",
+    "countrySlug": "poland",
+    "enable": true,
+    "name": "Wrocław",
+    "slug": "wroclaw"
+  },
+  {
+    "_id": {
+      "$oid": "6470afbf070b722db169e477"
+    },
+    "country": "Poland",
+    "countrySlug": "poland",
+    "enable": true,
+    "name": "Warsaw",
+    "slug": "warsaw"
+  },
+  {
+    "_id": {
+      "$oid": "6470affc070b722db169e52f"
+    },
+    "country": "Portugal",
+    "countrySlug": "portugal",
+    "enable": true,
+    "name": "Almada",
+    "slug": "almada"
+  },
+  {
+    "_id": {
+      "$oid": "6470b03f070b722db169e539"
+    },
+    "country": "Austria",
+    "countrySlug": "austria",
+    "enable": true,
+    "name": "Graz",
+    "slug": "graz"
+  },
+  {
+    "_id": {
+      "$oid": "6470b07c070b722db169e546"
+    },
+    "country": "Austria",
+    "countrySlug": "austria",
+    "enable": true,
+    "name": "Linz",
+    "slug": "linz"
+  },
+  {
+    "_id": {
+      "$oid": "6470b0bd070b722db169e553"
+    },
+    "country": "United Kingdom",
+    "countrySlug": "united-kingdom",
+    "enable": true,
+    "name": "Slough",
+    "slug": "slough"
+  },
+  {
+    "_id": {
+      "$oid": "647456fe070b722db16fd997"
+    },
+    "country": "United Kingdom",
+    "countrySlug": "united-kingdom",
+    "enable": true,
+    "name": "Wembley",
+    "slug": "wembley"
+  },
+  {
+    "_id": {
+      "$oid": "64896e13f9b501eddaf9e45e"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Rennes",
+    "slug": "rennes-2"
+  },
+  {
+    "_id": {
+      "$oid": "648fe0fd650cbf6b71be3fd5"
+    },
+    "country": "Austria",
+    "countrySlug": "austria",
+    "enable": true,
+    "name": "Leoben",
+    "slug": "leoben"
+  },
+  {
+    "_id": {
+      "$oid": "648fe141650cbf6b71be3fe4"
+    },
+    "country": "Austria",
+    "countrySlug": "austria",
+    "enable": false,
+    "name": "wien",
+    "slug": "wien"
+  },
+  {
+    "_id": {
+      "$oid": "649093d7c5bdbaf9ee4c5c1b"
+    },
+    "country": "Canada",
+    "countrySlug": "canada",
+    "enable": true,
+    "name": "Gatineau",
+    "slug": "gatineau"
+  },
+  {
+    "_id": {
+      "$oid": "6493d4876b54e7b478c40eb0"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Morgantown (West Virginia)",
+    "slug": "morgantown"
+  },
+  {
+    "_id": {
+      "$oid": "6493d5696b54e7b478c42396"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Lakeland (Florida)",
+    "slug": "lakeland"
+  },
+  {
+    "_id": {
+      "$oid": "6494d9c36b54e7b478ca3ad8"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Albany (New York)",
+    "slug": "albany"
+  },
+  {
+    "_id": {
+      "$oid": "6494da746b54e7b478ca3da8"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Spartanburg",
+    "slug": "spartanburg"
+  },
+  {
+    "_id": {
+      "$oid": "6496b3416c0584f27c4d2735"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": false,
+    "name": "Rolla",
+    "slug": "rolla"
+  },
+  {
+    "_id": {
+      "$oid": "649d31c756912b2a5673782d"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Goleta",
+    "slug": "goleta"
+  },
+  {
+    "_id": {
+      "$oid": "649d31ec56912b2a56737921"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Fort Myers (Florida)",
+    "slug": "fort-myers"
+  },
+  {
+    "_id": {
+      "$oid": "649d320d56912b2a56737a3c"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Boone (North Carolina)",
+    "slug": "boone"
+  },
+  {
+    "_id": {
+      "$oid": "649d322b56912b2a56737cd8"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Youngstown (Ohio)",
+    "slug": "youngstown"
+  },
+  {
+    "_id": {
+      "$oid": "649e6f3bc2ab6f6e2b99aa61"
+    },
+    "country": "Poland",
+    "countrySlug": "poland",
+    "enable": true,
+    "name": "Katowice",
+    "slug": "katowice-2"
+  },
+  {
+    "_id": {
+      "$oid": "64a5136c94a920a36ea4cf2f"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": false,
+    "name": "Cachen",
+    "slug": "cachen"
+  },
+  {
+    "_id": {
+      "$oid": "64acf1bd6170c6ec112509cd"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Bayreuth",
+    "slug": "bayreuth"
+  },
+  {
+    "_id": {
+      "$oid": "64acf29a6170c6ec1125158a"
+    },
+    "country": "Portugal",
+    "countrySlug": "portugal",
+    "enable": false,
+    "name": "lagos",
+    "slug": "lagos"
+  },
+  {
+    "_id": {
+      "$oid": "64acf3326170c6ec11251e79"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "verona",
+    "slug": "verona"
+  },
+  {
+    "_id": {
+      "$oid": "64acf4fd6170c6ec112538b2"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": true,
+    "name": "Cologne",
+    "slug": "cologne"
+  },
+  {
+    "_id": {
+      "$oid": "64acf5946170c6ec11253b87"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "Brescia",
+    "slug": "brescia"
+  },
+  {
+    "_id": {
+      "$oid": "64acf68c6170c6ec112546c2"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": false,
+    "name": "Roubaix",
+    "slug": "roubaix"
+  },
+  {
+    "_id": {
+      "$oid": "64acf7166170c6ec11254925"
+    },
+    "country": "Belgium",
+    "countrySlug": "belgium",
+    "enable": true,
+    "name": "Bruges",
+    "slug": "bruges"
+  },
+  {
+    "_id": {
+      "$oid": "64acf75a6170c6ec11254df3"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": false,
+    "name": "freiburg",
+    "slug": "freiburg"
+  },
+  {
+    "_id": {
+      "$oid": "64acf7d86170c6ec11255abd"
+    },
+    "country": "Norway",
+    "countrySlug": "norway",
+    "enable": false,
+    "name": "Oslo",
+    "slug": "oslo"
+  },
+  {
+    "_id": {
+      "$oid": "64acf8656170c6ec11255b97"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "bergamo",
+    "slug": "bergamo"
+  },
+  {
+    "_id": {
+      "$oid": "64acf8b26170c6ec11255d80"
+    },
+    "country": "Netherlands",
+    "countrySlug": "netherlands",
+    "enable": false,
+    "name": "leuwaarden",
+    "slug": "leuwaarden"
+  },
+  {
+    "_id": {
+      "$oid": "64acf8f26170c6ec11255fb4"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": false,
+    "name": "logrono",
+    "slug": "logrono"
+  },
+  {
+    "_id": {
+      "$oid": "64acf99c6170c6ec11256757"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": false,
+    "name": "cordova",
+    "slug": "cordova"
+  },
+  {
+    "_id": {
+      "$oid": "64acf9f06170c6ec11256ab0"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": false,
+    "name": "guadalajara",
+    "slug": "guadalajara"
+  },
+  {
+    "_id": {
+      "$oid": "64acfa1e6170c6ec11256ef8"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": false,
+    "name": "tours",
+    "slug": "tours"
+  },
+  {
+    "_id": {
+      "$oid": "64acfb0a6170c6ec11257978"
+    },
+    "country": "Czechia",
+    "countrySlug": "czechia",
+    "enable": false,
+    "name": "prague",
+    "slug": "prague"
+  },
+  {
+    "_id": {
+      "$oid": "64acfbea6170c6ec11257e10"
+    },
+    "country": "Turkey",
+    "countrySlug": "turkey",
+    "enable": false,
+    "name": "istanbul",
+    "slug": "istanbul"
+  },
+  {
+    "_id": {
+      "$oid": "64acfc926170c6ec1125824c"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": false,
+    "name": "santander",
+    "slug": "santander"
+  },
+  {
+    "_id": {
+      "$oid": "64acfd3d6170c6ec112592cc"
+    },
+    "country": "Brazil",
+    "countrySlug": "brazil",
+    "enable": false,
+    "name": "São Paulo",
+    "slug": "sao-paulo"
+  },
+  {
+    "_id": {
+      "$oid": "64acfe4e6170c6ec1125ac3e"
+    },
+    "country": "Germany",
+    "countrySlug": "germany",
+    "enable": false,
+    "name": "wolfsburg",
+    "slug": "wolfsburg"
+  },
+  {
+    "_id": {
+      "$oid": "64acfe886170c6ec1125af49"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "modena",
+    "slug": "modena"
+  },
+  {
+    "_id": {
+      "$oid": "64acfebb6170c6ec1125b13d"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": false,
+    "name": "ibiza",
+    "slug": "ibiza"
+  },
+  {
+    "_id": {
+      "$oid": "64acff0d6170c6ec1125b5ea"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "ferrara",
+    "slug": "ferrara"
+  },
+  {
+    "_id": {
+      "$oid": "64acff456170c6ec1125b946"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": false,
+    "name": "almeria",
+    "slug": "almeria"
+  },
+  {
+    "_id": {
+      "$oid": "64acff716170c6ec1125be0e"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "trieste",
+    "slug": "trieste"
+  },
+  {
+    "_id": {
+      "$oid": "64acff9c6170c6ec1125bfa0"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Cergy",
+    "slug": "cergy"
+  },
+  {
+    "_id": {
+      "$oid": "64acffd36170c6ec1125c140"
+    },
+    "country": "Austria",
+    "countrySlug": "austria",
+    "enable": true,
+    "name": "Salzburg",
+    "slug": "salzburg"
+  },
+  {
+    "_id": {
+      "$oid": "64ad00006170c6ec1125c198"
+    },
+    "country": "Portugal",
+    "countrySlug": "portugal",
+    "enable": false,
+    "name": "faro",
+    "slug": "faro"
+  },
+  {
+    "_id": {
+      "$oid": "64ad01356170c6ec1125cdf4"
+    },
+    "country": "France",
+    "countrySlug": "france",
+    "enable": true,
+    "name": "Fontenay-sous-Bois",
+    "slug": "fontenay-sous-bois"
+  },
+  {
+    "_id": {
+      "$oid": "64af11c401f4389266caa27c"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Notre Dame (Indiana)",
+    "slug": "notre-dame"
+  },
+  {
+    "_id": {
+      "$oid": "64afcfa201f4389266d00e99"
+    },
+    "country": "Canada",
+    "countrySlug": "canada",
+    "enable": true,
+    "name": "Halifax",
+    "slug": "halifax-2"
+  },
+  {
+    "_id": {
+      "$oid": "64afd2ab01f4389266d03018"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Emeryville",
+    "slug": "emeryville"
+  },
+  {
+    "_id": {
+      "$oid": "64c903d1bec2dcc3e7e4b3df"
+    },
+    "country": "United Kingdom",
+    "countrySlug": "united-kingdom",
+    "enable": false,
+    "name": "Wilmington",
+    "slug": "wilmington-2"
+  },
+  {
+    "_id": {
+      "$oid": "64d55331e9b6ade3464609e0"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Amherst (Massachusetts)",
+    "slug": "amherst"
+  },
+  {
+    "_id": {
+      "$oid": "64e3a9f366d3b9d85e99d9fb"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Storrs (Connecticut)",
+    "slug": "storrs"
+  },
+  {
+    "_id": {
+      "$oid": "64e459ce878bdccfdc14f171"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Washington DC",
+    "slug": "washington-dc"
+  },
+  {
+    "_id": {
+      "$oid": "64e759cd945c91b554db8dfd"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Arlington (VA)",
+    "slug": "arlington-va"
+  },
+  {
+    "_id": {
+      "$oid": "64f0d5ae1268d6d251a9a84c"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Milwaukee (Wisconsin)",
+    "slug": "milwaukee"
+  },
+  {
+    "_id": {
+      "$oid": "651e69f269a4398227cca953"
+    },
+    "country": "Canada",
+    "countrySlug": "canada",
+    "enable": true,
+    "name": "North Bay",
+    "slug": "north-bay"
+  },
+  {
+    "_id": {
+      "$oid": "652e150851bca35fe5ae222e"
+    },
+    "country": "Malta",
+    "countrySlug": "malta",
+    "enable": true,
+    "name": "Hamrun",
+    "slug": "hamrun"
+  },
+  {
+    "_id": {
+      "$oid": "653f370ca4c9783be094304d"
+    },
+    "country": "Malta",
+    "countrySlug": "malta",
+    "enable": true,
+    "name": "Valletta",
+    "slug": "valletta"
+  },
+  {
+    "_id": {
+      "$oid": "653f5767a4c9783be0972b98"
+    },
+    "country": "Malta",
+    "countrySlug": "malta",
+    "enable": true,
+    "name": "Kalkara",
+    "slug": "kalkara"
+  },
+  {
+    "_id": {
+      "$oid": "65421f19a4c9783be0ac16eb"
+    },
+    "country": "Portugal",
+    "countrySlug": "portugal",
+    "enable": true,
+    "name": "Viseu",
+    "slug": "viseu"
+  },
+  {
+    "_id": {
+      "$oid": "65424ccca4c9783be0ae050a"
+    },
+    "country": "Lithuania",
+    "countrySlug": "lithuania",
+    "enable": true,
+    "name": "Kaunas",
+    "slug": "kaunas"
+  },
+  {
+    "_id": {
+      "$oid": "654a1e418fba32e73d881d3f"
+    },
+    "country": "United Arab Emirates",
+    "countrySlug": "united-arab-emirates",
+    "enable": true,
+    "name": "Sharjah",
+    "slug": "sharjah"
+  },
+  {
+    "_id": {
+      "$oid": "654b3112b41b8d25d93f67e2"
+    },
+    "country": "Australia",
+    "countrySlug": "australia",
+    "enable": true,
+    "name": "Brinkin",
+    "slug": "brinkin"
+  },
+  {
+    "_id": {
+      "$oid": "654b340fb41b8d25d93fdd94"
+    },
+    "country": "Australia",
+    "countrySlug": "australia",
+    "enable": true,
+    "name": "Bentley",
+    "slug": "bentley"
+  },
+  {
+    "_id": {
+      "$oid": "654e3bc67abd13c9e7fd4036"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Upstate (South Carolina)",
+    "slug": "upstate"
+  },
+  {
+    "_id": {
+      "$oid": "654e41857abd13c9e7fd44db"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Santa Barbara (California)",
+    "slug": "santa-barbara"
+  },
+  {
+    "_id": {
+      "$oid": "654e46b37abd13c9e7fd51b0"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "St.Petersburg (Florida)",
+    "slug": "st-petersburg"
+  },
+  {
+    "_id": {
+      "$oid": "655dabbccf6d95abe411ff26"
+    },
+    "country": "Australia",
+    "countrySlug": "australia",
+    "enable": true,
+    "name": "Algester",
+    "slug": "algester"
+  },
+  {
+    "_id": {
+      "$oid": "6567614fdbac4b1a18c98937"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Amherst (New York)",
+    "slug": "amherst-new-york"
+  },
+  {
+    "_id": {
+      "$oid": "656991274ece49f5e9092aca"
+    },
+    "country": "Austria",
+    "countrySlug": "austria",
+    "enable": true,
+    "name": "Neustadt",
+    "slug": "neustadt"
+  },
+  {
+    "_id": {
+      "$oid": "657164df66e5f62f67443374"
+    },
+    "country": "Canada",
+    "countrySlug": "canada",
+    "enable": true,
+    "name": "Milton",
+    "slug": "milton"
+  },
+  {
+    "_id": {
+      "$oid": "657af11ab79ce79b01299425"
+    },
+    "country": "Italy",
+    "countrySlug": "italy",
+    "enable": false,
+    "name": "Padova",
+    "slug": "padova"
+  },
+  {
+    "_id": {
+      "$oid": "657beb57b79ce79b012daa34"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": false,
+    "name": "Cantabria",
+    "slug": "cantabria"
+  },
+  {
+    "_id": {
+      "$oid": "657c26f3b79ce79b0131a158"
+    },
+    "country": "Portugal",
+    "countrySlug": "portugal",
+    "enable": true,
+    "name": "Estoril",
+    "slug": "estoril"
+  },
+  {
+    "_id": {
+      "$oid": "657d283e661ef78a723867ef"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Stone Mountain",
+    "slug": "stone-mountain"
+  },
+  {
+    "_id": {
+      "$oid": "657d8deb661ef78a723ba09e"
+    },
+    "country": "Portugal",
+    "countrySlug": "portugal",
+    "enable": true,
+    "name": "Evora",
+    "slug": "evora"
+  },
+  {
+    "_id": {
+      "$oid": "65801ae39fdae9b3447147ff"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": false,
+    "name": "Worcester",
+    "slug": "worcester-3"
+  },
+  {
+    "_id": {
+      "$oid": "658294ffee8ed0de659858df"
+    },
+    "country": "China",
+    "countrySlug": "china",
+    "enable": true,
+    "name": "Hong Kong",
+    "slug": "hong-kong"
+  },
+  {
+    "_id": {
+      "$oid": "65829c23ee8ed0de6598f416"
+    },
+    "country": "Spain",
+    "countrySlug": "spain",
+    "enable": true,
+    "name": "Lugo",
+    "slug": "lugo"
+  },
+  {
+    "_id": {
+      "$oid": "65841b99ee8ed0de65a639e0"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Orange Park (Florida)",
+    "slug": "orange-park-florida"
+  },
+  {
+    "_id": {
+      "$oid": "658c1706a0be1c9354fc78ed"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": false,
+    "name": "Maitland (Florida)",
+    "slug": "maitland-florida"
+  },
+  {
+    "_id": {
+      "$oid": "658c3056a0be1c9354fdc90a"
+    },
+    "country": "United States",
+    "countrySlug": "united-states",
+    "enable": true,
+    "name": "Spring hill (Florida)",
+    "slug": "spring-hill-florida"
+  }
+]

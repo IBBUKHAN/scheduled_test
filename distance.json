@@ -1,0 +1,16 @@
+{
+  "distances": {
+    "CityA": {
+      "CityB": 150,
+      "CityC": 200
+    },
+    "CityB": {
+      "CityA": 150,
+      "CityC": 120
+    },
+    "CityC": {
+      "CityA": 200,
+      "CityB": 120
+    }
+  }
+}

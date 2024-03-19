@@ -8,12 +8,12 @@ const dbConfig = {
   host: process.env.DB_HOST,
   database: "postgres",
   password: process.env.DB_PASSWORD,
-  schema: "nlp",
+  schema: "npci_test",
   port: 5432,
 };
 
-const tableName = "ul_roomDetails";
-const csvFilePath = "C:/Users/Ibbu/Downloads/RoomDetails.csv";
+const tableName = "digisaathi_new";
+const csvFilePath = "C:/Users/Ibbu/Downloads/FINAL.csv";
 
 async function createTableAndDefineColumns() {
   const client = new Client(dbConfig);
@@ -21,7 +21,7 @@ async function createTableAndDefineColumns() {
   try {
     await client.connect();
 
-    await client.query("CREATE SCHEMA IF NOT EXISTS nlp;");
+    await client.query("CREATE SCHEMA IF NOT EXISTS npci_test;");
 
     const columns = await getColumnsFromCsv(csvFilePath);
 
@@ -29,15 +29,15 @@ async function createTableAndDefineColumns() {
       .map((column) => `"${column}" VARCHAR(5000)`)
       .join(", ");
 
-    const createTableQuery = `CREATE TABLE IF NOT EXISTS nlp.${tableName} (${columnDefinitions})`;
+    const createTableQuery = `CREATE TABLE IF NOT EXISTS npci_test.${tableName} (${columnDefinitions})`;
     await client.query(createTableQuery);
 
-    console.log(`Table "nlp.${tableName}" created successfully.`);
+    console.log(`Table "npci_test.${tableName}" created successfully.`);
 
     const data = await getDataFromCsv(csvFilePath);
     await insertData(data);
 
-    console.log(`Data inserted into "nlp.${tableName}" successfully.`);
+    console.log(`Data inserted into "npci_test.${tableName}" successfully.`);
   } catch (error) {
     console.error("Error:", error.stack || error);
   } finally {
@@ -106,7 +106,7 @@ async function insertData(data) {
       const columns = keys.map((key) => `"${key}"`).join(",");
 
       const query = {
-        text: `INSERT INTO nlp.${tableName}(${columns}) VALUES(${placeholders})`,
+        text: `INSERT INTO npci_test.${tableName}(${columns}) VALUES(${placeholders})`,
         values,
       };
 
