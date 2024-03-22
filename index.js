@@ -45,12 +45,11 @@ async function main() {
 
   for (let i = 0; i < json.length; i++) {
     let answerText = json[i].Answer;
-
     // Remove specific HTML tags from the answer text
     answerText = answerText.replace(/<br>/gi, "");
     answerText = answerText.replace(/<b>/gi, "");
     answerText = answerText.replace(/’/gi, "");
-    answerText = answerText.replace(/<a[^>]*>(.*?)<\/a>/gi, "");
+    answerText = answerText.replace(/<a[^>]*>(.*?)<\/a>/gi, "$1");
     answerText = answerText.replace(/\//g, "");
     // answerText = answerText.replace(/-/g, "");
     answerText = answerText.replace(/#N\/A/g, "");
