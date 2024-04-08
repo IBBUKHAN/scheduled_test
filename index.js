@@ -2,14 +2,14 @@ const fs = require("fs");
 const csv = require("csv-parser");
 const { Pool } = require("pg");
 const dbConfig = {
-  user: "corover_prod",
-  host: "prodbinstance.ch4ne6pszkn4.ap-south-1.rds.amazonaws.com",
+  user: "postgres",
+  host: "postgres.gcp.corover.ai",
   database: "postgres",
-  password: "CoroverAWS",
+  password: "PVc)4tWX$oMB",
   port: 5432,
 };
 
-const csvFilePath = "C:/Users/Ibbu/Downloads/ibbukhan.csv";
+const csvFilePath = "C:/Users/Ibbu/Downloads/publicbot100.csv";
 
 function readCSVFile(filePath) {
   return new Promise((resolve, reject) => {
@@ -49,7 +49,7 @@ async function insertData(data) {
       const columns = keys.map((key) => `"${key}"`).join(",");
 
       const query = {
-        text: `INSERT INTO nlp.lic_policies(${columns}) VALUES(${placeholders})`,
+        text: `INSERT INTO public.bot(${columns}) VALUES(${placeholders})`,
         values,
       };
 
