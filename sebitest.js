@@ -3,15 +3,15 @@ const fs = require("fs");
 const jsonData = require("./hello.json");
 
 const headers = {
-  appId: "b3540cfc-7d56-4478-b913-56c6b8baaf7f",
+  appId: "8f1a9ebe-7ce5-4c3e-bf3b-18669e4897e3",
   "Content-Type": "application/json",
 };
 
 const results = [];
 
 async function sendRequest(i) {
-  const Hindi = jsonData[i].Question;
-  const Matching = jsonData[i].Answer;
+  const Hindi = jsonData[i].categoryQuestion;
+  const Matching = jsonData[i].contextId;
   const requestData = {
     query: Hindi,
     source:
@@ -22,12 +22,12 @@ async function sendRequest(i) {
 
   try {
     const response = await axios.post(
-      "https://sebi.corover.ai/sebiAPI/nlp/answer/en",
+      "https://digisaathi.info/npciAPI/bot/sendQuery/en",
       requestData,
       { headers }
     );
 
-    const responseBody = response.data.answer.FAQ;
+    const responseBody = response.data.contextId;
 
     if (Matching === responseBody) {
       results.push({

@@ -1,578 +1,682 @@
 [
   {
-    "Question": "What is a mutual fund?"
+    "categoryQuestion": "On which channels, PPS data can be collected by banks?",
+    "contextId": "7505d523-437f-4ff2-ad82-7a8de5decad3"
   },
   {
-    "Question": "How can I evaluate a mutual fund's performance?"
+    "categoryQuestion": "I have a finance charge in my credit card statement. What does it mean?",
+    "contextId": "463b70cf-3c31-4167-8b98-71a88e210600"
   },
   {
-    "Question": "what is the difference between mutual funds and ETFs?"
+    "categoryQuestion": "What is the protection available in case of unauthorised transactions involving PPIs / wallets issued by banks?",
+    "contextId": "d51410ce-0417-4630-a563-ac8a8d2cc505"
   },
   {
-    "Question": "How do I choose a good mutual fund?"
+    "categoryQuestion": "What is Minimum Payment Due in my credit card statement?",
+    "contextId": "878bef90-0668-46b4-aabd-f1b6cdf152d5"
   },
   {
-    "Question": "what is net asset value (NAV)?"
+    "categoryQuestion": "Who should be the customer contact, in case of non-credit or delay in credit to the payee account?",
+    "contextId": "bce5727c-28f6-4c51-be08-fb8241f20508"
   },
   {
-    "Question": "what is a tracking error?"
+    "categoryQuestion": "In case my finger is injured can I use iris recognition?",
+    "contextId": "2e6e370c-87f6-47c2-aa59-39da071ef1c6"
   },
   {
-    "Question": "What is expense ratio?"
+    "categoryQuestion": "My bank is claiming that they have seeded the Aadhaar number but on UIDAI web site it is not reflecting",
+    "contextId": "324aaa96-b812-4c39-bfa6-c5c65a955a0b"
   },
   {
-    "Question": "How do mutual funds work?"
+    "categoryQuestion": "What are Magnetic Stripe cards and EMV Chip & PIN cards?",
+    "contextId": "557c1ecb-4fa5-44bf-a7a3-4af402b3e383"
   },
   {
-    "Question": "what is a no load fund?"
+    "categoryQuestion": "how can I find my nearest Business Correspondent?",
+    "contextId": "b2fb581d-2154-404d-b72e-f0a4799f7fc4"
   },
   {
-    "Question": "What are index mutual funds?"
+    "categoryQuestion": "After adding one bank account in my UPI App, if you want to add another bank account, then what is the process?",
+    "contextId": "87df897e-eb32-4a74-b553-23a21918c10f"
   },
   {
-    "Question": "How to know the risks involoved in mutual fund?"
+    "categoryQuestion": "How can a consumer know that he is using a Bharat BillPay enabled channel for bill payment?",
+    "contextId": "b503acc3-704b-4dbd-bc13-ddbe28a3adfe"
   },
   {
-    "Question": "How do I invest in mutual fund?"
+    "categoryQuestion": "Does a holder earn any interest on PPI balances?",
+    "contextId": "f7af3459-149d-4b1c-abef-4aba05ed2aa2"
   },
   {
-    "Question": "what is the difference between open-ended and closed-ended mutual funds?"
+    "categoryQuestion": "Is overdraft allowed with a debit card?",
+    "contextId": "038371e9-cf00-4f84-8e62-a671f571f310"
   },
   {
-    "Question": "What is the difference between growth and dividend options in mutual funds?"
+    "categoryQuestion": "How is Bharat QR code different from other QR code in market?",
+    "contextId": "07deee65-c1c8-4306-870b-b492a2887f57"
   },
   {
-    "Question": "What is a Primary Market?"
+    "categoryQuestion": "Can the corporate represent the bounced transactions?",
+    "contextId": "a8650d69-26e8-44b9-8aec-f5bcb803720c"
   },
   {
-    "Question": "What is the meaning of term issuers in primary market parlance?"
+    "categoryQuestion": "How can one know if the ATM location is metro or non-metro?",
+    "contextId": "cd39ca30-a177-4bde-b164-2daa0b7ef810"
   },
   {
-    "Question": "What is a public issue?"
+    "categoryQuestion": "Is the customer protected against any unauthorised transaction after he / she has reported to the issuer about such transactions or loss of instrument?",
+    "contextId": "e58162d1-9641-425c-b40c-c83969f8e698"
   },
   {
-    "Question": "Why do issuers raise funds from primary markets?"
+    "categoryQuestion": "Is there any transaction limit on the amount that can be withdrawn from an ATM using a credit card / debit card?",
+    "contextId": "7f1322c4-b824-4296-a48f-5cd10fe56611"
   },
   {
-    "Question": "What are the Features of primary markets?"
+    "categoryQuestion": "Whether corporates can also participate in NACH credit?",
+    "contextId": "fb3d779b-c743-4049-9c79-eb3012e829b9"
   },
   {
-    "Question": "What is a Draft Red Herring Prospectus?"
+    "categoryQuestion": "I was forced to pay by cash at the toll plaza, though I am having sufficient balance in FASTag?",
+    "contextId": "a6a6c24a-71e2-4c61-8031-4dfeefbbcf35"
   },
   {
-    "Question": "What is an offer document?"
+    "categoryQuestion": "Can I request for a Printed receipt for the Purchase made?",
+    "contextId": "65719e8e-b439-4b1b-94b4-a6fd921a6832"
   },
   {
-    "Question": "What is the role of a merchant banker in primary markets?"
+    "categoryQuestion": "What is the EMI tenure that is offered on credit/ debit card?",
+    "contextId": "cf198109-2b43-47ce-b83b-a8a526825b5c"
   },
   {
-    "Question": "Who is merchant banker?"
+    "categoryQuestion": "Will I receive any notification everytime my balance is deducted for subcribed product/ service",
+    "contextId": "045df7f1-fe67-446f-857b-5109b286518e"
   },
   {
-    "Question": "Where can one find the draft offer document of a primary market issue?"
+    "categoryQuestion": "What can I do with Internet/Net Banking and/ or Mobile Banking?",
+    "contextId": "01048b50-85e0-4ede-a7c8-1797bab6b431"
   },
   {
-    "Question": "Where can one find final offer document?"
+    "categoryQuestion": "My credit card / debit card is damaged. How can I replace it?",
+    "contextId": "b55e07bb-315a-44f3-819b-5e01267b67b3"
   },
   {
-    "Question": "What is the procedure for preparation and filing of offer document?"
+    "categoryQuestion": "Which Languages Are Supported On Feature Phone Payments?",
+    "contextId": "0dc825a3-e33b-455d-a1c9-c6adae0172bc"
   },
   {
-    "Question": "When does a primary market issue open?"
+    "categoryQuestion": "Are purchases made through contactless cards safe and secure?",
+    "contextId": "5d43c8a2-a9fc-4192-a3ae-2a7f7607a80e"
   },
   {
-    "Question": "What is Registrar to an issue?"
+    "categoryQuestion": "What infrastructure does a bank require to participate in CTS?",
+    "contextId": "13b690de-6a6d-49ec-a46f-5c1ef49aca1d"
   },
   {
-    "Question": "What is the role of Registrar to an Issue in primary markets?"
+    "categoryQuestion": "What is an E-sign E- mandate?",
+    "contextId": "eb285158-9c13-4b49-a753-eed6a9dc18eb"
   },
   {
-    "Question": "Can an investor make multiple applications in an IPO?"
+    "categoryQuestion": "What is Ultra Cash Payment System",
+    "contextId": "3aa92b99-a05d-4228-8b3a-f14dda7f25f9"
   },
   {
-    "Question": "How are shares alloted to subscribers in an IPO?"
+    "categoryQuestion": "Transaction facility from keypad mobile",
+    "contextId": "246f2eda-fa8b-41df-ae36-13675cbd8704"
   },
   {
-    "Question": "Who makes allotment of shares to subscribers in an IPO?"
+    "categoryQuestion": "Can I avail EMI facility on Debit/ Credit card?",
+    "contextId": "0de0112b-17a8-481f-b732-c055899ccba5"
   },
   {
-    "Question": "How share allotment is done in case of oversubscription?"
+    "categoryQuestion": "Would the payer (sender of money) receive an acknowledgement of money credited to the payee’s (receiver of money) account?",
+    "contextId": "42e81e9d-601e-487e-a933-3be5b9ab66c1"
   },
   {
-    "Question": "When do shares get listed for trading after an IPO?"
+    "categoryQuestion": "What is the cap on E-sign mandate?",
+    "contextId": "1f59a342-fe68-4435-a257-ed5a4f8bfaf8"
   },
   {
-    "Question": "Where can one find contact details of intermediaries involved in an issue?"
+    "categoryQuestion": "Where can the customer report an unauthorised transaction in his / her PPI / wallet account?",
+    "contextId": "f544f621-cf3b-482d-98df-fefb97a09250"
   },
   {
-    "Question": "What are the dirrerent types of primary market issues?"
+    "categoryQuestion": "Can I change or reset my UPI pin ON feature phone?",
+    "contextId": "81188e17-f4a9-48c2-8f7d-caafa56d2687"
   },
   {
-    "Question": "What is a public issue?"
+    "categoryQuestion": "What is meant by ‘duly verified by the issuer’? How should the PPI issuer ensure that it is the ‘own bank account of the PPI holder’?",
+    "contextId": "f910a1cf-e2f4-4498-af1f-32a1c2bfc813"
   },
   {
-    "Question": "What are different types of public issues?"
+    "categoryQuestion": "I have selected the Bank name to link with UPI but it does not find my bank account?",
+    "contextId": "b0a6a29c-f8f6-4178-a5e7-6e7499d57364"
   },
   {
-    "Question": "What is an Offer for Sale (OFS)?"
+    "categoryQuestion": "Can Billers offer bill payment outside BBPS?",
+    "contextId": "1ed35c19-8971-4037-9579-a4d1bd3cf37f"
   },
   {
-    "Question": "Whom does the proceeds of an OFS go?"
+    "categoryQuestion": "I reside within 10 km of a particular toll plaza. Do I need to take FASTag to get the concessions available for local vehicles?",
+    "contextId": "1ac39058-0ccc-4afe-ae5f-93b657532fa4"
   },
   {
-    "Question": "What is an IDR?"
+    "categoryQuestion": "In case of a co-branded card, who will be responsible for addressing all customer service aspects?",
+    "contextId": "2ffd4c0d-12d7-47e3-be5b-274383858628"
   },
   {
-    "Question": "How IDRs are issued?"
+    "categoryQuestion": "Is it possible for a bank not having current account or RTGS account with rbi to participate in NACH credit?",
+    "contextId": "64a1ec70-eaed-4262-b71d-ea2ec46bbf67"
   },
   {
-    "Question": "Are IDRs traded?"
+    "categoryQuestion": "Is NETC Tag for Mumbai Bandra- Worli Sea link RFID tag and FASTag is same tag or different tag?",
+    "contextId": "35ccbd33-6cc5-4c2c-a073-b52f8796f810"
   },
   {
-    "Question": "What rights do holders of IDRs have?"
+    "categoryQuestion": "After giving consent form to bank, when will my Aadhaar get seeded?",
+    "contextId": "ec686421-0bb8-4202-a60a-0824e6283af9"
   },
   {
-    "Question": "What is a Rights Issue?"
+    "categoryQuestion": "Where can I raise a dispute for frauds OR Any other problems for payments done on feature phone?",
+    "contextId": "9ad065ee-f94e-4531-9dbe-ae79b491e9aa"
   },
   {
-    "Question": "What is Letter of Offer in a Rights Issue?"
+    "categoryQuestion": "Are prepaid cards linked to bank accounts?",
+    "contextId": "34716533-eee9-4224-b00c-8c38795db1b6"
   },
   {
-    "Question": "What is a Bonus Issue?"
+    "categoryQuestion": "Will my UPI ID be created when i onboard on feature phone?",
+    "contextId": "049eee36-8393-4a10-a64c-70b19cb40e4b"
   },
   {
-    "Question": "What impact does a bonus issue have on networth of a company?"
+    "categoryQuestion": "Is cash withdrawal or funds transfer permitted from the two types of Small PPIs?",
+    "contextId": "6f3faf69-c4e9-4fa3-b59b-77f41aa5dbd6"
   },
   {
-    "Question": "How does bonus issue impact equity capital of a company?"
+    "categoryQuestion": "Can i do payments frommy bank account by usoing my anyone else's feature phone?",
+    "contextId": "56a141b7-31a9-47f3-bf6c-f2392eb69666"
   },
   {
-    "Question": "How does bonus issue impact reserves of a company?"
+    "categoryQuestion": "Does the customer need to register his/her mobile number to avail *99# service?",
+    "contextId": "cf5832c9-7a91-4398-a491-b73472cff57f"
   },
   {
-    "Question": "How are public issues classified on the basis of pricing?"
+    "categoryQuestion": "Are there any annual renewal fees for a credit card?",
+    "contextId": "82da41f8-eb13-48da-a7e3-dd0692e43acb"
   },
   {
-    "Question": "What is a book built issue?"
+    "categoryQuestion": "I lost my credit card / debit card but found it later. Can I still use the card?",
+    "contextId": "dde2f009-47b1-4903-9b4d-3e389bced4b0"
   },
   {
-    "Question": "How is pricing done in a book built issue?"
+    "categoryQuestion": "Why my FASTag is showing blacklisted at toll plaza?",
+    "contextId": "f1fdb854-06da-4247-9c73-28aac2ea997e"
   },
   {
-    "Question": "Can an issuer revise the price band of an issue?"
+    "categoryQuestion": "What IVR number for UPI feature phone payment or 123 Pay",
+    "contextId": "53c11b27-56fd-45be-aad1-3343fd972ee9"
   },
   {
-    "Question": "What is cut-off price?"
+    "categoryQuestion": "Can money be received from abroad through internet/net banking and/or mobile banking?",
+    "contextId": "3109a408-80ac-4835-9114-bd6ef0884989"
   },
   {
-    "Question": "Who is a Book Running Lead Manager?"
+    "categoryQuestion": "What are transaction charges for a bill payment done through BBPS or Bharat BillPay?",
+    "contextId": "e9338e1b-7d4b-45c4-b06c-0350df989460"
   },
   {
-    "Question": "For how many days is a public issue kept open?"
+    "categoryQuestion": "Can I stop/cancel IMPS transaction once approved at my end?",
+    "contextId": "467f72c4-a0c8-417b-9843-cf4ec2223f65"
   },
   {
-    "Question": "Can the issue open period for a primary market issue be extended?"
+    "categoryQuestion": "My transaction was failed, but still amount is not reversed or credited back to the account /card",
+    "contextId": "65d67ba2-b79a-4962-89e7-7a37049ef14d"
   },
   {
-    "Question": "What is a fixed price issue?"
+    "categoryQuestion": "What is SIM overlay. Do i buy a new SIM to use this?",
+    "contextId": "f00ae235-c6cf-4b83-b7d9-d3d6c66e2840"
   },
   {
-    "Question": "What are the pre-requisites for an investor to invest in a public issue?"
+    "categoryQuestion": "What is DCA (Direct Corporate Access)?",
+    "contextId": "dcd1c08d-e842-43cf-bf93-2c1974be06a4"
   },
   {
-    "Question": "How does an investor get shares alloted in a public issue?"
+    "categoryQuestion": "What do the terms billing date/cycle mean for a credit card and can it change?",
+    "contextId": "63300bf7-ecba-4b00-9655-7d79465d55de"
   },
   {
-    "Question": "How can an investor obtain PAN?"
+    "categoryQuestion": "Can I link multiple bank account on same BHIM UPI App?",
+    "contextId": "7860b8cb-e54b-4cca-bc1d-9d41356253be"
   },
   {
-    "Question": "How to open a demat account?"
+    "categoryQuestion": "How do I link my Bank account with UPI 123Pay",
+    "contextId": "4eda1969-d817-498d-b611-984ed4e9b8c5"
   },
   {
-    "Question": "What is a depository?"
+    "categoryQuestion": "Can i send money to any user on UPI or i will only be able to send it to user on feature phone?",
+    "contextId": "117b01d5-0a24-40f5-bcfc-4a9952ff5645"
   },
   {
-    "Question": "What is a depository participant?"
+    "categoryQuestion": "What is the difference between a prepaid card, a credit card, and a debit card?",
+    "contextId": "f64afa0d-add9-4f54-b976-38cd0e20cadb"
   },
   {
-    "Question": "What is the procedure of opening a demat account?"
+    "categoryQuestion": "Can I put a stop payment request for funds transferred by *99#?",
+    "contextId": "8fee3af6-dd8c-46a5-8693-7147d404bcb7"
   },
   {
-    "Question": "what are the charges for having a demat account?"
+    "categoryQuestion": "Can I accidentally be charged for a contactless transaction just by walking past a contactless terminal?",
+    "contextId": "cbb63b81-73aa-491d-ad29-bb4c3c9bcec4"
   },
   {
-    "Question": "Where can one find charges for demat account?"
+    "categoryQuestion": "Can I use my debit or credit or prepaid Card for payments through Bharat QR?",
+    "contextId": "8d84ddcd-b59f-40e9-a5b8-1ce3fa762fcf"
   },
   {
-    "Question": "Why is it important to have updated bank account / address information in demat account?"
+    "categoryQuestion": "Are there any charges to consumer on offline bill payment transaction done through Bharat BillPay enabled channels?",
+    "contextId": "9e119411-abe7-46ed-b881-5f2778499b28"
   },
   {
-    "Question": "How to get an offer document?"
+    "categoryQuestion": "What are the benefits of using Internet/ Net Banking and/ or Mobile Banking?",
+    "contextId": "73245d24-1b80-4e26-b628-c0e5173a781e"
   },
   {
-    "Question": "What is an Abridged Prospectus?"
+    "categoryQuestion": "Who are the issuers of prepaid cards / prepaid instruments?",
+    "contextId": "dc70f6e7-47fe-4a05-8c30-759e51b9b4c8"
   },
   {
-    "Question": "Where does one get application form for subscribing to a public issue?"
+    "categoryQuestion": "I have received my Credit card / Debit card but not the PIN. How do I generate my PIN?",
+    "contextId": "0ed3ea30-50cf-421c-9261-7caecba06ed3"
   },
   {
-    "Question": "What is ASBA?"
+    "categoryQuestion": "What type of instruments can be presented for clearing through CTS",
+    "contextId": "06356b5e-b7ab-4856-ae88-f158b1d62e4e"
   },
   {
-    "Question": "Where can one get ASBA forms?"
+    "categoryQuestion": "Is submitting PPS data mandatory?",
+    "contextId": "2fc8f870-ab74-48ce-9283-a9bed7db61b9"
   },
   {
-    "Question": "Explain ASBA with an example"
+    "categoryQuestion": "What is the grievance redressal mechanism prescribed for a PPI Issuer?",
+    "contextId": "ba5c5e6b-2200-454a-8598-f20f56d43116"
   },
   {
-    "Question": "How many bids can an investor put in a single application form?"
+    "categoryQuestion": "How can a card holder know whether if a fraud transaction has taken place using in my prepaid card?",
+    "contextId": "e652f621-bb63-43f6-a73f-53c16d4289ff"
   },
   {
-    "Question": "Who is a retail investor?"
+    "categoryQuestion": "What is the maximum amount for e-RUPI voucher?",
+    "contextId": "9b9aaac8-e19a-47b7-8dd0-9728571f4626"
   },
   {
-    "Question": "Who is a non-institutional investor?"
+    "categoryQuestion": "Is alteration allowed in writing a cheque ?",
+    "contextId": "c15860bc-12c6-4ddf-8e82-95c6dd9ab7d2"
   },
   {
-    "Question": "I do not have an account with a Self Certified Syndicate Bank. Can I avail ASBA facility?"
+    "categoryQuestion": "How long can a customer hold a ‘minimum-detail’ PPI / wallet? What will happen to the balance after expiry of stipulated time?",
+    "contextId": "d572476f-698a-4003-aca5-1a9e8f4659c6"
   },
   {
-    "Question": "My application for subscribing to public issue was rejected. Why?"
+    "categoryQuestion": "What is the mandate for banks for issuing Magnetic Stripe cards or EMV Chip & PIN cards?",
+    "contextId": "b3dcb349-71d0-407d-a13f-96c177cc00d0"
   },
   {
-    "Question": "Where do I submit the application form for subscribing to a public issue?"
+    "categoryQuestion": "Can e-RUPI be redeemed for cash / cash back?",
+    "contextId": "5296d0da-14f9-43db-bfff-528884842685"
   },
   {
-    "Question": "Where can one check the status of bidding in a book built issue"
+    "categoryQuestion": "What is customer grievance redressal mechanism for transactions done by Prepaid cards?",
+    "contextId": "5377d070-1953-41d3-9afd-c06969252af3"
   },
   {
-    "Question": "Can one revise the bid for subscribing to a public issue?"
+    "categoryQuestion": "Is there any limit on AEPS Cash Withdrawal and Fund Transfer transactions? If So what are the limits.",
+    "contextId": "b356bb14-c6ad-4b3e-bdf2-adc16047dafe"
   },
   {
-    "Question": "Can one withdraw the bid for subscribing to a public issue?"
+    "categoryQuestion": "I have received a new/reissued credit / debit card but I am unable to do online transaction?",
+    "contextId": "92a27118-b564-43fc-bf98-1c0ab4bee5cc"
   },
   {
-    "Question": "When will the shares alloted to me in a public issue get credited to my demat account?"
+    "categoryQuestion": "In case a debit transaction bounces whether the bank will levy charges?",
+    "contextId": "9d64d7d8-6765-4ea9-835a-8149cf596549"
   },
   {
-    "Question": "When does my money get unblocked in case of no/partial allotment?"
+    "categoryQuestion": " What is a supplementary/add-on credit card?",
+    "contextId": "622b785c-e061-484c-a015-e901830b1f3a"
   },
   {
-    "Question": "Whom to approach in case of non-recepit of shares / delay in unblocking?"
+    "categoryQuestion": "Is it mandatory for the customer (PPI / wallet holder) to register for SMS alerts?",
+    "contextId": "ac0454cd-0aa6-45f1-ad71-26bdad13927b"
   },
   {
-    "Question": "What is IPO Grading?"
+    "categoryQuestion": "Can the banks return the cheques if PPS information is not provided by the customer",
+    "contextId": "83614f99-ed5e-4a32-aecd-8c02a6794ebb"
   },
   {
-    "Question": "Who does IPO Grading?"
+    "categoryQuestion": "What is the protection available in case of unauthorised transactions involving PPIs issued by non-banks?",
+    "contextId": "452c5031-6784-4948-930d-111d11f8697e"
   },
   {
-    "Question": "Is IPO Grading mandatory?"
+    "categoryQuestion": "Does the provisions of section 138 of the NI act apply to electronic payments?",
+    "contextId": "3a4b540a-f7d8-4a4f-ae4e-44c53baa6e17"
   },
   {
-    "Question": "Does IPO grading recommend whether to subscribe to an IPO or not?"
+    "categoryQuestion": "If a debit card or ATM card of a bank is about to expire, do we have to update the third party UPI App about the same or it will function normally with the old debit ATM card details?",
+    "contextId": "0d523c39-3dfd-43bf-a85c-15389e12bf95"
   },
   {
-    "Question": "What factors do CRAs consider while arriving at an IPO Grade?"
+    "categoryQuestion": "What is full KYC PPI wallet?",
+    "contextId": "dd893f2c-063b-4801-9ed1-0ffba7361670"
   },
   {
-    "Question": "What do various IPO grades represent"
+    "categoryQuestion": "How is image quality ensured in CTS?",
+    "contextId": "9cbf62f0-c1da-4216-8bf7-91b84faa7e3d"
   },
   {
-    "Question": "Where can one find IPO grade obtained by a company?"
+    "categoryQuestion": "What is the primary responsibility of the customer issuing Mandate for recurring payments?",
+    "contextId": "bb3e2444-667f-4245-92a7-f4f901f53424"
   },
   {
-    "Question": "What is the role of SEBI in IPO grading?"
+    "categoryQuestion": "Will I be asked to enter my credit card PIN while making a purchase at a retail outlet, be it domestic or international?",
+    "contextId": "1c873515-0ce9-443e-9898-45f71be55420"
   },
   {
-    "Question": "Does SEBI give IPO grading?"
+    "categoryQuestion": "What will happen if i enter the wrong UPI pin for authorizing feature phone payment?",
+    "contextId": "1e0547df-1c22-42e2-aad9-fe6326ff637b"
   },
   {
-    "Question": "What is credit rating?"
+    "categoryQuestion": "What is meant by Jan Dhan account?",
+    "contextId": "17c211f5-05d3-464d-830c-e8d67691110b"
   },
   {
-    "Question": "Should one invest in a debt security solely based on its credit rating?"
+    "categoryQuestion": "Who are authorizsed to Issue full-KYC PPIs to beneficiaries of cross-border inward remittances?",
+    "contextId": "043fbf6f-3d24-4674-9b2e-5f77fca930fb"
   },
   {
-    "Question": "How do CRAs do credit rating?"
+    "categoryQuestion": "Can I put a stop a payment request for funds transferred by UPI?",
+    "contextId": "dbcaf629-fd00-46b3-b9db-0d27bb6a2686"
   },
   {
-    "Question": "Who pays for credit rating?"
+    "categoryQuestion": "Can a bank offer more number of free transactions at ATMs?",
+    "contextId": "bacc3e2b-281c-4794-a923-6b3ae57421b7"
   },
   {
-    "Question": "What are the meanings of various credit rating symbols?"
+    "categoryQuestion": "What if I DO NOT have a DATA Connection, will the Application work using wi-fi?",
+    "contextId": "f07249a1-6117-44c7-8340-823543db47e0"
   },
   {
-    "Question": "Where can a debt issuer get credit rating from?"
+    "categoryQuestion": "Are the customers eligible for compensation for delays in receiving credit into the account for a failed transaction?",
+    "contextId": "75065949-3322-4d59-b1e6-32f3300e4eaf"
   },
   {
-    "Question": "Can a CRA change credit rating subsequently?"
+    "categoryQuestion": "What happens to outstanding balance if the ‘minimum detail’ PPI is not required anymore and has to be closed?",
+    "contextId": "925b2025-9e39-49da-9ce8-150d26731a51"
   },
   {
-    "Question": "hat kind of responsibility or accountability will attach to a rating agency if an investor, who makes his investment decision on the basis of its rating, incurs a loss on the investment?"
+    "categoryQuestion": "What is BHIM UPI QR or UPI QR?",
+    "contextId": "d1e8cba8-d38b-49ff-9847-13ed01bb0d7e"
   },
   {
-    "Question": "Does SEBI play a role in the assessment done by a credit rating agency?"
+    "categoryQuestion": "How do I pay utility bills using feature phone",
+    "contextId": "f6d18955-8bd0-4ecf-b71b-d87a8110a849"
   },
   {
-    "Question": "What measures has SEBI taken to protect the interest of subscribers of a public issue?"
+    "categoryQuestion": "How can I apply for Internet/ Net Banking and/ or Mobile Banking?",
+    "contextId": "fd52a90b-4021-4a2c-a28a-7e5b3ed0dcd4"
   },
   {
-    "Question": "What are equity shares?"
+    "categoryQuestion": "Will internet be required for doing payments as feature phone does not have internet?",
+    "contextId": "f3c77b4b-4376-4bb1-b198-b365af795ef6"
   },
   {
-    "Question": "What are debentures?"
+    "categoryQuestion": "Is there any limit on loading of PPIs / wallet by cash or electronic means?",
+    "contextId": "f678c47c-e23e-4af6-90be-b27200308059"
   },
   {
-    "Question": "Whether debentures are secured?"
+    "categoryQuestion": "When will Aadhaar based UPI registration will commence ?",
+    "contextId": "f1bb6b7a-4915-44ef-b4bd-57bd37614a8e"
   },
   {
-    "Question": "What are the different types of debentures?"
+    "categoryQuestion": "Is it secure to provide my personal identity information like biometric for E-sign?",
+    "contextId": "9645b6f8-3414-4ef4-b286-d0ef82f4dc82"
   },
   {
-    "Question": "What are non-convertible debentures?"
+    "categoryQuestion": "What is my daily transaction limit for fund transfers while using Internet/ Net Banking and Mobile Banking?",
+    "contextId": "362fbef3-8669-4340-a635-5d9b4be54e3e"
   },
   {
-    "Question": "What are partially convertible debentures?"
+    "categoryQuestion": "Will I be charged to use my Internet/ Net Banking and Mobile Banking facility?",
+    "contextId": "7af320e6-e8d4-435c-be46-f3c158440e72"
   },
   {
-    "Question": "What are fully convertible debentures?"
+    "categoryQuestion": "How to check the account balance of FastTag balance?",
+    "contextId": "5f488da1-431b-4b4b-b8ab-c20315a848a9"
   },
   {
-    "Question": "What are bonds?"
+    "categoryQuestion": "What is an On-Us and Off-Us transaction?",
+    "contextId": "5674ed74-a59e-431a-9ed6-324732d757b2"
   },
   {
-    "Question": "How are bonds different from debentures?"
+    "categoryQuestion": "What happens to outstanding balance if the Prepaid card is not required anymore and has to be closed?",
+    "contextId": "5eb1cf99-fdfb-491a-9de5-e173cdd88362"
   },
   {
-    "Question": "What are Government Securities?"
+    "categoryQuestion": "Amount was debited but cash was not dispensed / ATM did not give cash",
+    "contextId": "ed48a3ff-3973-46f9-9964-f64dbf30e182"
   },
   {
-    "Question": "From where can one buy Government Securities?"
+    "categoryQuestion": "How RTGS is different from National Electronics Funds Transfer System (NEFT)?",
+    "contextId": "55db5e7b-8f77-4547-a61b-3c5e3ccaaaa3"
   },
   {
-    "Question": "Do Government Securities have credit risk?"
+    "categoryQuestion": "BHIM call center helpline number information",
+    "contextId": "f0d41ef8-5f71-4e6c-a4b0-dfcc4ea0fc68"
   },
   {
-    "Question": "Who is the issuer of Government Securities?"
+    "categoryQuestion": "What should be done to the ATM card when its validity has expired or the underlying account is closed?",
+    "contextId": "56786b78-d592-4c6c-bbec-14be01001c6b"
   },
   {
-    "Question": "What are Money Market instruments?"
+    "categoryQuestion": "What is a Non-bank required to do to issue co-branded PPI?",
+    "contextId": "16cedeab-30a1-47e7-9251-63fc1fa9c8da"
   },
   {
-    "Question": "What are T-Bills?"
+    "categoryQuestion": "What are the features of Prepaid cards for Mass Transit Systems?",
+    "contextId": "8e6f0cf0-9239-44d2-834a-3e71857c0585"
   },
   {
-    "Question": "What are Certificate of Deposits?"
+    "categoryQuestion": "What is a deemed or pending transaction?",
+    "contextId": "e7bf51c7-23eb-4689-8cc6-ba9a12787121"
   },
   {
-    "Question": "What are commercial Papers?"
+    "categoryQuestion": "Can I use my contactless card to do online payments and swipe at (Point-of-Sale) PoS machine at a retail outlet?",
+    "contextId": "35eeea7c-dacd-4d56-a195-eacac57bad7d"
   },
   {
-    "Question": "What are Hybrid instruments?"
+    "categoryQuestion": "Whether TReDS could deal with reverse factoring?",
+    "contextId": "e1bb0a4c-985c-41be-a732-156a9ec69be8"
   },
   {
-    "Question": "What is meant by preferred stock / preference shares?"
+    "categoryQuestion": "When shall PPI issuer intimate the expiry of PPI?",
+    "contextId": "f47615f1-3868-4864-9217-f3ba5f016879"
   },
   {
-    "Question": "What are Cumulative Preference Shares?"
+    "categoryQuestion": "If I change my UPI app will I be required to register again or I can carry the same UPI ID?",
+    "contextId": "b8f785e2-7b14-472c-ad62-40ecd81dbd2d"
   },
   {
-    "Question": "What are Cumulative Convertible Preference Shares?"
+    "categoryQuestion": "What is needed to get approval from RBI to issue PPI?",
+    "contextId": "95e6b88b-5643-4a9e-a379-d0aa078d5c78"
   },
   {
-    "Question": "What are Participating Preference Shares?"
+    "categoryQuestion": "What are the types of Semi-closed PPIs?",
+    "contextId": "b2de93e0-3cea-42dd-aa32-0b50093b9cb8"
   },
   {
-    "Question": "What is SEBI's credo?"
+    "categoryQuestion": "How long is the OTP for an online transaction valid?",
+    "contextId": "42196dce-933d-40bb-b01d-43d6f76f02df"
   },
   {
-    "Question": "What is dematerialisation of secirotoes?"
+    "categoryQuestion": "Is funds transfer permitted from a Small PPI or ‘minimum detail’ PPI or wallet and ‘PPI or wallet’?",
+    "contextId": "b0142ead-4aac-4869-a83e-00a98d284e2c"
   },
   {
-    "Question": "What are the advantages / benefits of demat?"
+    "categoryQuestion": "Is fund transfer allowed from a ‘full-KYC’ PPI?",
+    "contextId": "c91d4e2b-7f97-4f0e-b746-a72a51c37e4d"
   },
   {
-    "Question": "What is nomination of securities?"
+    "categoryQuestion": "Where can I use BHIM UPI QR or UPI QR to make purchase?",
+    "contextId": "84158f5a-0e1c-47d6-a5ed-f31c70a9ec6f"
   },
   {
-    "Question": "How to demat my shares?"
+    "categoryQuestion": "What is the maximum amount permitted to be loaded in full-KYC PPIs through inward MTSS remittance?",
+    "contextId": "edf39d8f-3789-4b45-a873-92eb01657820"
   },
   {
-    "Question": "What is ISIN number?"
+    "categoryQuestion": "Is the Integrated Banking Ombudsman Scheme applicable for PPI / wallet transactions?",
+    "contextId": "430886c1-b624-4ab6-a2a6-ac5eb3e07520"
   },
   {
-    "Question": "How to find ISIN number?"
+    "categoryQuestion": "Can NEFT be used to transfer funds from / to NRE and NRO accounts?",
+    "contextId": "d741e1ce-896c-4d98-90c5-141f28fcdf5f"
   },
   {
-    "Question": "Power of attorney (PoA) in context of demat account?"
+    "categoryQuestion": "What are Open system PPIs/ wallet?",
+    "contextId": "a15caa94-5c07-41ae-bb8b-5ee115fd3928"
   },
   {
-    "Question": "How to avail nomination?"
+    "categoryQuestion": "What details do I need to share with the sender to receive funds through IMPS?",
+    "contextId": "2f042df3-1e62-48fe-8b8e-86742e8abd13"
   },
   {
-    "Question": "Why is nomination important?"
+    "categoryQuestion": "What happens to outstanding balance if the ‘PPI with loading only from bank account’ is not required anymore and has to be closed?",
+    "contextId": "072664cc-a3e2-46eb-b467-825423021ab5"
   },
   {
-    "Question": "How to transfer securities?"
+    "categoryQuestion": "What is the minimum validity period of a PPI / wallet?",
+    "contextId": "241778cd-d5a1-470e-9aaf-3586be26dd42"
   },
   {
-    "Question": "Is there any timeline specified for listed companies to transfer securities?"
+    "categoryQuestion": "What are closed system PPIs / wallet?",
+    "contextId": "875f7ea3-a859-4f72-8818-657ab73b5ba6"
   },
   {
-    "Question": "What if a company does not transfer securities within stipulated timeline?"
+    "categoryQuestion": "What are semi-closed system PPIs/ wallet?",
+    "contextId": "cbe0ddb8-8348-48d3-82af-72b41ec814ac"
   },
   {
-    "Question": "What is Transmission of securities?"
+    "categoryQuestion": "Who can issue Open System PPIs and what are the types of such PPIs?",
+    "contextId": "1380cc37-d834-43ae-be89-095f7fa642c0"
   },
   {
-    "Question": "What is the procedure of transmission of securities?"
+    "categoryQuestion": "Steps in making digital payment using feature phone",
+    "contextId": "73bfbac6-b41a-408a-befc-adb46c32142c"
   },
   {
-    "Question": "What is stock split?"
+    "categoryQuestion": "Does a holder earn any interest on prepaid card balance?",
+    "contextId": "3a5a216e-bbb4-43f1-95d7-0dccd0e630b4"
   },
   {
-    "Question": "How can I sell my shares?"
+    "categoryQuestion": "If customer’s account is debited but he has not received cash, then, in how much time will the bank credit the customer’s account?",
+    "contextId": "03045847-89b2-4f9e-bc6d-f3842a7c10ee"
   },
   {
-    "Question": "What is SEBI's regulatory purview?"
+    "categoryQuestion": "Are free ATM transactions applicable to a Basic Savings Bank Deposit Account (BSBDA)?",
+    "contextId": "12a0d63e-5536-4322-831a-383b9e649b27"
   },
   {
-    "Question": "What is SEBI's mandate?"
+    "categoryQuestion": "Who can provide the facility of PPI interoperability?",
+    "contextId": "9553c02f-8334-4d81-a604-9feef4e5ab87"
   },
   {
-    "Question": "What are the different legislations governing securities market?"
+    "categoryQuestion": "Can I change the transaction limit on my Credit / Debit Card",
+    "contextId": "b3a452c6-f16f-473a-a676-4accff96256b"
   },
   {
-    "Question": "What is a share?"
+    "categoryQuestion": "I have seen offers/ benefits on my card (e.g. merchant discounts/ airport lounge access/ concierge, etc.) how do I avail these offers?",
+    "contextId": "c447a9b6-6105-47ed-9bc4-85c023e2e6fb"
   },
   {
-    "Question": "What are debt securities?"
+    "categoryQuestion": "What if amount gets debited from my account despite cancellation/revocation of mandate?",
+    "contextId": "f95cb496-375f-4210-bd70-60c7a8dba1c1"
   },
   {
-    "Question": "What is a derivative?"
+    "categoryQuestion": "Can co-branded PPIs be issued?",
+    "contextId": "366c42a9-aa8e-430a-97c8-db4fc79efa02"
   },
   {
-    "Question": "What is mutual fund?"
+    "categoryQuestion": "How shall the refunds in case of failed / returned / rejected / cancelled transactions be dealt with?",
+    "contextId": "a7e77606-40e5-4a03-951b-49227d449985"
   },
   {
-    "Question": "What is a debenture?"
+    "categoryQuestion": "Is the customer supposed to get an alert of transaction in his / her PPI / wallet account?",
+    "contextId": "ba84741d-b52d-4247-a28c-8d6670b554c0"
   },
   {
-    "Question": "What is a bond?"
+    "categoryQuestion": "Is there any requirement of providing account statement or transaction history of PPI transactions?",
+    "contextId": "d50c6ecb-3191-42e4-b8de-06670cb9fb07"
   },
   {
-    "Question": "Who is a shareholder?"
+    "categoryQuestion": "How can the smartphone be enabled for payment through BHIM UPI QR?",
+    "contextId": "f4d73fe7-6113-43a5-af0a-cd72b3505814"
   },
   {
-    "Question": "What is meant by securities market?"
+    "categoryQuestion": "My Aadhaar number is linked with more than one bank, in which bank account the benefits will be credited",
+    "contextId": "863a95f9-ded3-421b-a57e-8019000e5da0"
   },
   {
-    "Question": "What is securities market?"
+    "categoryQuestion": "Is it mandatory to link Aadhaar with account number to avail the eSign mandate?",
+    "contextId": "22ae114e-6e8e-481a-bfde-9261a1c8adcf"
   },
   {
-    "Question": "What is the primary function of securities market?"
+    "categoryQuestion": "What are the authentication modes available to register an E- mandate?",
+    "contextId": "07d9d314-e14e-41e5-8321-c7864fe8c867"
   },
   {
-    "Question": "What are the segments of securities market?"
+    "categoryQuestion": "What are the permissions needed for carrying out MTSS?",
+    "contextId": "3735c26d-c46b-4703-8e38-0b551b8fd2cc"
   },
   {
-    "Question": "How many segments do securities markets have?"
+    "categoryQuestion": "Whether any authorisation is required to set up and operate a TReDS platform?",
+    "contextId": "aa73f57f-f709-4f30-bf2d-f765cfd71fa2"
   },
   {
-    "Question": "What is primary market?"
+    "categoryQuestion": "While receiving a cross-border inward remittance under MTSS, can ₹ 50,000/- be credited in PPI and the remaining in bank account?",
+    "contextId": "3c3a5cb5-4bfa-43bb-b255-f89ef349d3e6"
   },
   {
-    "Question": "What is secondary market?"
+    "categoryQuestion": "What is the meaning of tag blacklisted? What can be done to avoid the Blacklist of tag?",
+    "contextId": "253421b5-fc0d-4725-a5f4-536083950b65"
   },
   {
-    "Question": "What are the different types of issues in Primary Market?"
+    "categoryQuestion": "Where can I find the details of TReDS entities authorised by RBI?",
+    "contextId": "f91ba290-1f12-4f1c-901c-151e57b7e625"
   },
   {
-    "Question": "What is a Public Issue?"
+    "categoryQuestion": "Whether the MSME seller would have to pay to the financier in case the buyer defaults in repayment?",
+    "contextId": "feac6e69-d9e9-45be-88fd-2ffe399cd464"
   },
   {
-    "Question": "What is Preferential Issue?"
+    "categoryQuestion": "Whether defaults on TReDS platform are the responsibility of TReDS entities?",
+    "contextId": "93bb5956-91a9-4bbf-a620-3d78a45d8185"
   },
   {
-    "Question": "What is Rights Issue?"
+    "categoryQuestion": "Whether TReDS entities undertake KYC (Know Your Customer) of participants?",
+    "contextId": "c78f55d8-ebed-414f-a687-e87e15cce547"
   },
   {
-    "Question": "What is Bonus Issue?"
+    "categoryQuestion": "What steps should a customer take in case of a failed ATM transaction when his / her account is debited?",
+    "contextId": "4ee0d4b4-616d-4820-9c12-6739b9f648e0"
   },
   {
-    "Question": "What are Market Infrastructure Institutions (MIIs)?"
+    "categoryQuestion": "What is the eligibility criteria for setting up and operating TReDS?",
+    "contextId": "dd11ed4f-8dbf-4f0a-920c-eb13e195b7ee"
   },
   {
-    "Question": "What is the role of MIIs?"
+    "categoryQuestion": "Is it safe to use a payment gateway to make payments using a card?",
+    "contextId": "eb089cb9-529b-40cf-a693-3ac067af451a"
   },
   {
-    "Question": "What do Stock Exchanges do?"
-  },
-  {
-    "Question": "What do Clearing Corporations do?"
-  },
-  {
-    "Question": "What is the role of Clearing Corporations?"
-  },
-  {
-    "Question": "What are Depositories?"
-  },
-  {
-    "Question": "What do Depositories do?"
-  },
-  {
-    "Question": "What is the role of Depositories?"
-  },
-  {
-    "Question": "What are intermediaries in securities market?"
-  },
-  {
-    "Question": "What is Currency Risk?"
-  },
-  {
-    "Question": "What is Volatility Risk?"
-  },
-  {
-    "Question": "What is Business Risk?"
-  },
-  {
-    "Question": "What is Liquidity risk?"
-  },
-  {
-    "Question": "What is Inflation risk?"
-  },
-  {
-    "Question": "What is Unsystematic Risk?"
-  },
-  {
-    "Question": "What is Market risk or Systematic Risk?"
-  },
-  {
-    "Question": "What is a Basic Services Demat Account?"
-  },
-  {
-    "Question": "What is Power of Attorney?"
-  },
-  {
-    "Question": "What is nomination?"
-  },
-  {
-    "Question": "What is ASBA?"
-  },
-  {
-    "Question": "What is Consolidated Account Statement (CAS)"
-  },
-  {
-    "Question": "What is a futures contract?"
-  },
-  {
-    "Question": "What is an options contract?"
-  },
-  {
-    "Question": "What does a mutual fund do?"
-  },
-  {
-    "Question": "What is an ETF?"
+    "categoryQuestion": "What if I wave the Contactless credit/debit card twice at the terminal? Will I be charged twice?",
+    "contextId": "0f92b903-a39c-46d6-a900-ed5257295362"
   }
 ]

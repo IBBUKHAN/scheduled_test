@@ -1,138 +1,852 @@
 [
   {
-    "Question": "What is a mutual fund?",
-    "Matching": "What is a Mutual Fund?"
+    "Question": "On which channels, PPS data can be collected by banks?",
+    "Response": "OK",
+    "Matching": "7505d523-437f-4ff2-ad82-7a8de5decad3"
   },
   {
-    "Question": "How can I evaluate a mutual fund's performance?",
-    "Matching": "How to know the performance of a mutual fund scheme?"
+    "Question": "I have a finance charge in my credit card statement. What does it mean?",
+    "Response": "OK",
+    "Matching": "463b70cf-3c31-4167-8b98-71a88e210600"
   },
   {
-    "Question": "what is a tracking error?",
-    "Matching": "Tracking error"
+    "Question": "What is the protection available in case of unauthorised transactions involving PPIs / wallets issued by banks?",
+    "Response": "OK",
+    "Matching": "d51410ce-0417-4630-a563-ac8a8d2cc505"
   },
   {
-    "Question": "What is expense ratio?",
-    "Matching": "What is expense ratio?"
+    "Question": "What is Minimum Payment Due in my credit card statement?",
+    "Response": "OK",
+    "Matching": "878bef90-0668-46b4-aabd-f1b6cdf152d5"
   },
   {
-    "Question": "How do mutual funds work?",
-    "Matching": "What is a Mutual Fund?"
+    "Question": "Who should be the customer contact, in case of non-credit or delay in credit to the payee account?",
+    "Response": "OK",
+    "Matching": "bce5727c-28f6-4c51-be08-fb8241f20508"
   },
   {
-    "Question": "what is a no load fund?",
-    "Matching": "What is a Load or no-load Fund?"
+    "Question": "In case my finger is injured can I use iris recognition?",
+    "Response": "OK",
+    "Matching": "2e6e370c-87f6-47c2-aa59-39da071ef1c6"
   },
   {
-    "Question": "What is an offer document?",
-    "Matching": "What is an offer document?"
+    "Question": "My bank is claiming that they have seeded the Aadhaar number but on UIDAI web site it is not reflecting",
+    "Response": "OK",
+    "Matching": "324aaa96-b812-4c39-bfa6-c5c65a955a0b"
   },
   {
-    "Question": "What is a depository?",
-    "Matching": "What is a depository?"
+    "Question": "What are Magnetic Stripe cards and EMV Chip & PIN cards?",
+    "Response": "OK",
+    "Matching": "557c1ecb-4fa5-44bf-a7a3-4af402b3e383"
   },
   {
-    "Question": "What is a depository participant?",
-    "Matching": "Who is Depository Participant (DP)?"
+    "Question": "how can I find my nearest Business Correspondent?",
+    "Response": "OK",
+    "Matching": "b2fb581d-2154-404d-b72e-f0a4799f7fc4"
   },
   {
-    "Question": "How to get an offer document?",
-    "Matching": "Where to I get the copies of the offer document?"
+    "Question": "After adding one bank account in my UPI App, if you want to add another bank account, then what is the process?",
+    "Response": "OK",
+    "Matching": "87df897e-eb32-4a74-b553-23a21918c10f"
   },
   {
-    "Question": "What is ASBA?",
-    "Matching": "What is application supported by blocked amount (ASBA)?"
+    "Question": "How can a consumer know that he is using a Bharat BillPay enabled channel for bill payment?",
+    "Response": "OK",
+    "Matching": "b503acc3-704b-4dbd-bc13-ddbe28a3adfe"
   },
   {
-    "Question": "What is credit rating?",
-    "Matching": "What is a credit rating?"
+    "Question": "Does a holder earn any interest on PPI balances?",
+    "Response": "OK",
+    "Matching": "f7af3459-149d-4b1c-abef-4aba05ed2aa2"
   },
   {
-    "Question": "Who pays for credit rating?",
-    "Matching": "Who pays for the credit rating?"
+    "Question": "Is overdraft allowed with a debit card?",
+    "Response": "OK",
+    "Matching": "038371e9-cf00-4f84-8e62-a671f571f310"
   },
   {
-    "Question": "hat kind of responsibility or accountability will attach to a rating agency if an investor, who makes his investment decision on the basis of its rating, incurs a loss on the investment?",
-    "Matching": "Whatkind of responsibility or accountability will attach to a rating agency if an investor, who makes his investment decision on the basis of its rating, incurs a loss on the investment?"
+    "Question": "How is Bharat QR code different from other QR code in market?",
+    "Response": "OK",
+    "Matching": "07deee65-c1c8-4306-870b-b492a2887f57"
   },
   {
-    "Question": "What are debentures?",
-    "Matching": "What is a Debenture?"
+    "Question": "Can the corporate represent the bounced transactions?",
+    "Response": "OK",
+    "Matching": "a8650d69-26e8-44b9-8aec-f5bcb803720c"
   },
   {
-    "Question": "What are Cumulative Preference Shares?",
-    "Matching": "Cumulative Preference Shares"
+    "Question": "How can one know if the ATM location is metro or non-metro?",
+    "Response": "OK",
+    "Matching": "cd39ca30-a177-4bde-b164-2daa0b7ef810"
   },
   {
-    "Question": "What are Cumulative Convertible Preference Shares?",
-    "Matching": "Cumulative Convertible Preference Shares"
+    "Question": "Is the customer protected against any unauthorised transaction after he / she has reported to the issuer about such transactions or loss of instrument?",
+    "Response": "OK",
+    "Matching": "e58162d1-9641-425c-b40c-c83969f8e698"
   },
   {
-    "Question": "What are Participating Preference Shares?",
-    "Matching": "Participating Preference Shares"
+    "Question": "Is there any transaction limit on the amount that can be withdrawn from an ATM using a credit card / debit card?",
+    "Response": "OK",
+    "Matching": "7f1322c4-b824-4296-a48f-5cd10fe56611"
   },
   {
-    "Question": "How to avail nomination?",
-    "Matching": "How do I make nomination?"
+    "Question": "Whether corporates can also participate in NACH credit?",
+    "Response": "OK",
+    "Matching": "fb3d779b-c743-4049-9c79-eb3012e829b9"
   },
   {
-    "Question": "Why is nomination important?",
-    "Matching": "Why is it important to nominate?"
+    "Question": "I was forced to pay by cash at the toll plaza, though I am having sufficient balance in FASTag?",
+    "Response": "OK",
+    "Matching": "a6a6c24a-71e2-4c61-8031-4dfeefbbcf35"
   },
   {
-    "Question": "What is Transmission of securities?",
-    "Matching": "What is transmission of securities?"
+    "Question": "Can I request for a Printed receipt for the Purchase made?",
+    "Response": "OK",
+    "Matching": "65719e8e-b439-4b1b-94b4-a6fd921a6832"
   },
   {
-    "Question": "What is the procedure of transmission of securities?",
-    "Matching": "What is transmission of securities?"
+    "Question": "What is the EMI tenure that is offered on credit/ debit card?",
+    "Response": "OK",
+    "Matching": "cf198109-2b43-47ce-b83b-a8a526825b5c"
   },
   {
-    "Question": "What is a derivative?",
-    "Matching": "What are Derivatives?"
+    "Question": "Will I receive any notification everytime my balance is deducted for subcribed product/ service",
+    "Response": "OK",
+    "Matching": "045df7f1-fe67-446f-857b-5109b286518e"
   },
   {
-    "Question": "What is mutual fund?",
-    "Matching": "What is a Mutual Fund?"
+    "Question": "What can I do with Internet/Net Banking and/ or Mobile Banking?",
+    "Response": "OK",
+    "Matching": "01048b50-85e0-4ede-a7c8-1797bab6b431"
   },
   {
-    "Question": "What is a debenture?",
-    "Matching": "What is a Debenture?"
+    "Question": "My credit card / debit card is damaged. How can I replace it?",
+    "Response": "OK",
+    "Matching": "b55e07bb-315a-44f3-819b-5e01267b67b3"
   },
   {
-    "Question": "What is secondary market?",
-    "Matching": "What is meant by Secondary Market?"
+    "Question": "Which Languages Are Supported On Feature Phone Payments?",
+    "Response": "OK",
+    "Matching": "0dc825a3-e33b-455d-a1c9-c6adae0172bc"
   },
   {
-    "Question": "What are Market Infrastructure Institutions (MIIs)?",
-    "Matching": "What are Market Infrastructure Institutions (MIIs)?"
+    "Question": "Are purchases made through contactless cards safe and secure?",
+    "Response": "OK",
+    "Matching": "5d43c8a2-a9fc-4192-a3ae-2a7f7607a80e"
   },
   {
-    "Question": "What are Depositories?",
-    "Matching": "What is a Depository?"
+    "Question": "What infrastructure does a bank require to participate in CTS?",
+    "Response": "OK",
+    "Matching": "13b690de-6a6d-49ec-a46f-5c1ef49aca1d"
   },
   {
-    "Question": "What is Liquidity risk?",
-    "Matching": "What is liquidity risk?"
+    "Question": "What is an E-sign E- mandate?",
+    "Response": "OK",
+    "Matching": "eb285158-9c13-4b49-a753-eed6a9dc18eb"
   },
   {
-    "Question": "What is Unsystematic Risk?",
-    "Matching": "Unsystematic Risk"
+    "Question": "What is Ultra Cash Payment System",
+    "Response": "OK",
+    "Matching": "3aa92b99-a05d-4228-8b3a-f14dda7f25f9"
   },
   {
-    "Question": "What is ASBA?",
-    "Matching": "What is application supported by blocked amount (ASBA)?"
+    "Question": "Transaction facility from keypad mobile",
+    "Response": "OK",
+    "Matching": "246f2eda-fa8b-41df-ae36-13675cbd8704"
   },
   {
-    "Question": "What is a futures contract?",
-    "Matching": "What is a Futures Contract?"
+    "Question": "Can I avail EMI facility on Debit/ Credit card?",
+    "Response": "OK",
+    "Matching": "0de0112b-17a8-481f-b732-c055899ccba5"
   },
   {
-    "Question": "What is an options contract?",
-    "Matching": "What is an Option contract?"
+    "Question": "Would the payer (sender of money) receive an acknowledgement of money credited to the payee’s (receiver of money) account?",
+    "Response": "OK",
+    "Matching": "42e81e9d-601e-487e-a933-3be5b9ab66c1"
   },
   {
-    "Question": "What is an ETF?",
-    "Matching": "What are Exchange Traded Funds (ETFs)?"
+    "Question": "What is the cap on E-sign mandate?",
+    "Response": "OK",
+    "Matching": "1f59a342-fe68-4435-a257-ed5a4f8bfaf8"
+  },
+  {
+    "Question": "Where can the customer report an unauthorised transaction in his / her PPI / wallet account?",
+    "Response": "OK",
+    "Matching": "f544f621-cf3b-482d-98df-fefb97a09250"
+  },
+  {
+    "Question": "Can I change or reset my UPI pin ON feature phone?",
+    "Response": "OK",
+    "Matching": "81188e17-f4a9-48c2-8f7d-caafa56d2687"
+  },
+  {
+    "Question": "What is meant by ‘duly verified by the issuer’? How should the PPI issuer ensure that it is the ‘own bank account of the PPI holder’?",
+    "Response": "OK",
+    "Matching": "f910a1cf-e2f4-4498-af1f-32a1c2bfc813"
+  },
+  {
+    "Question": "I have selected the Bank name to link with UPI but it does not find my bank account?",
+    "Response": "OK",
+    "Matching": "b0a6a29c-f8f6-4178-a5e7-6e7499d57364"
+  },
+  {
+    "Question": "Can Billers offer bill payment outside BBPS?",
+    "Response": "OK",
+    "Matching": "1ed35c19-8971-4037-9579-a4d1bd3cf37f"
+  },
+  {
+    "Question": "I reside within 10 km of a particular toll plaza. Do I need to take FASTag to get the concessions available for local vehicles?",
+    "Response": "OK",
+    "Matching": "1ac39058-0ccc-4afe-ae5f-93b657532fa4"
+  },
+  {
+    "Question": "In case of a co-branded card, who will be responsible for addressing all customer service aspects?",
+    "Response": "OK",
+    "Matching": "2ffd4c0d-12d7-47e3-be5b-274383858628"
+  },
+  {
+    "Question": "Is it possible for a bank not having current account or RTGS account with rbi to participate in NACH credit?",
+    "Response": "OK",
+    "Matching": "64a1ec70-eaed-4262-b71d-ea2ec46bbf67"
+  },
+  {
+    "Question": "Is NETC Tag for Mumbai Bandra- Worli Sea link RFID tag and FASTag is same tag or different tag?",
+    "Response": "OK",
+    "Matching": "35ccbd33-6cc5-4c2c-a073-b52f8796f810"
+  },
+  {
+    "Question": "After giving consent form to bank, when will my Aadhaar get seeded?",
+    "Response": "OK",
+    "Matching": "ec686421-0bb8-4202-a60a-0824e6283af9"
+  },
+  {
+    "Question": "Where can I raise a dispute for frauds OR Any other problems for payments done on feature phone?",
+    "Response": "OK",
+    "Matching": "9ad065ee-f94e-4531-9dbe-ae79b491e9aa"
+  },
+  {
+    "Question": "Are prepaid cards linked to bank accounts?",
+    "Response": "OK",
+    "Matching": "34716533-eee9-4224-b00c-8c38795db1b6"
+  },
+  {
+    "Question": "Will my UPI ID be created when i onboard on feature phone?",
+    "Response": "OK",
+    "Matching": "049eee36-8393-4a10-a64c-70b19cb40e4b"
+  },
+  {
+    "Question": "Is cash withdrawal or funds transfer permitted from the two types of Small PPIs?",
+    "Response": "OK",
+    "Matching": "6f3faf69-c4e9-4fa3-b59b-77f41aa5dbd6"
+  },
+  {
+    "Question": "Can i do payments frommy bank account by usoing my anyone else's feature phone?",
+    "Response": "OK",
+    "Matching": "56a141b7-31a9-47f3-bf6c-f2392eb69666"
+  },
+  {
+    "Question": "Does the customer need to register his/her mobile number to avail *99# service?",
+    "Response": "OK",
+    "Matching": "cf5832c9-7a91-4398-a491-b73472cff57f"
+  },
+  {
+    "Question": "Are there any annual renewal fees for a credit card?",
+    "Response": "OK",
+    "Matching": "82da41f8-eb13-48da-a7e3-dd0692e43acb"
+  },
+  {
+    "Question": "I lost my credit card / debit card but found it later. Can I still use the card?",
+    "Response": "OK",
+    "Matching": "dde2f009-47b1-4903-9b4d-3e389bced4b0"
+  },
+  {
+    "Question": "Why my FASTag is showing blacklisted at toll plaza?",
+    "Response": "OK",
+    "Matching": "f1fdb854-06da-4247-9c73-28aac2ea997e"
+  },
+  {
+    "Question": "What IVR number for UPI feature phone payment or 123 Pay",
+    "Response": "OK",
+    "Matching": "53c11b27-56fd-45be-aad1-3343fd972ee9"
+  },
+  {
+    "Question": "Can money be received from abroad through internet/net banking and/or mobile banking?",
+    "Response": "OK",
+    "Matching": "3109a408-80ac-4835-9114-bd6ef0884989"
+  },
+  {
+    "Question": "What are transaction charges for a bill payment done through BBPS or Bharat BillPay?",
+    "Response": "OK",
+    "Matching": "e9338e1b-7d4b-45c4-b06c-0350df989460"
+  },
+  {
+    "Question": "Can I stop/cancel IMPS transaction once approved at my end?",
+    "Response": "OK",
+    "Matching": "467f72c4-a0c8-417b-9843-cf4ec2223f65"
+  },
+  {
+    "Question": "My transaction was failed, but still amount is not reversed or credited back to the account /card",
+    "Response": "OK",
+    "Matching": "65d67ba2-b79a-4962-89e7-7a37049ef14d"
+  },
+  {
+    "Question": "What is SIM overlay. Do i buy a new SIM to use this?",
+    "Response": "OK",
+    "Matching": "f00ae235-c6cf-4b83-b7d9-d3d6c66e2840"
+  },
+  {
+    "Question": "What is DCA (Direct Corporate Access)?",
+    "Response": "OK",
+    "Matching": "dcd1c08d-e842-43cf-bf93-2c1974be06a4"
+  },
+  {
+    "Question": "What do the terms billing date/cycle mean for a credit card and can it change?",
+    "Response": "OK",
+    "Matching": "63300bf7-ecba-4b00-9655-7d79465d55de"
+  },
+  {
+    "Question": "Can I link multiple bank account on same BHIM UPI App?",
+    "Response": "OK",
+    "Matching": "7860b8cb-e54b-4cca-bc1d-9d41356253be"
+  },
+  {
+    "Question": "How do I link my Bank account with UPI 123Pay",
+    "Response": "OK",
+    "Matching": "4eda1969-d817-498d-b611-984ed4e9b8c5"
+  },
+  {
+    "Question": "Can i send money to any user on UPI or i will only be able to send it to user on feature phone?",
+    "Response": "OK",
+    "Matching": "117b01d5-0a24-40f5-bcfc-4a9952ff5645"
+  },
+  {
+    "Question": "What is the difference between a prepaid card, a credit card, and a debit card?",
+    "Response": "OK",
+    "Matching": "f64afa0d-add9-4f54-b976-38cd0e20cadb"
+  },
+  {
+    "Question": "Can I put a stop payment request for funds transferred by *99#?",
+    "Response": "OK",
+    "Matching": "8fee3af6-dd8c-46a5-8693-7147d404bcb7"
+  },
+  {
+    "Question": "Can I accidentally be charged for a contactless transaction just by walking past a contactless terminal?",
+    "Response": "OK",
+    "Matching": "cbb63b81-73aa-491d-ad29-bb4c3c9bcec4"
+  },
+  {
+    "Question": "Can I use my debit or credit or prepaid Card for payments through Bharat QR?",
+    "Response": "OK",
+    "Matching": "8d84ddcd-b59f-40e9-a5b8-1ce3fa762fcf"
+  },
+  {
+    "Question": "Are there any charges to consumer on offline bill payment transaction done through Bharat BillPay enabled channels?",
+    "Response": "OK",
+    "Matching": "9e119411-abe7-46ed-b881-5f2778499b28"
+  },
+  {
+    "Question": "What are the benefits of using Internet/ Net Banking and/ or Mobile Banking?",
+    "Response": "OK",
+    "Matching": "73245d24-1b80-4e26-b628-c0e5173a781e"
+  },
+  {
+    "Question": "Who are the issuers of prepaid cards / prepaid instruments?",
+    "Response": "OK",
+    "Matching": "dc70f6e7-47fe-4a05-8c30-759e51b9b4c8"
+  },
+  {
+    "Question": "I have received my Credit card / Debit card but not the PIN. How do I generate my PIN?",
+    "Response": "OK",
+    "Matching": "0ed3ea30-50cf-421c-9261-7caecba06ed3"
+  },
+  {
+    "Question": "What type of instruments can be presented for clearing through CTS",
+    "Response": "OK",
+    "Matching": "06356b5e-b7ab-4856-ae88-f158b1d62e4e"
+  },
+  {
+    "Question": "Is submitting PPS data mandatory?",
+    "Response": "OK",
+    "Matching": "2fc8f870-ab74-48ce-9283-a9bed7db61b9"
+  },
+  {
+    "Question": "What is the grievance redressal mechanism prescribed for a PPI Issuer?",
+    "Response": "OK",
+    "Matching": "ba5c5e6b-2200-454a-8598-f20f56d43116"
+  },
+  {
+    "Question": "How can a card holder know whether if a fraud transaction has taken place using in my prepaid card?",
+    "Response": "OK",
+    "Matching": "e652f621-bb63-43f6-a73f-53c16d4289ff"
+  },
+  {
+    "Question": "What is the maximum amount for e-RUPI voucher?",
+    "Response": "OK",
+    "Matching": "9b9aaac8-e19a-47b7-8dd0-9728571f4626"
+  },
+  {
+    "Question": "Is alteration allowed in writing a cheque ?",
+    "Response": "OK",
+    "Matching": "c15860bc-12c6-4ddf-8e82-95c6dd9ab7d2"
+  },
+  {
+    "Question": "How long can a customer hold a ‘minimum-detail’ PPI / wallet? What will happen to the balance after expiry of stipulated time?",
+    "Response": "OK",
+    "Matching": "d572476f-698a-4003-aca5-1a9e8f4659c6"
+  },
+  {
+    "Question": "What is the mandate for banks for issuing Magnetic Stripe cards or EMV Chip & PIN cards?",
+    "Response": "OK",
+    "Matching": "b3dcb349-71d0-407d-a13f-96c177cc00d0"
+  },
+  {
+    "Question": "Can e-RUPI be redeemed for cash / cash back?",
+    "Response": "OK",
+    "Matching": "5296d0da-14f9-43db-bfff-528884842685"
+  },
+  {
+    "Question": "What is customer grievance redressal mechanism for transactions done by Prepaid cards?",
+    "Response": "OK",
+    "Matching": "5377d070-1953-41d3-9afd-c06969252af3"
+  },
+  {
+    "Question": "Is there any limit on AEPS Cash Withdrawal and Fund Transfer transactions? If So what are the limits.",
+    "Response": "OK",
+    "Matching": "b356bb14-c6ad-4b3e-bdf2-adc16047dafe"
+  },
+  {
+    "Question": "I have received a new/reissued credit / debit card but I am unable to do online transaction?",
+    "Response": "OK",
+    "Matching": "92a27118-b564-43fc-bf98-1c0ab4bee5cc"
+  },
+  {
+    "Question": "In case a debit transaction bounces whether the bank will levy charges?",
+    "Response": "OK",
+    "Matching": "9d64d7d8-6765-4ea9-835a-8149cf596549"
+  },
+  {
+    "Question": " What is a supplementary/add-on credit card?",
+    "Response": "OK",
+    "Matching": "622b785c-e061-484c-a015-e901830b1f3a"
+  },
+  {
+    "Question": "Is it mandatory for the customer (PPI / wallet holder) to register for SMS alerts?",
+    "Response": "OK",
+    "Matching": "ac0454cd-0aa6-45f1-ad71-26bdad13927b"
+  },
+  {
+    "Question": "Can the banks return the cheques if PPS information is not provided by the customer",
+    "Response": "OK",
+    "Matching": "83614f99-ed5e-4a32-aecd-8c02a6794ebb"
+  },
+  {
+    "Question": "What is the protection available in case of unauthorised transactions involving PPIs issued by non-banks?",
+    "Response": "OK",
+    "Matching": "452c5031-6784-4948-930d-111d11f8697e"
+  },
+  {
+    "Question": "Does the provisions of section 138 of the NI act apply to electronic payments?",
+    "Response": "OK",
+    "Matching": "3a4b540a-f7d8-4a4f-ae4e-44c53baa6e17"
+  },
+  {
+    "Question": "If a debit card or ATM card of a bank is about to expire, do we have to update the third party UPI App about the same or it will function normally with the old debit ATM card details?",
+    "Response": "OK",
+    "Matching": "0d523c39-3dfd-43bf-a85c-15389e12bf95"
+  },
+  {
+    "Question": "What is full KYC PPI wallet?",
+    "Response": "OK",
+    "Matching": "dd893f2c-063b-4801-9ed1-0ffba7361670"
+  },
+  {
+    "Question": "How is image quality ensured in CTS?",
+    "Response": "OK",
+    "Matching": "9cbf62f0-c1da-4216-8bf7-91b84faa7e3d"
+  },
+  {
+    "Question": "What is the primary responsibility of the customer issuing Mandate for recurring payments?",
+    "Response": "OK",
+    "Matching": "bb3e2444-667f-4245-92a7-f4f901f53424"
+  },
+  {
+    "Question": "Will I be asked to enter my credit card PIN while making a purchase at a retail outlet, be it domestic or international?",
+    "Response": "OK",
+    "Matching": "1c873515-0ce9-443e-9898-45f71be55420"
+  },
+  {
+    "Question": "What will happen if i enter the wrong UPI pin for authorizing feature phone payment?",
+    "Response": "OK",
+    "Matching": "1e0547df-1c22-42e2-aad9-fe6326ff637b"
+  },
+  {
+    "Question": "What is meant by Jan Dhan account?",
+    "Response": "OK",
+    "Matching": "17c211f5-05d3-464d-830c-e8d67691110b"
+  },
+  {
+    "Question": "Who are authorizsed to Issue full-KYC PPIs to beneficiaries of cross-border inward remittances?",
+    "Response": "OK",
+    "Matching": "043fbf6f-3d24-4674-9b2e-5f77fca930fb"
+  },
+  {
+    "Question": "Can I put a stop a payment request for funds transferred by UPI?",
+    "Response": "OK",
+    "Matching": "dbcaf629-fd00-46b3-b9db-0d27bb6a2686"
+  },
+  {
+    "Question": "Can a bank offer more number of free transactions at ATMs?",
+    "Response": "OK",
+    "Matching": "bacc3e2b-281c-4794-a923-6b3ae57421b7"
+  },
+  {
+    "Question": "What if I DO NOT have a DATA Connection, will the Application work using wi-fi?",
+    "Response": "OK",
+    "Matching": "f07249a1-6117-44c7-8340-823543db47e0"
+  },
+  {
+    "Question": "Are the customers eligible for compensation for delays in receiving credit into the account for a failed transaction?",
+    "Response": "OK",
+    "Matching": "75065949-3322-4d59-b1e6-32f3300e4eaf"
+  },
+  {
+    "Question": "What happens to outstanding balance if the ‘minimum detail’ PPI is not required anymore and has to be closed?",
+    "Response": "OK",
+    "Matching": "925b2025-9e39-49da-9ce8-150d26731a51"
+  },
+  {
+    "Question": "What is BHIM UPI QR or UPI QR?",
+    "Response": "OK",
+    "Matching": "d1e8cba8-d38b-49ff-9847-13ed01bb0d7e"
+  },
+  {
+    "Question": "How do I pay utility bills using feature phone",
+    "Response": "OK",
+    "Matching": "f6d18955-8bd0-4ecf-b71b-d87a8110a849"
+  },
+  {
+    "Question": "How can I apply for Internet/ Net Banking and/ or Mobile Banking?",
+    "Response": "OK",
+    "Matching": "fd52a90b-4021-4a2c-a28a-7e5b3ed0dcd4"
+  },
+  {
+    "Question": "Will internet be required for doing payments as feature phone does not have internet?",
+    "Response": "OK",
+    "Matching": "f3c77b4b-4376-4bb1-b198-b365af795ef6"
+  },
+  {
+    "Question": "Is there any limit on loading of PPIs / wallet by cash or electronic means?",
+    "Response": "OK",
+    "Matching": "f678c47c-e23e-4af6-90be-b27200308059"
+  },
+  {
+    "Question": "When will Aadhaar based UPI registration will commence ?",
+    "Response": "OK",
+    "Matching": "f1bb6b7a-4915-44ef-b4bd-57bd37614a8e"
+  },
+  {
+    "Question": "Is it secure to provide my personal identity information like biometric for E-sign?",
+    "Response": "OK",
+    "Matching": "9645b6f8-3414-4ef4-b286-d0ef82f4dc82"
+  },
+  {
+    "Question": "What is my daily transaction limit for fund transfers while using Internet/ Net Banking and Mobile Banking?",
+    "Response": "OK",
+    "Matching": "362fbef3-8669-4340-a635-5d9b4be54e3e"
+  },
+  {
+    "Question": "Will I be charged to use my Internet/ Net Banking and Mobile Banking facility?",
+    "Response": "OK",
+    "Matching": "7af320e6-e8d4-435c-be46-f3c158440e72"
+  },
+  {
+    "Question": "How to check the account balance of FastTag balance?",
+    "Response": "OK",
+    "Matching": "5f488da1-431b-4b4b-b8ab-c20315a848a9"
+  },
+  {
+    "Question": "What is an On-Us and Off-Us transaction?",
+    "Response": "OK",
+    "Matching": "5674ed74-a59e-431a-9ed6-324732d757b2"
+  },
+  {
+    "Question": "What happens to outstanding balance if the Prepaid card is not required anymore and has to be closed?",
+    "Response": "OK",
+    "Matching": "5eb1cf99-fdfb-491a-9de5-e173cdd88362"
+  },
+  {
+    "Question": "Amount was debited but cash was not dispensed / ATM did not give cash",
+    "Response": "OK",
+    "Matching": "ed48a3ff-3973-46f9-9964-f64dbf30e182"
+  },
+  {
+    "Question": "How RTGS is different from National Electronics Funds Transfer System (NEFT)?",
+    "Response": "OK",
+    "Matching": "55db5e7b-8f77-4547-a61b-3c5e3ccaaaa3"
+  },
+  {
+    "Question": "BHIM call center helpline number information",
+    "Response": "OK",
+    "Matching": "f0d41ef8-5f71-4e6c-a4b0-dfcc4ea0fc68"
+  },
+  {
+    "Question": "What should be done to the ATM card when its validity has expired or the underlying account is closed?",
+    "Response": "OK",
+    "Matching": "56786b78-d592-4c6c-bbec-14be01001c6b"
+  },
+  {
+    "Question": "What is a Non-bank required to do to issue co-branded PPI?",
+    "Response": "OK",
+    "Matching": "16cedeab-30a1-47e7-9251-63fc1fa9c8da"
+  },
+  {
+    "Question": "What are the features of Prepaid cards for Mass Transit Systems?",
+    "Response": "OK",
+    "Matching": "8e6f0cf0-9239-44d2-834a-3e71857c0585"
+  },
+  {
+    "Question": "What is a deemed or pending transaction?",
+    "Response": "OK",
+    "Matching": "e7bf51c7-23eb-4689-8cc6-ba9a12787121"
+  },
+  {
+    "Question": "Can I use my contactless card to do online payments and swipe at (Point-of-Sale) PoS machine at a retail outlet?",
+    "Response": "OK",
+    "Matching": "35eeea7c-dacd-4d56-a195-eacac57bad7d"
+  },
+  {
+    "Question": "Whether TReDS could deal with reverse factoring?",
+    "Response": "OK",
+    "Matching": "e1bb0a4c-985c-41be-a732-156a9ec69be8"
+  },
+  {
+    "Question": "When shall PPI issuer intimate the expiry of PPI?",
+    "Response": "OK",
+    "Matching": "f47615f1-3868-4864-9217-f3ba5f016879"
+  },
+  {
+    "Question": "If I change my UPI app will I be required to register again or I can carry the same UPI ID?",
+    "Response": "OK",
+    "Matching": "b8f785e2-7b14-472c-ad62-40ecd81dbd2d"
+  },
+  {
+    "Question": "What is needed to get approval from RBI to issue PPI?",
+    "Response": "OK",
+    "Matching": "95e6b88b-5643-4a9e-a379-d0aa078d5c78"
+  },
+  {
+    "Question": "What are the types of Semi-closed PPIs?",
+    "Response": "OK",
+    "Matching": "b2de93e0-3cea-42dd-aa32-0b50093b9cb8"
+  },
+  {
+    "Question": "How long is the OTP for an online transaction valid?",
+    "Response": "OK",
+    "Matching": "42196dce-933d-40bb-b01d-43d6f76f02df"
+  },
+  {
+    "Question": "Is funds transfer permitted from a Small PPI or ‘minimum detail’ PPI or wallet and ‘PPI or wallet’?",
+    "Response": "OK",
+    "Matching": "b0142ead-4aac-4869-a83e-00a98d284e2c"
+  },
+  {
+    "Question": "Is fund transfer allowed from a ‘full-KYC’ PPI?",
+    "Response": "Wrong Response",
+    "Matching": "dd893f2c-063b-4801-9ed1-0ffba7361670"
+  },
+  {
+    "Question": "Where can I use BHIM UPI QR or UPI QR to make purchase?",
+    "Response": "OK",
+    "Matching": "84158f5a-0e1c-47d6-a5ed-f31c70a9ec6f"
+  },
+  {
+    "Question": "What is the maximum amount permitted to be loaded in full-KYC PPIs through inward MTSS remittance?",
+    "Response": "OK",
+    "Matching": "edf39d8f-3789-4b45-a873-92eb01657820"
+  },
+  {
+    "Question": "Is the Integrated Banking Ombudsman Scheme applicable for PPI / wallet transactions?",
+    "Response": "OK",
+    "Matching": "430886c1-b624-4ab6-a2a6-ac5eb3e07520"
+  },
+  {
+    "Question": "Can NEFT be used to transfer funds from / to NRE and NRO accounts?",
+    "Response": "OK",
+    "Matching": "d741e1ce-896c-4d98-90c5-141f28fcdf5f"
+  },
+  {
+    "Question": "What are Open system PPIs/ wallet?",
+    "Response": "OK",
+    "Matching": "a15caa94-5c07-41ae-bb8b-5ee115fd3928"
+  },
+  {
+    "Question": "What details do I need to share with the sender to receive funds through IMPS?",
+    "Response": "OK",
+    "Matching": "2f042df3-1e62-48fe-8b8e-86742e8abd13"
+  },
+  {
+    "Question": "What happens to outstanding balance if the ‘PPI with loading only from bank account’ is not required anymore and has to be closed?",
+    "Response": "Wrong Response",
+    "Matching": "925b2025-9e39-49da-9ce8-150d26731a51"
+  },
+  {
+    "Question": "What is the minimum validity period of a PPI / wallet?",
+    "Response": "OK",
+    "Matching": "241778cd-d5a1-470e-9aaf-3586be26dd42"
+  },
+  {
+    "Question": "What are closed system PPIs / wallet?",
+    "Response": "OK",
+    "Matching": "875f7ea3-a859-4f72-8818-657ab73b5ba6"
+  },
+  {
+    "Question": "What are semi-closed system PPIs/ wallet?",
+    "Response": "OK",
+    "Matching": "cbe0ddb8-8348-48d3-82af-72b41ec814ac"
+  },
+  {
+    "Question": "Who can issue Open System PPIs and what are the types of such PPIs?",
+    "Response": "OK",
+    "Matching": "1380cc37-d834-43ae-be89-095f7fa642c0"
+  },
+  {
+    "Question": "Steps in making digital payment using feature phone",
+    "Response": "OK",
+    "Matching": "73bfbac6-b41a-408a-befc-adb46c32142c"
+  },
+  {
+    "Question": "Does a holder earn any interest on prepaid card balance?",
+    "Response": "OK",
+    "Matching": "3a5a216e-bbb4-43f1-95d7-0dccd0e630b4"
+  },
+  {
+    "Question": "If customer’s account is debited but he has not received cash, then, in how much time will the bank credit the customer’s account?",
+    "Response": "OK",
+    "Matching": "03045847-89b2-4f9e-bc6d-f3842a7c10ee"
+  },
+  {
+    "Question": "Are free ATM transactions applicable to a Basic Savings Bank Deposit Account (BSBDA)?",
+    "Response": "OK",
+    "Matching": "12a0d63e-5536-4322-831a-383b9e649b27"
+  },
+  {
+    "Question": "Who can provide the facility of PPI interoperability?",
+    "Response": "OK",
+    "Matching": "9553c02f-8334-4d81-a604-9feef4e5ab87"
+  },
+  {
+    "Question": "Can I change the transaction limit on my Credit / Debit Card",
+    "Response": "OK",
+    "Matching": "b3a452c6-f16f-473a-a676-4accff96256b"
+  },
+  {
+    "Question": "I have seen offers/ benefits on my card (e.g. merchant discounts/ airport lounge access/ concierge, etc.) how do I avail these offers?",
+    "Response": "OK",
+    "Matching": "c447a9b6-6105-47ed-9bc4-85c023e2e6fb"
+  },
+  {
+    "Question": "What if amount gets debited from my account despite cancellation/revocation of mandate?",
+    "Response": "OK",
+    "Matching": "f95cb496-375f-4210-bd70-60c7a8dba1c1"
+  },
+  {
+    "Question": "Can co-branded PPIs be issued?",
+    "Response": "OK",
+    "Matching": "366c42a9-aa8e-430a-97c8-db4fc79efa02"
+  },
+  {
+    "Question": "How shall the refunds in case of failed / returned / rejected / cancelled transactions be dealt with?",
+    "Response": "OK",
+    "Matching": "a7e77606-40e5-4a03-951b-49227d449985"
+  },
+  {
+    "Question": "Is the customer supposed to get an alert of transaction in his / her PPI / wallet account?",
+    "Response": "OK",
+    "Matching": "ba84741d-b52d-4247-a28c-8d6670b554c0"
+  },
+  {
+    "Question": "Is there any requirement of providing account statement or transaction history of PPI transactions?",
+    "Response": "OK",
+    "Matching": "d50c6ecb-3191-42e4-b8de-06670cb9fb07"
+  },
+  {
+    "Question": "How can the smartphone be enabled for payment through BHIM UPI QR?",
+    "Response": "OK",
+    "Matching": "f4d73fe7-6113-43a5-af0a-cd72b3505814"
+  },
+  {
+    "Question": "My Aadhaar number is linked with more than one bank, in which bank account the benefits will be credited",
+    "Response": "OK",
+    "Matching": "863a95f9-ded3-421b-a57e-8019000e5da0"
+  },
+  {
+    "Question": "Is it mandatory to link Aadhaar with account number to avail the eSign mandate?",
+    "Response": "OK",
+    "Matching": "22ae114e-6e8e-481a-bfde-9261a1c8adcf"
+  },
+  {
+    "Question": "What are the authentication modes available to register an E- mandate?",
+    "Response": "OK",
+    "Matching": "07d9d314-e14e-41e5-8321-c7864fe8c867"
+  },
+  {
+    "Question": "What are the permissions needed for carrying out MTSS?",
+    "Response": "OK",
+    "Matching": "3735c26d-c46b-4703-8e38-0b551b8fd2cc"
+  },
+  {
+    "Question": "Whether any authorisation is required to set up and operate a TReDS platform?",
+    "Response": "OK",
+    "Matching": "aa73f57f-f709-4f30-bf2d-f765cfd71fa2"
+  },
+  {
+    "Question": "While receiving a cross-border inward remittance under MTSS, can ₹ 50,000/- be credited in PPI and the remaining in bank account?",
+    "Response": "OK",
+    "Matching": "3c3a5cb5-4bfa-43bb-b255-f89ef349d3e6"
+  },
+  {
+    "Question": "What is the meaning of tag blacklisted? What can be done to avoid the Blacklist of tag?",
+    "Response": "OK",
+    "Matching": "253421b5-fc0d-4725-a5f4-536083950b65"
+  },
+  {
+    "Question": "Where can I find the details of TReDS entities authorised by RBI?",
+    "Response": "OK",
+    "Matching": "f91ba290-1f12-4f1c-901c-151e57b7e625"
+  },
+  {
+    "Question": "Whether the MSME seller would have to pay to the financier in case the buyer defaults in repayment?",
+    "Response": "OK",
+    "Matching": "feac6e69-d9e9-45be-88fd-2ffe399cd464"
+  },
+  {
+    "Question": "Whether defaults on TReDS platform are the responsibility of TReDS entities?",
+    "Response": "OK",
+    "Matching": "93bb5956-91a9-4bbf-a620-3d78a45d8185"
+  },
+  {
+    "Question": "Whether TReDS entities undertake KYC (Know Your Customer) of participants?",
+    "Response": "OK",
+    "Matching": "c78f55d8-ebed-414f-a687-e87e15cce547"
+  },
+  {
+    "Question": "What steps should a customer take in case of a failed ATM transaction when his / her account is debited?",
+    "Response": "OK",
+    "Matching": "4ee0d4b4-616d-4820-9c12-6739b9f648e0"
+  },
+  {
+    "Question": "What is the eligibility criteria for setting up and operating TReDS?",
+    "Response": "OK",
+    "Matching": "dd11ed4f-8dbf-4f0a-920c-eb13e195b7ee"
+  },
+  {
+    "Question": "Is it safe to use a payment gateway to make payments using a card?",
+    "Response": "OK",
+    "Matching": "eb089cb9-529b-40cf-a693-3ac067af451a"
+  },
+  {
+    "Question": "What if I wave the Contactless credit/debit card twice at the terminal? Will I be charged twice?",
+    "Response": "OK",
+    "Matching": "0f92b903-a39c-46d6-a900-ed5257295362"
   }
 ]
