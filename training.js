@@ -12,8 +12,8 @@ const dbConfig = {
   port: 5432,
 };
 
-const tableName = "ul_city";
-const csvFilePath = "C:/Users/Ibbu/Downloads/cities.csv";
+const tableName = "test_dash";
+const csvFilePath = "C:/Users/Ibbu/Downloads/public_dashboard.csv";
 
 async function createTableAndDefineColumns() {
   const client = new Client(dbConfig);
