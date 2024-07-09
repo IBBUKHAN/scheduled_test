@@ -26,17 +26,29 @@ async function voiceapi(payload) {
 
   try {
     const res = await axios.post(
-      "https://licdev.corover.ai/nlpAPI/convertRealTimeAudio",
+      "https://cognitive.service.corover.ai/dynamic/convertRealTimeAudio",
       payload,
       axiosConfig
     );
-    result = res.data;
+    result = res.data["Uploaded URL"];
   } catch (error) {
     console.error(error);
     result = null;
   }
 
   return result;
+}
+async function BucketStore(result) {
+  try {
+    const response = await axios.get(
+      `https://cognitive.service.corover.ai/util/save?url=${result}`
+    );
+    return response.data["saved"];
+  } catch (error) {
+    console.error(error);
+    console.log("bucket api ERROR!!!");
+    throw error;
+  }
 }
 
 async function main() {
@@ -63,8 +75,9 @@ async function main() {
     };
 
     const result = await voiceapi(payload);
-    if (result) {
-      const audioUrl = result["Uploaded URL"];
+    const bucketstore = await BucketStore(result);
+    if (bucketstore) {
+      const audioUrl = bucketstore;
       const audioNumber = i + 1;
 
       // Display the console log with the numbered format and green Audio URL
@@ -72,7 +85,7 @@ async function main() {
 
       output.push({
         Answer: answerText,
-        Answer_audio: result["Uploaded URL"],
+        Answer_audio: bucketstore,
       });
       // answerOutput.push([{
       //   answer: {
@@ -85,7 +98,7 @@ async function main() {
     }
   }
 
-  fs.writeFileSync("sebiaudio1.json", JSON.stringify(output));
+  fs.writeFileSync("sebinew.json", JSON.stringify(output));
   // fs.writeFileSync("Answer.json", JSON.stringify(answerOutput));
 }
 
