@@ -1,14 +1,75 @@
 const fs = require("fs");
 
-// Read input data from file
-const inputData = JSON.parse(
-  fs.readFileSync("./previous_universities.json", "utf8")
-);
+function loadAndParseJSON(filePath) {
+  try {
+    if (!fs.existsSync(filePath)) {
+      console.error("File does not exist:", filePath);
+      return null;
+    }
 
-// Convert to array of strings
-const outputData = inputData.map((item) => item.value);
+    const data = fs.readFileSync(filePath, "utf8");
+    console.log("File read successfully:", filePath);
 
-// Write output data to new file
-fs.writeFileSync("./convert.json", JSON.stringify(outputData, null, 2), "utf8");
+    const parsedData = JSON.parse(data);
+    if (!parsedData || typeof parsedData !== "object") {
+      throw new Error("Parsed data is not an object or is null");
+    }
 
-console.log("Conversion complete. Data written to convert.json.");
+    return parsedData;
+  } catch (error) {
+    console.error("Error parsing JSON:", error.message);
+    return null;
+  }
+}
+
+function validateJSON(data) {
+  if (!Array.isArray(data)) {
+    console.error("Invalid JSON format: Expected an array.");
+    return false;
+  }
+  for (const item of data) {
+    if (typeof item !== "object" || item === null) {
+      console.error("Invalid item in JSON data:", item);
+      return false;
+    }
+    if (!item._id) {
+      console.error("Missing required field '_id' in JSON item:", item);
+      return false;
+    }
+    if (!item.propertyFeatures || !Array.isArray(item.propertyFeatures)) {
+      console.error(
+        "Invalid or missing 'propertyFeatures' in JSON item:",
+        item
+      );
+      return false;
+    }
+  }
+  return true;
+}
+
+function mapAndStoreData(data, outputFilePath) {
+  const mappedData = data.map((item) => ({
+    _id: item._id,
+    name: item.name,
+    citySlug: item.citySlug,
+  }));
+
+  fs.writeFileSync(outputFilePath, JSON.stringify(mappedData, null, 2), "utf8");
+  console.log("Data mapped and stored in:", outputFilePath);
+}
+
+function processData(inputFilePath, outputFilePath) {
+  const data = loadAndParseJSON(inputFilePath);
+  if (data) {
+    if (validateJSON(data)) {
+      console.log("JSON data is valid.");
+      mapAndStoreData(data, outputFilePath);
+    } else {
+      console.error("JSON validation failed.");
+    }
+  } else {
+    console.error("Failed to load or parse JSON data.");
+  }
+}
+
+processData("./utterances.json", "./outputfile.json");

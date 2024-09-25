@@ -1,1376 +1,2214 @@
 [
-  "Canberra Institute of Technology",
-  "Macquarie University (Macquarie)",
-  "University of New England",
-  "Australian Catholic University Limited",
-  "Charles Sturt University (CSU)",
-  "Monash University (Monash)",
-  "Gordon Institute of TAFE",
-  "Holmesglen Institute",
-  "Bond University",
-  "Department for Education",
-  "Department of Training and Workforce Development",
-  "The University of Queensland",
-  "The University of Sydney",
-  "Holmes Colleges Sydney Pty Ltd",
-  "SELC Australia Pty Ltd",
-  "Universal Education Centre Pty Ltd",
-  "Alexander Language School Pty Ltd",
-  "Milner International College of English (WA) Pty Ltd",
-  "Keyseq Pty Ltd",
-  "Holmes Commercial Colleges (Melbourne) Ltd",
-  "You Study Pty Ltd",
-  "TAFE SA",
-  "South Australian College of English Pty Ltd",
-  "The University of New South Wales (UNSW)",
-  "University of Technology Sydney (UTS)",
-  "University of Wollongong (UoW)",
-  "Federation University Australia",
-  "The University of Newcastle (UoN)",
-  "Swinburne University of Technology",
-  "Deakin University (Deakin)",
-  "Flinders University",
-  "La Trobe University (La Trobe)",
-  "The University of Melbourne (UniMelb)",
-  "James Cook University",
-  "Australian National University",
-  "University of South Australia (UniSA)",
-  "Royal Melbourne Institute of Technology",
-  "The University of Adelaide (Adelaide)",
-  "Victoria University",
-  "Murdoch University (Murdoch)",
-  "The University of Western Australia (UWA)",
-  "Aquinas College",
-  "Ballarat and Queen's Anglican Grammar School",
-  "Billanook College Limited",
-  "Brighton Grammar School",
-  "The Camberwell Grammar School",
-  "Carey Baptist Grammar School Limited",
-  "Caulfield Grammar School",
-  "Eltham College",
-  "Fintona Girls School",
-  "Firbank Grammar School",
-  "Camberwell Anglican Girls' Grammar School",
-  "The Geelong College",
-  "Geelong Grammar School",
-  "The Hamilton and Alexandra College",
-  "Huntingtower School Association",
-  "The Ivanhoe Grammar School",
-  "Kilvington Grammar School Limited",
-  "Kingswood College Limited",
-  "The Knox School Limited",
-  "Lauriston Girls' School",
-  "Waterfall Investments Pty Ltd",
-  "Kent Institute Australia Pty Ltd",
-  "Mercury Colleges Pty. Limited",
-  "Lan-Grove Office Training Centre Pty Ltd",
-  "Acknowledge Education Pty Ltd",
-  "Cairns Business College Limited",
-  "University of Canberra",
-  "Queensland University of Technology (QUT)",
-  "Central Queensland University",
-  "Australian College of Natural Medicine Pty Ltd",
-  "Griffith University",
-  "University of Southern Queensland",
-  "Think: Colleges Pty Ltd",
-  "The Australian Ballet School",
-  "Photography Holdings Pty Ltd",
-  "Royal Victorian Aero Club",
-  "Edith Cowan University",
-  "Navitas English Services Pty Ltd",
-  "Airways Aviation Education Pty Ltd",
-  "Charles Darwin University (CDU)",
-  "Curtin University",
-  "Marcus Oldham College",
-  "SAE Institute Pty Ltd",
-  "Melbourne Girls Grammar - An Anglican School",
-  "Mentone Grammar School",
-  "Mentone Girls Grammar School",
-  "Methodist Ladies' College Limited",
-  "Life Ministry Centre Limited",
-  "The Peninsula School",
-  "Presbyterian Ladies' College",
-  "Ruyton",
-  "Shelford Girls' Grammar",
-  "Gippsland Grammar",
-  "King's Christian Education Ltd.",
-  "St Leonard's College",
-  "St Margaret's School",
-  "St Michael's Grammar School",
-  "Tintern Grammar",
-  "Toorak College",
-  "Trinity Grammar School Kew",
-  "Wesley College Melbourne",
-  "Westbourne Grammar School",
-  "Yarra Valley Grammar School",
-  "Concordia College Inc",
-  "Immanuel College",
-  "Mercedes College Springfield",
-  "Muirden Senior Secondary College",
-  "Pembroke School Inc",
-  "Prince Alfred College Inc",
-  "Pulteney Grammar School",
-  "St Aloysius College",
-  "St Peter's Collegiate Girls' School",
-  "Trinity College - North",
-  "Wilderness School",
-  "St Paul's International College",
-  "Ascham School Ltd",
-  "Georges River Grammar School Ltd",
-  "Knox Grammar School",
-  "Masada College",
-  "Redeemer Baptist School Ltd",
-  "Edmund Rice Education Australia Colleges Ltd",
-  "Bunbury Cathedral Grammar School Inc",
-  "Christ Church Grammar School Inc",
-  "Guildford Grammar School Inc",
-  "The Governors of Hale School",
-  "Methodist Ladies' College",
-  "Penrhos College",
-  "Perth College Inc",
-  "Presbyterian Ladies College Incorporated",
-  "Scotch College",
-  "Mercy Education Limited",
-  "St Hilda's Anglican School for Girls Inc.",
-  "St Mary's Anglican Girls' School Inc",
-  "Swan Christian Education Association Inc",
-  "Wesley College",
-  "Canning College",
-  "St John's Catholic College",
-  "Fahan School",
-  "The Friends' School Incorporated",
-  "HUTCHINS SCHOOL BOARD OF MANAGEMENT",
-  "SCOTCH OAKBURN COLLEGE",
-  "ST MICHAEL'S COLLEGIATE SCHOOL",
-  "The Corporation of the Synod of the Diocese of Brisbane",
-  "Blackheath and Thornburgh College",
-  "Board of Trustees of the Brisbane Grammar School",
-  "The Presbyterian and Methodist Schools Association",
-  "Downlands College Ltd",
-  "The Corporation of the Synod of the Diocese of Brisbane - The Glennie School",
-  "Board of Trustees of the Ipswich Grammar School",
-  "John Paul College Limited",
-  "Lourdes Hill College",
-  "The Roman Catholic Trust Corporation for the Diocese of Rockhampton",
-  "Board of Trustees of the Rockhampton Grammar School",
-  "Board of the Trustees of the Rockhampton Girls' Grammar School",
-  "The Roman Catholic Trust Corporation for the Diocese of Cairns",
-  "The Corporation of the Synod of the Diocese of Brisbane - St Hilda's School",
-  "St Margaret's School Council Ltd",
-  "Lutheran Church of Australia - Queensland District",
-  "Corporation of the Roman Catholic Diocese of Toowoomba",
-  "Somerset College Limited",
-  "The Corporation of the Synod of the Diocese of Brisbane - The Southport School",
-  "Stuartholme School",
-  "Board of Trustees of the Toowoomba Grammar School",
-  "Board of Trustees of the Ipswich Girls' Grammar School",
-  "The Uniting Church in Australia Property Trust (Q.)",
-  "Christian Outreach Centre",
-  "Bethel Christian School Limited",
-  "Kinross Wolaroi School",
-  "St Philip's Christian Education Foundation Ltd",
-  "Ballarat and Clarendon College",
-  "Loyola College",
-  "Cabra Dominican College",
-  "Educational Enterprises Australia Pty Ltd",
-  "Walford Anglican School for Girls",
-  "Board of Trustees of the Townsville Grammar School",
-  "St. Catherine's School",
-  "Strathcona Baptist Girls Grammar School Limited",
-  "Heathdale Christian College Limited",
-  "Canberra Grammar School",
-  "University of Tasmania (UTas)",
-  "NSW Department of Education",
-  "Mater Christi College",
-  "Technical and Further Education Commission",
-  "Westminster School Inc",
-  "Saint Ignatius' College",
-  "Sarina Russo Schools Australia Pty Ltd",
-  "Department of Education",
-  "Monivae College",
-  "St Patricks College Ballarat",
-  "Seymour College Inc",
-  "Loreto College",
-  "ACT Education Directorate",
-  "Haileybury",
-  "LAUNCESTON CHURCH GRAMMAR SCHOOL",
-  "Queensland School of Beauty Therapy Pty Ltd",
-  "The Australian Institute of Music Limited",
-  "Marist Schools Australia Limited",
-  "Seventh Day Adventist School (Victoria) Ltd",
-  "Moore Theological College Council",
-  "Trinity College",
-  "SCECGS Redlands Limited",
-  "Melbourne Polytechnic",
-  "St Marys College Melbourne",
-  "Catholic Education Western Australia Limited",
-  "John XXIII College Inc",
-  "The National Institute of Dramatic Art (NIDA)",
-  "Trinity Anglican School Ltd",
-  "Foundation for Education and Training Ltd",
-  "Sydney Church of England Grammar School Council",
-  "St Kevin's College (Christian Brothers Vic Property Ltd)",
-  "Insearch Limited",
-  "St Paul's Anglican Grammar School Limited",
-  "MERCY EDUCATION LIMITED",
-  "St Joseph's College",
-  "Chisholm Institute",
-  "The Pittwater House Schools Ltd",
-  "Holmes Commercial Colleges (Melbourne) Limited",
-  "The Institute of Creative Arts and Technology",
-  "A B Paterson College Limited",
-  "Brisbane Christian College",
-  "Western Sydney University",
-  "Redlands Combined Independent College Inc",
-  "Cass Training Pty Ltd",
-  "Alphacrucis University College Limited",
-  "The Cathedral School of St Anne and St James",
-  "Seventh-Day Adventist Schools (South Queensland) Ltd",
-  "Haileybury Rendall School",
-  "The Ivanhoe Girls Grammar School",
-  "Melbourne Grammar School",
-  "Seventh-Day Adventist Schools (Victoria) Limited",
-  "All Saints Anglican School Limited",
-  "Perth Bible College (Inc)",
-  "Japanese College of Adelaide Pty Ltd",
-  "Australian Islamic College (Perth) Inc",
-  "Whitsunday Anglican School Limited",
-  "Christian Heritage College",
-  "University of Sydney",
-  "UNSW Global Pty Limited",
-  "Korowa Anglican Girls School",
-  "Rabbinical College of Australia and New Zealand",
-  "The University of Notre Dame Australia",
-  "Cairns Christian College Limited",
-  "University of Divinity",
-  "Chabad Institutions of Victoria Limited",
-  "Hillcrest Christian College Limited",
-  "EF International Language Schools Pty Ltd",
-  "Mueller College Ltd",
-  "Nazareth College",
-  "Girton Grammar School Ltd",
-  "St Dominic's Priory College",
-  "Australian Academy of Music and Performing Arts",
-  "Kaplan International English (Australia) Pty Limited",
-  "St Aidan's School Council Ltd",
-  "Bendigo Kangan Institute",
-  "Mackillop Catholic Regional College",
-  "Southern Cross University (SCU)",
-  "Rivermount Education Ltd",
-  "The Presbyterian School of St Andrew Limited",
-  "JMC Pty Limited",
-  "Lutheran Church of Australia Queensland District",
-  "Australian International College of Language Pty Ltd",
-  "Canberra Girls' Grammar School",
-  "Flight One Australia Pty Ltd",
-  "SA Adelaide Language Centre Ltd",
-  "Edith Cowan College Pty Ltd",
-  "The Corporation of the Synod of the Diocese of Brisbane - St Luke's Anglican School",
-  "Navitas Professional Institute Pty Ltd",
-  "Young Rabbit Pty Ltd",
-  "International College of Queensland Australia Pty Ltd",
-  "Alphington Grammar School",
-  "Seventh-day Adventist Schools (South Queensland) Ltd",
-  "FSAC Ltd",
-  "Caloundra Christian College Limited",
-  "Nambour Christian College Ltd",
-  "Ella Bache College Pty Ltd",
-  "International College of Management, Sydney Pty Limited",
-  "Hellenic Community of WA Inc",
-  "The Corporation of the Trustees of the Roman Catholic Archdiocese of Brisbane",
-  "Focal Holdings Pty Ltd",
-  "Kardinia International College (Geelong) Ltd",
-  "William Angliss Institute of TAFE",
-  "QIBA Pty Ltd",
-  "The Lake Joondalup Baptist College Inc",
-  "Hillsong College Ltd",
-  "The Anglican Church of Australia Collegiate School of Saint Peter",
-  "Prescott College Southern",
-  "Actors College of Theatre and Television Pty Ltd",
-  "Melbourne Institute of Technology Pty Ltd",
-  "Australian National Memorial Theatre Ltd",
-  "Basair Australia Pty Ltd",
-  "Sydney Institute of Business and Technology Pty Ltd",
-  "Australian Baptist Education Inc",
-  "Baptist Business College Ltd",
-  "Melbourne Institute of Business & Technology Pty Ltd",
-  "The Corporation of the Synod of the Diocese of Brisbane - Fraser Coast Anglican College",
-  "University of the Sunshine Coast",
-  "Queensland College of Dance",
-  "Canterbury College Limited",
-  "Prescott College",
-  "Sunshine Coast English College Pty Ltd",
-  "Woodcroft College",
-  "Holmes Colleges Queensland Pty Ltd",
-  "Heights College Ltd",
-  "Language Studies International Australia Pty Ltd",
-  "Hope of the Gold Coast Ltd",
-  "Whitefriars College Inc.",
-  "Study Group Australia Pty Limited",
-  "Kennedy Baptist College Association Inc.",
-  "International Education Services Ltd",
-  "Gills College Australia Pty Ltd",
-  "Biba Academy of Hair & Beauty Pty Ltd",
-  "CIC Higher Education Pty Ltd",
-  "Queensland Institute of Business and Technology Pty Ltd",
-  "Becker Helicopter Services Pty Ltd",
-  "Matthew Flinders Anglican College Limited",
-  "Tenison Woods College",
-  "Tasmanian College of English Pty Ltd",
-  "Sydney Institute of Health Sciences Pty Ltd",
-  "ASHT Pty Ltd",
-  "Cambridge Academy of English Pty Ltd",
-  "Northside Christian College",
-  "Abion Pty Ltd",
-  "Melbourne Rudolf Steiner Seminar Limited",
-  "ACPE Limited",
-  "Tamborine Mountain College Ltd",
-  "The Roman Catholic Trust Corporation for the Diocese of Townsville",
-  "Seventh-day Adventist Schools (Western Australia) Limited",
-  "Dentos Pty Ltd",
-  "Kingsway Christian Education Association Inc.",
-  "Wells International College Pty Ltd",
-  "Monash College Pty Ltd",
-  "Headmasters Academy Pty Ltd",
-  "Australian Education Group Pty Ltd",
-  "C3 Church Sydney Ltd",
-  "Dance Factory Pty Ltd",
-  "Asian Pacific Institute",
-  "Christian Resource Ministries Incorporated",
-  "Canterbury Business College Pty Ltd",
-  "Oceania Polytechnic Institute of Education Pty. Ltd.",
-  "RMIT Training Pty Ltd",
-  "Infotech Professionals Pty Ltd",
-  "Tristar Aviation Company Pty Ltd",
-  "Saint Stephen's College Ltd",
-  "Cairns Beauty Academy Pty Ltd",
-  "Caprock International Pty Ltd",
-  "Clarendon Business College Pty Ltd",
-  "Waverley Christian College Inc",
-  "Thomas Carr College Tarneit",
-  "Association for Christian Education Inc.",
-  "Sunraysia Institute of TAFE",
-  "Magill College Pty Ltd",
-  "Bureau of Meteorology",
-  "All Souls St Gabriels School Inc",
-  "Youth with a Mission Canberra Inc.",
-  "Supreme Business College Pty Ltd",
-  "All Saints' College Inc.",
-  "Intech Institute of Technology Pty Ltd",
-  "Colleges of Business and Technology (WA) Pty Ltd",
-  "Victorian Institute of Technology Pty Ltd",
-  "Clip Joint Academy of Hairdressing Pty Ltd as trustee for The EDC Unit Trust",
-  "Speak College Pty Ltd",
-  "Youth with a Mission (Perth) Inc",
-  "ILSC (Brisbane) Pty Ltd",
-  "Language Links International Pty Ltd",
-  "Sydney School of Business and Technology Pty Ltd",
-  "Academy of Interactive Technology",
-  "Unity College Australia Incorporated",
-  "Sheldon College Ltd",
-  "Caroline Chisholm Catholic College",
-  "Ormiston College Ltd",
-  "South Australian Institute of Business and Technology Pty Ltd",
-  "Victory Life International Bible Training Centre Incorporated",
-  "LCI Melbourne Pty Ltd",
-  "YWAM Townsville Assoc. Inc.",
-  "Our Lady of the Sacred Heart College",
-  "Inter-Continental Colleges Pty Ltd",
-  "Byron Bay English Language School Pty Ltd",
-  "Leo Cussen Institute",
-  "Mercy Diocesan College",
-  "Sheila Baxter Training Centre Pty Ltd",
-  "Norwest Christian College Limited",
-  "The Hills Grammar School",
-  "Central Coast Grammar School Ltd",
-  "THE ATHENA SCHOOL LIMITED",
-  "St Paul's Grammar School Penrith Ltd",
-  "Kincoppal - Rose Bay School",
-  "The Council of Macarthur Anglican School",
-  "The Council of Abbotsleigh",
-  "The Association for Christian Education of Blacktown Ltd",
-  "The Uniting Church in Australia Property Trust (Synod of Victoria and Tasmania)",
-  "Wenona School Ltd",
-  "The Council of St Andrew's Cathedral School",
-  "The Presbyterian Church (New South Wales) Property Trust",
-  "Winifred West Schools Ltd",
-  "Glenaeon Rudolf Steiner School Limited",
-  "Kambala",
-  "The Armidale School",
-  "Council of Newington College",
-  "The McDonald College Limited",
-  "Cranbrook School",
-  "The Council of The Illawarra Grammar School",
-  "St John's Grammar School Inc",
-  "Ravenswood School For Girls",
-  "The Council of Trinity Grammar School",
-  "Blue Mountains Grammar School Ltd",
-  "The William Branwhite Clarke College Council Inc",
-  "Calrossy Anglican School",
-  "Meriden School",
-  "The Council of Tara Anglican School for Girls",
-  "The Council of St Catherine's School, Waverley",
-  "The Council of the King's School",
-  "MLC School",
-  "Bishop Druitt College Council Inc",
-  "Pacific Group of Christian Schools Limited",
-  "Coptic Orthodox Church (NSW) Property Trust",
-  "Newcastle Grammar School Ltd",
-  "Sydney English Academy Pty Ltd",
-  "Lexis Sydney Education Pty Ltd",
-  "PAXMIL Education Holdings Pty Ltd",
-  "Dynamic Management Group Pty Ltd",
-  "University Senior College at Adelaide University Inc",
-  "German School Johannes Gutenberg",
-  "Le Cordon Bleu Australia Pty Limited",
-  "A.M.T. Helicopters Pty Ltd",
-  "Academies Australasia Institute Pty Limited",
-  "Academy of English Pty Ltd",
-  "Australian International High School Pty Limited",
-  "Endeavour College Inc",
-  "The Queensland Institute of Commerce and Technology Pty Ltd",
-  "The Academy of Interactive Entertainment Ltd",
-  "Australian College of Technology Pty Ltd",
-  "Box Hill Institute",
-  "Aviation Australia Pty Ltd",
-  "Kaplan Business School Pty Ltd",
-  "Ozford College Pty Ltd",
-  "Academies Australasia Polytechnic Pty Limited",
-  "Alia College Ltd",
-  "Emmanuel Anglican College Council",
-  "Education Access (Australia) Pty Ltd",
-  "Burleigh Heads Language Centre Pty Ltd",
-  "Geraldton Grammar School Inc.",
-  "Manageering Pty Ltd",
-  "Australian Child Care Career Options (ACCCO) Pty Ltd",
-  "Blackfriars Priory School",
-  "Top Education Group Ltd",
-  "Rabarl Pty Ltd",
-  "St Mary Magdalen's Primary School Chadstone",
-  "Shane Global Village Brisbane Pty Ltd",
-  "Whitsundays College of English Pty Ltd",
-  "Ozford English Language Centre Pty Ltd",
-  "Australian National Institute of Business & Technology Pty Ltd",
-  "ACMUSE Australia Pty Ltd",
-  "The Moerlina School Inc.",
-  "Union Institute of Language - Springfield Campus Pty Ltd",
-  "Moorabbin Aviation Services Pty Ltd",
-  "USQ International College Pty Ltd",
-  "Presbyterian and Methodist Schools Association",
-  "Kingston International College Pty Ltd",
-  "English Language Company Australia Pty Ltd",
-  "Brighton Educational Services Pty Ltd",
-  "Elizabeth Bence Pty Ltd",
-  "Group Colleges Australia Pty Ltd",
-  "Our Lady of the Sacred Heart Catholic College",
-  "Australian Academy of Commerce Pty Ltd",
-  "AH & B College Pty Ltd",
-  "Business Institute of Australia Pty Ltd",
-  "Brisbane College of Australia Pty Ltd",
-  "Seventh-day Adventist Schools (Greater Sydney) Ltd",
-  "IH Sydney Training Services Pty Ltd",
-  "Australian Academy of Vocational Education and Trades Pty Ltd",
-  "Holmes Institute Pty Ltd",
-  "Education Centre of Australia Pty Ltd",
-  "A.I.W.T. Pty. Ltd.",
-  "Australian Performing Arts Grammar School Limited",
-  "Flight Training Adelaide Pty Ltd",
-  "Australian College of Theology Limited",
-  "Macquarie Education Group Australia Pty Ltd",
-  "Logic Entity Australia Pty Ltd",
-  "International Film School Sydney Pty Ltd",
-  "Browns English Language School Pty Ltd",
-  "Excelsia College",
-  "Pacific College Pty Ltd",
-  "Greenwich English College Pty Ltd",
-  "Australian Association for International Education Inc",
-  "Victory Institute of Vocational Education Pty Ltd",
-  "Australian Online Institute Pty Ltd",
-  "George Education Group Pty Ltd",
-  "Imagine Education Australia Pty Ltd as trustee for The Imagine Education Australia Unit Trust",
-  "Carnegie Mellon University",
-  "Seventh-Day Adventist Schools (South Queensland) Limited",
-  "Trinity College Senior School",
-  "Della International College Pty Ltd",
-  "UOWC Ltd",
-  "Australian International Islamic College Board Inc",
-  "Fuss Education Pty Ltd",
-  "Avondale University",
-  "Strathfield College Pty Ltd",
-  "Institute of Training and Further Education Pty Ltd",
-  "Campion Institute Limited",
-  "LYCEE CONDORCET THE INTERNATIONAL FRENCH SCHOOL OF SYDNEY LTD",
-  "Australia Moreton Education Group Pty Ltd",
-  "Onyx Developments Pty Ltd",
-  "Jasagency Pty. Ltd.",
-  "UPC Pty Ltd",
-  "PGA OF Australia Institute Pty Ltd",
-  "Kooralbyn Campus Inc",
-  "Lifetime International.Com Pty Ltd",
-  "Queensland International Study Group Pty Ltd",
-  "Westminster College Pty Ltd",
-  "Precept Education Pty Ltd",
-  "MIT Institute Pty Ltd",
-  "Crest Education Ltd",
-  "Hays International College Pty Ltd",
-  "St George College Inc",
-  "Warwick Institute of Australia Pty Ltd",
-  "EQUALS International (Aust) Pty Ltd",
-  "Niche Education Group Pty Ltd",
-  "Menzies Institute of Technology Pty Ltd",
-  "Modern Communications Australia Pty Ltd",
-  "Sragill Pty Ltd",
-  "Sunshine College of Management Pty Ltd",
-  "Lonsdale Institute Pty Ltd",
-  "Kontea Pty Ltd",
-  "Bruce Hartwig Flying School Pty Ltd",
-  "Bayside College Pty Ltd",
-  "Western Sydney University Enterprises Pty Limited",
-  "KAPS Institute of Management Pty Ltd as trustee for the KAPS Institute of Management Unit Trust",
-  "Nova International Education Pty Ltd",
-  "BJSB Pty Ltd",
-  "WHITEHOUSE INSTITUTE PTY LTD",
-  "International College of Advanced Education Pty Ltd",
-  "Australian Institute of Technical Training Pty Ltd",
-  "Evolution Systems for Training & Development Pty Ltd",
-  "Crown Institute of Business and Technology Pty Ltd",
-  "Sydney International Academy Pty Ltd",
-  "The Quality Training and Hospitality College Pty Ltd",
-  "Australian Language Schools Pty Ltd",
-  "Melbourne College of Hairdressing Beauty Therapy & Natural Medicine Pty Ltd",
-  "ITHEA Corporation Pty Ltd",
-  "Yorke Institute Pty Ltd",
-  "Inforum Australia Pty Ltd",
-  "Everthought College of Construction Pty Ltd.",
-  "Kingston Training and Employment Pty Ltd",
-  "Australia National Institute of Business Pty Ltd",
-  "Zarah Institute of Education Pty Ltd",
-  "Apple Study Group Pty Ltd",
-  "ICHM Pty Ltd",
-  "Durban International College Pty Ltd",
-  "Federation Technology Institute Pty Ltd",
-  "AUSTRALIAN ACADEMY OF HIGHER LEARNING PTY LTD",
-  "Education Training & Employment Australia Pty. Ltd.",
-  "Pass Global Pty Ltd",
-  "Hawthorn Learning Pty Ltd",
-  "Australasian Lawrence Aged Care College Pty Ltd",
-  "Southern Cross Education Institute Pty Ltd",
-  "Canterbury Technical Institute Pty Ltd",
-  "College of Complementary Medicine NSW Pty Ltd",
-  "Covenant College Tuggeranong ACT Association Incorporated",
-  "NEGS LIMITED",
-  "Universal Institute of Technology Pty Ltd",
-  "Sydney College of Divinity Ltd",
-  "Coolum Beach Christian College Ltd",
-  "Iascend Polytechnic Pty Ltd",
-  "Global Education Ministry Incorporated",
-  "Angad Australian Institute of Technology Pty Ltd",
-  "Pacific Flight Services Pty Ltd",
-  "Astute Training Pty Ltd",
-  "Australian College of Commerce & Information Technology Pty Ltd",
-  "J & J Aviation Pty Ltd",
-  "Queens Group Pty Ltd",
-  "Impact English College Pty Ltd",
-  "Star Gazers Education Pty Ltd",
-  "KFQ Partners Pty Ltd",
-  "Colleges Australia International Pty Ltd",
-  "GREENHILL EDUCATION GROUP PTY LTD",
-  "Ace Sports Pty Ltd",
-  "Australian National College Pty Ltd",
-  "Malekhu Investments Pty Ltd",
-  "Australian Technical And Management College Pty Ltd",
-  "New Cambridge College Sydney Inc",
-  "School of Hairdressing Pty Ltd",
-  "Pearson Aviation Pty Ltd",
-  "Byron ELA Pty Ltd",
-  "TAFE Queensland",
-  "Crumps International Pty Ltd",
-  "Melbourne City Institute of Education Pty Ltd, as trustee for MCIE Unit Trust",
-  "Australian Careers College Pty Ltd",
-  "St Ursula's College Toowoomba",
-  "Sheffield College of Technology Pty Ltd",
-  "Imperial Education Group Pty Ltd",
-  "TasTAFE",
-  "Universal Network of Infotech Pty Ltd",
-  "Stanley International College Pty Ltd",
-  "Asia Pacific International College Pty Ltd",
-  "Perth College Of Business and Technology Pty Ltd",
-  "Golf Education Australia Pty Ltd",
-  "Australian Ideal College Pty Ltd",
-  "International College of Capoeira Pty Ltd",
-  "Australian Professional Education Institute Pty Ltd",
-  "Australian Learning Group Pty Ltd",
-  "Bandicoot Group Pty Ltd",
-  "Australian College of Trade Pty Ltd",
-  "Acumen Education Pty Ltd",
-  "AEC Consulting Pty Ltd",
-  "Spencer College Pty Ltd",
-  "Envirotech Education Pty Ltd",
-  "King's Institute of Management and Technology Pty Ltd",
-  "New England Institute of Technology Pty Ltd",
-  "St George & Sutherland Community College Incorporated",
-  "Australian Adelaide International College Pty Ltd",
-  "Kaplan Higher Education Pty Ltd",
-  "Adelaide Institute of Business and Technology Pty Ltd",
-  "Australian National College of English Pty. Ltd.",
-  "Barkly International College Pty. Ltd.",
-  "Ashton College Pty. Ltd.",
-  "Australian Institute of Higher Education Pty Ltd",
-  "International Institute of Management Pty Ltd",
-  "Pax Institute of Education Pty Ltd",
-  "The College of Law Limited",
-  "Apex Institute of Education Pty Ltd",
-  "LaTrobe International Galleries Pty. Ltd.",
-  "Media Makeup Academy and Agency Pty Ltd",
-  "Australian College of Technology and Business Pty Ltd",
-  "Angel United Group Pty. Ltd.",
-  "Australian Institute of Business and Management Pty Ltd",
-  "ALIF Australia Pty Ltd",
-  "Global Education & Tourism Group Pty Ltd",
-  "Australian Airline Pilot Academy Pty Ltd",
-  "Beaconhills Christian College Ltd",
-  "Adelaide Educators Pty Ltd",
-  "West Australian Institute of Further Studies Pty Ltd",
-  "Jabin Hopkins Pty Ltd",
-  "JP International College Pty Limited",
-  "National Art School",
-  "Captain Cook Institute Pty Ltd",
-  "The Management Edge Pty Ltd",
-  "IAA Education Pty Ltd",
-  "Pacific Language School Pty Ltd",
-  "Central Australian Institute of Technology Pty Ltd",
-  "Australian Careers Education Pty. Ltd.",
-  "EIM International Training Pty Ltd",
-  "True Education Pty Ltd",
-  "Australian Health and Science Institute Pty Ltd",
-  "Shiv Sans Pty Ltd",
-  "BNB International Colleges Pty Ltd",
-  "Advance English Pty Ltd",
-  "Hibernia Institute Pty Ltd",
-  "Nan Tien Institute Limited",
-  "Pramukh Group of Companies Pty Ltd",
-  "Jasmine Education Group Pty Ltd",
-  "Caloundra City School Limited",
-  "Christian Community Ministries Ltd",
-  "IBN College Pty Ltd",
-  "Australian Skills Centre Pty Ltd",
-  "Aeropower Pty Ltd",
-  "Cairns College of English Pty Ltd",
-  "Australian Professional Skills Institute Pty Ltd",
-  "Nortwest Pty Ltd",
-  "Discover English Pty Ltd",
-  "Morling College Limited",
-  "North Melbourne College AUS Pty Ltd",
-  "Edupro Australia Pty Ltd",
-  "Gold Coast Learning Centre Pty Ltd",
-  "Air Gold Coast Pty. Ltd.",
-  "Sunset Coast International English School Pty Ltd",
-  "Equanimity Consultants Pty Ltd",
-  "Wentworth Institute of Higher Education Pty Ltd",
-  "MVJ Enterprises Pty Ltd",
-  "The Greek Orthodox Parish & Community of Belmore & District All Saints Ltd",
-  "Charles Darwin University",
-  "Charles Institute of Technology Australia Pty Ltd",
-  "Pymble Ladies' College",
-  "Stella Maris College",
-  "All Hallows' School Limited",
-  "English Unlimited Brisbane Pty Ltd",
-  "Genazzano FCJ College Limited",
-  "St Augustine's College Sydney",
-  "Navitas Bundoora Pty Ltd",
-  "St Patrick's College Townsville Limited",
-  "Academies Australasia Hair & Beauty Pty Limited",
-  "Academique Pty Ltd",
-  "Rudolf Steiner Education Group Brisbane Inc",
-  "Skilled Services Australia Pty Ltd",
-  "Macquarie Grammar School Limited",
-  "Diocese of Lismore Catholic Schools Limited",
-  "SP Jain School of Global Management Pty Ltd",
-  "Sydney Catholic Schools Ltd as Trustee for the Sydney Catholic Schools Trust",
-  "St Scholastica's College",
-  "Rosebank College",
-  "Trustees of the Roman Catholic Church for the Diocese of Maitland-Newcastle",
-  "Catholic Schools Parramatta Diocese Limited",
-  "INUS Australia Pty Ltd",
-  "International Institute of Business and Technology (Australia) Pty Ltd (IIBT)",
-  "Apeiron Asia Pty Ltd",
-  "Toni & Guy Australia Pty Ltd",
-  "STEPS Sunshine Coast International College Ltd",
-  "MnM Institute Pty Ltd",
-  "Malvern Institute Pty Ltd",
-  "Department for Education, Children and Young People",
-  "AAPA VICTORIA PTY LTD",
-  "Hamro Institute of Business Technology Pty Ltd",
-  "International Screen Academy Pty Ltd",
-  "Hamazkaine - Arshak & Sophie Galstaun College Limited",
-  "New York Film Academy Australia Pty Ltd",
-  "The Makeup Technicians Pty Ltd",
-  "Baris Education and Culture Foundation Limited",
-  "Job Training Institute Pty Ltd",
-  "Everest Institute of Education Pty Ltd",
-  "AUSTRALIAN COLLEGE OF CHRISTIAN STUDIES LTD",
-  "Australian NIT College Pty Ltd",
-  "Signet Institute of Australia",
-  "TOWNSVILLE INTERNATIONAL ENGLISH SCHOOL PTY. LTD.",
-  "AUSTRALASIAN INSTITUTE OF AYURVEDIC STUDIES PTY LTD",
-  "Sicop Education & Technology Pty Ltd",
-  "MTA Institute of Technology Pty Ltd",
-  "Health Careers International Pty Ltd",
-  "Torrens University Australia Limited",
-  "Elite Education Institute Pty Ltd",
-  "Sheridan College Inc",
-  "Australian College of the Arts Pty Ltd",
-  "Benleader Pty Ltd",
-  "Berkeley Business Institute Pty Ltd",
-  "CHC Services Pty Ltd",
-  "The Malka Group Pty Ltd",
-  "Pal Buddhist School Limited",
-  "National Training Centre of Australia Pty Ltd",
-  "Australian Academy of Nursing Pty Ltd",
-  "Max Therapy School Pty Ltd",
-  "Australian Association of Education and Research Pty Ltd",
-  "Amity College Australia Limited",
-  "Lawson College Australia Pty Ltd",
-  "Institute of Health & Management Pty Ltd",
-  "NSW Business College Pty Ltd",
-  "Iona Columba College Pty Ltd",
-  "GLOBAL TRAINING INNOVATIONS PTY. LTD.",
-  "Smart Academy Pty Ltd",
-  "TTY Collective Pty Ltd",
-  "International College of Melbourne Pty Ltd",
-  "Charter Australia Pty Ltd",
-  "Purna Yoga Ltd",
-  "NATIONAL INSTITUTE OF TECHNOLOGY PTY. LTD.",
-  "International Education Specialist College Pty Ltd",
-  "The Greek Orthodox Community of Oakleigh and District Inc",
-  "Dynamic Education Group Pty Ltd",
-  "Australian College of Business Intelligence Pty Ltd",
-  "Sydney Metro College Pty Ltd",
-  "Ozford Institute of Higher Education Pty Ltd",
-  "Brighton Pacific Pty Ltd",
-  "New England School of English Pty. Ltd.",
-  "Entrepreneur Education Pty Ltd",
-  "Platinum Properties Melbourne Pty Limited",
-  "Gateway College of Technology Pty Ltd",
-  "Perth Technical College Pty Ltd",
-  "The Wales Institute Pty Ltd",
-  "Mercury Institute of Victoria Pty Ltd",
-  "Australian Institute of Innovation & Technology Pty Ltd",
-  "Russo Business School Pty Ltd",
-  "Australian Hospitality Skills Recognition Pty Ltd",
-  "Global Business College Of Australia Pty Ltd",
-  "Choice Business College Pty Ltd",
-  "International Institute (Aust) Pty Ltd",
-  "ORANGE INTERNATIONAL COLLEGE PTY LTD",
-  "Bankstown Community College Inc.",
-  "OHS Media Services Pty Ltd",
-  "Australian Harvard International College Pty Ltd",
-  "Global Education Consultant Pty Ltd",
-  "Axial Training Pty Ltd",
-  "Masters In Training Pty Ltd",
-  "Australian International College Pty Ltd",
-  "Times Academy Pty Ltd",
-  "Lexis Asia Pty Ltd",
-  "Australia Christian College Pty Ltd",
-  "Amber International Aviation Academy Pty Ltd",
-  "Compass Rose International College Pty Ltd",
-  "The Canberra Training School Pty. Ltd.",
-  "Queensland College of Music Pty Ltd",
-  "Insight Academy Pty Ltd",
-  "Macallan College Pty Ltd",
-  "Australian Institute of Advanced Studies Pty Ltd",
-  "Montere eCollege Pty Ltd",
-  "Education Hub Pty Ltd",
-  "Aventia Institute Pty Ltd",
-  "HCR Constructions Pty Ltd",
-  "Site Institute Pty Ltd",
-  "Vanshraj Enterprises Pty Ltd",
-  "Astar Training Institute Pty Ltd",
-  "Australian Institute of English Pty Ltd",
-  "Australasian International Academy Pty Ltd",
-  "Sydney Training Institute Incorporated",
-  "Thinkgate Learning Pty Ltd",
-  "RTO Connect Pty Ltd",
-  "AUSTRALIAN ACADEMY OF TRADES PTY LTD",
-  "Vocational Training Institute Pty Ltd",
-  "M.S Aviation Pty Ltd",
-  "Llewellyn Projects Pty Ltd",
-  "Milcom Communications Pty Limited",
-  "Australian Skills Group Pty Ltd",
-  "Milestone English Academy Pty Ltd",
-  "Scots English College Pty Ltd",
-  "Training Australia First Pty Ltd",
-  "Adore Education Pty Ltd",
-  "NEW YORK COLLEGE PTY. LTD.",
-  "Leaders Institute of Training and Education Pty Ltd",
-  "Sydney International Institute Pty Ltd",
-  "GRIFFIN COLLEGE OF MANAGEMENT & TECHNOLOGY PTY. LTD.",
-  "Barton International College Pty Ltd",
-  "Australian Global College Pty Ltd",
-  "NEW ERA INSTITUTE PTY LTD",
-  "Training Masters Pty Ltd",
-  "Ultimate Education Group Pty Ltd",
-  "The Centre of Excellence Pty Ltd",
-  "Real Group Pty Ltd",
-  "Kool Kids Training College Pty Ltd atf Kool Kids Training College Trust",
-  "BRISBANE PROFESSIONAL COLLEGE PTY LTD",
-  "Natwide Personnel Pty Ltd",
-  "Linx Institute College Pty Ltd",
-  "Frontier Leadership Pty Ltd",
-  "Transformations - Pathways to Competence and Developing Excellence Pty Ltd",
-  "Perth Translation and Interpreting Training Pty Ltd",
-  "Student Development and Learning (SDL) Academy Pty Ltd",
-  "Astley College Australia Pty Ltd",
-  "International Institute Brisbane Pty Ltd",
-  "Brisbane Career College Pty Ltd",
-  "Mechanical Institute of Training and Technology Pty Ltd",
-  "The Cairnmillar Institute",
-  "Momentum Consulting (Qld) Pty Ltd",
-  "Polytechnic Institute Australia Pty Ltd",
-  "Australian Capital Group Pty Ltd",
-  "Australian International Training College Pty Ltd",
-  "Clinton Education Pty Ltd",
-  "ECHO Education Technology Pty Ltd",
-  "QIHE PTY LTD",
-  "H.C.H INVESTMENTS PTY. LTD.",
-  "Australian Vocational Training Institute Pty Ltd",
-  "Academy of Entrepreneurs Pty Ltd",
-  "Elite Education Group PTY. LTD.",
-  "The Anglican Schools Commission Incorporated",
-  "Excellent Accounts Pty Ltd",
-  "York Business Institute Pty. Ltd.",
-  "Golf Training Australia Pty. Ltd.",
-  "Golden Wattle Group Pty Ltd",
-  "BARRINGTON TRAINING SERVICES QUEENSLAND PTY LTD",
-  "ANIT Australia Pty Ltd",
-  "Sydney Art School Pty Ltd",
-  "Swann International Pty Ltd",
-  "Crown Education Pty Ltd",
-  "Anglican Schools Corporation",
-  "Angel Education Group Pty Ltd ATF Angel Education Group Unit Trust",
-  "Windsor College Pty Ltd",
-  "CACHET TRAINING PTY LIMITED",
-  "GLOBAL COLLEGE AUSTRALASIA PTY. LTD.",
-  "INSTITUTE OF GLOBAL EDUCATION AND TRAINING PTY. LTD.",
-  "Lennox Institute Pty Ltd",
-  "Engineering Institute of Technology Pty Ltd",
-  "GOLD COAST INTERNATIONAL COLLEGE PTY. LTD.",
-  "Australis College Pty Ltd",
-  "IBMA Education Pty Ltd",
-  "Gen Institute Pty Ltd",
-  "Australian Education Advisor Pty Ltd",
-  "Beauty Therapy Training Australia Pty Ltd",
-  "Care Plus Training Pty Ltd",
-  "Learning Lab Pty Ltd",
-  "Skillinvest Limited",
-  "Coleraine Share Trading Pty Ltd",
-  "Unity School Pty Ltd",
-  "Gamma Education & Training Pty Ltd",
-  "Proteus Technologies Pty Ltd",
-  "Pollard English Language Centre Pty Ltd",
-  "VELOCITY EDUCATION & TRAINING PTY. LTD.",
-  "Mindroom Innovation PTY LTD",
-  "Enhance College Pty Ltd",
-  "SKILLSET TRAINING PTY. LTD.",
-  "Mayfair College Pty Ltd",
-  "AUSTRALIA ACADEMY INTERNATIONAL PTY LTD",
-  "SUPERIOR TRAINING CENTRE PTY LTD",
-  "Melbourne City College Pty Ltd",
-  "Airlines of Tasmania Pty Ltd",
-  "IIPM Pty Ltd",
-  "AUSTRALIAN HEALTH AND MANAGEMENT INSTITUTE PTY LTD",
-  "ST ALBANS INSTITUTE PTY LTD",
-  "LANEWAY EDUCATION PTY LTD",
-  "NEWTON COLLEGE PTY. LTD.",
-  "Study Play Care Pty Ltd",
-  "Wall Street College Pty Ltd",
-  "Australian Training School Pty Ltd",
-  "Collins Institute of Australia Pty Ltd",
-  "Bryan Peach Institute Pty Ltd",
-  "Australian Frontline Training College Pty Ltd",
-  "Angel Investments Group Pty Ltd",
-  "ZHOUAND INSTITUTE PTY. LTD.",
-  "TRAINING ORGANISATION NSW PTY LTD",
-  "Australia Institute of Business & Technology - International Pty Ltd",
-  "Zoi Education Pty Ltd",
-  "Victorian Fitness Academy Pty Ltd",
-  "Southern English College Pty Ltd",
-  "RANSFORD COLLEGE PTY LTD",
-  "Level Up Education & Training Academy Pty Ltd",
-  "Pan Bird Pty Ltd",
-  "Sydney City College of Management Pty Ltd",
-  "AUSTRALIA LIBERTY COLLEGE PTY LTD",
-  "AISL PTY LTD",
-  "Strategix Training Group Pty Ltd",
-  "Medowie Christian School Limited",
-  "MID CITY EDUCATION PTY LTD",
-  "Pacific English College Pty Ltd",
-  "Australian Careers Business College Pty Ltd",
-  "Australian English Colleges Pty. Ltd.",
-  "APLUS EDUCATION GROUP Pty. Ltd.",
-  "Five Diamonds Group Pty Ltd",
-  "ALPHA INTERNATIONAL COLLEGE AUSTRALIA PTY. LTD.",
-  "JOAN LAWMAN SCHOOL OF BEAUTY PTY LTD",
-  "Brighton College Pty Ltd",
-  "Lead College Pty Ltd",
-  "Advance Training Pty Ltd",
-  "INT Nurse Training Pty Ltd",
-  "MG Australia Group Pty Ltd",
-  "Manigram Pty Ltd",
-  "DOLPH LEARNING PTY LTD",
-  "Melbourne Institute of Nails & Beauty Pty Ltd",
-  "Key 2 Learning Pty Ltd",
-  "Collins Academy Pty Ltd",
-  "Australian Design College Pty Ltd",
-  "Blue Bay College Pty Ltd",
-  "KNIT GROUP AUSTRALIA PTY LTD",
-  "Victorian Education and Training Group Pty Ltd",
-  "Spencer Technical College Pty Ltd",
-  "Akram Kahla Pty Ltd",
-  "Choice Academic College Pty Ltd",
-  "NARTEL ENTERPRISES PTY LTD",
-  "Goulburn Ovens Institute of TAFE",
-  "Advocate Training Pty Ltd",
-  "FLY OZ PTY LTD",
-  "F & Z EDUCATION PTY LTD",
-  "Austrasia College Pty Ltd",
-  "AUSTRALIAN SMART COLLEGE PTY LTD",
-  "Australian Film, Television and Radio School",
-  "Western Sydney University International College Pty Ltd",
-  "Tham Training Pty Ltd",
-  "Australian Professional Education Group Pty Ltd",
-  "Skilled Up Pty Ltd",
-  "Rightway Training and Development Pty Ltd",
-  "Original Campus Pty Ltd",
-  "Educare Training Institute of Australasia Pty Ltd",
-  "Harbourside Institute of Australia Pty Ltd",
-  "Medical Training and Development Pty Ltd",
-  "Australian Techno Management College Pty Ltd",
-  "MELBOURNE EDUCATION INSTITUTE PTY. LTD.",
-  "Centennial College Pty Ltd",
-  "Alana Kaye Group Pty Ltd",
-  "Australian College of Technical Training Pty Ltd",
-  "Sea English Academy International Pty Ltd",
-  "Higher Learning Australia Pty Ltd A/T for The Trustee for Higher Learning Unit Trust",
-  "Sydney English House Pty Ltd",
-  "Ashley English Language Institute Pty Ltd",
-  "UK English College Pty Ltd",
-  "Skills International Pty Ltd",
-  "International College of Tasmania Pty Ltd",
-  "Melbourne City Institute Pty Ltd",
-  "Australian Institute of Engineering Pty Ltd",
-  "Steven Millard and Associates Pty Ltd atf Millard Family Trust",
-  "Australian College of Community and Health Services Pty Ltd",
-  "Care Academy VIC Pty Ltd",
-  "Downtown Australia Pty Ltd",
-  "International College of Australia Pty Ltd",
-  "Australian Tertiary Institute Pty Ltd",
-  "Queen Anne English College Australia Pty Ltd",
-  "Villanova College",
-  "Sanbourne Academy Pty Ltd",
-  "Positive Living Minds Training & Consultancy Pty Ltd",
-  "Austec Institute Pty Ltd",
-  "Kalamatta Pty. Ltd",
-  "Ingress Training Academy Pty Ltd",
-  "Mint Training Pty Ltd",
-  "Australian International Studies Institute Pty Ltd",
-  "Apeiro Institute Pty Ltd",
-  "St Paul's College Limited",
-  "The Institute of International Studies (TIIS) Pty Ltd",
-  "Insight Academy of Australia Pty Ltd",
-  "Wakefield International Business School Pty Ltd",
-  "Wiseman & Co. Advanced Learning Institute Pty Ltd",
-  "Intellect English Pty Ltd",
-  "Accredited Education & Training Australia Pty Ltd",
-  "Outsource Institute of Technology Pty Ltd",
-  "AUSTRALIAN INSTITUTE OF BUSINESS AND TECHNOLOGY PTY. LTD.",
-  "Australian Islamic College of Sydney",
-  "Richmond School of Business Pty Ltd",
-  "SMEAG AUSTRALIA PTY LTD",
-  "St Stephen's School",
-  "Jazz Music Institute Pty Ltd",
-  "Ti Education and Training Pty Ltd",
-  "Smart Connection Company Pty Ltd",
-  "Ruby Institute Pty LTD",
-  "Mondairs PTY LTD",
-  "AOI GROUP PTY LTD",
-  "Presbyterian Church of Queensland",
-  "The Lions Institute Pty Ltd",
-  "Mandarin Institute of Victoria Pty Ltd",
-  "Berkeley Education Pty Ltd",
-  "Leaders Institute Pty Ltd",
-  "YourLife Health and Learning Inc",
-  "Australian Academy of Business and Technology Pty Ltd",
-  "Sydney Centre for Finance Studies Pty Ltd",
-  "Melbourne Centre for Technology Studies Pty Ltd",
-  "Southern Cross Education Institute (Higher Education) Pty Ltd",
-  "Simple Training Academy Pty Ltd",
-  "Tred Consultants Pty Ltd",
-  "AUSTRALIAN INSTITUTE OF BUSINESS AND TRADE PTY. LTD.",
-  "NATIONAL AUSTRALIAN INSTITUTE OF TECHNOLOGY PTY LTD",
-  "Crown Institute of Higher Education Pty Ltd",
-  "TT Institute Pty Ltd",
-  "Australian National Academy of Education Pty Ltd",
-  "United POP Australia Pty Ltd",
-  "Universal English Pty Ltd",
-  "Australian International Education Centre Pty Ltd",
-  "Stanford College Australia Pty Ltd",
-  "Aspen Education Group Pty Ltd",
-  "Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust",
-  "Q Academy Pty Ltd",
-  "Australian Capital Training Institute Pty Ltd",
-  "Leeds College Pty Ltd",
-  "The Language Academy Pty Ltd",
-  "Design Schools Australia Pty Ltd",
-  "House of Learning Pty Ltd",
-  "Australian College of Nursing Ltd",
-  "Veritas Education Pty Ltd",
-  "Adelaide Institute of Higher Education Pty Ltd",
-  "Lambda Education Pty Ltd",
-  "NSW Institute of Education and Training Pty Ltd",
-  "Wakefield International College Pty Ltd",
-  "Orange Education Group Pty Ltd",
-  "Australian College of Digital Technologies Pty Ltd",
-  "TKL College Pty Ltd",
-  "Moreton Bay College",
-  "Moreton Bay Boys' College Limited",
-  "Vocation Education Training Australia Pty Ltd",
-  "Davies Institute Pty Ltd",
-  "Australian Institute of Electro Technology Pty Ltd",
-  "Eastlink Consulting Pty Ltd",
-  "CAN UNITED Pty Ltd",
-  "Victorian Institute of Education Pty ltd",
-  "United Colleges of Australia Pty Ltd as the trustee for UCA Unit Trust",
-  "Australian College of International Studies Pty Ltd",
-  "A.M.A. Services (W.A.) Pty Ltd",
-  "Active Transition Training Pty Ltd",
-  "Australian Global Institute Pty Ltd",
-  "Learning Victoria Pty Ltd",
-  "Bluewater Aviation Pty Ltd",
-  "TVSA Pilot Training Pty Ltd",
-  "Orana Fashion Business College Pty Ltd",
-  "Aircrew Training and Support Pty Ltd",
-  "Blue Lotus Academy Pty Ltd",
-  "Health Institute Australasia Pty Ltd",
-  "Sydney Metropolitan International College Pty Ltd",
-  "The Institute of Culinary Excellence Pty Ltd",
-  "NVR Education Pty Ltd",
-  "MYOZ College Pty Ltd",
-  "Hilton Academy Pty Ltd",
-  "Stirling Institute of Australia Pty Ltd",
-  "AUIT Group Pty Ltd as trustee for The Holistic Trust",
-  "Charleston English Pty Ltd",
-  "Australian College of Management and Innovation Pty Ltd",
-  "Major Blue Air Pty Ltd",
-  "Lindisfarne Anglican School",
-  "Fit Education Pty Ltd",
-  "International Education Group of Australia Pty Ltd",
-  "IQRA Vocational Education and Training Pty Ltd",
-  "Innovative Institute of Australia Pty Ltd",
-  "Stellar College Pty Ltd",
-  "Australian Campus Management Pty Ltd",
-  "CAREER READY PTY LTD",
-  "Australian Future Wellbeing Education Pty Ltd",
-  "Impavid Education Pty Ltd",
-  "HOWAYEK BLESSINGS LTD",
-  "Techie International College Pty Ltd",
-  "Rahban Services Pty Ltd",
-  "Edinburgh International College Pty Ltd",
-  "Education Investors Pty Ltd",
-  "Origin Education Group Pty Ltd",
-  "Future Path International Pty Ltd",
-  "Charlton Brown Pty Ltd",
-  "Australian College for Excellence Pty Ltd",
-  "Infinite Learning Institute Pty Ltd",
-  "Merage Group Pty Ltd",
-  "Australian Business Management Pty Ltd",
-  "Career Development and Training Pty Ltd",
-  "The Business School Pty Ltd",
-  "East Coast College Pty Ltd",
-  "Batool International Pty Ltd",
-  "iLearn Oz Pty Ltd",
-  "Aus Crest Pty Ltd",
-  "International College of Engineering Pty Ltd",
-  "Australian College of Professional Careers Pty Ltd",
-  "Radix Education Pty Ltd",
-  "Australia Advance Education Group Pty Ltd",
-  "Platform 1 Group Pty Ltd",
-  "FIRST CHOICE EDUCATION PTY. LTD.",
-  "Emma Wicks as The Trustee for Paradise Falls Trust",
-  "Trump College Pty Ltd as Trustee for Trump College Unit Trust",
-  "INTERNATIONAL FITNESS INSTITUTE PTY LTD",
-  "Future Education Group Pty. Ltd.",
-  "Future Language School Pty Ltd",
-  "Australian Institute of Business Intelligence Pty Ltd",
-  "Higher Education Leadership Institute",
-  "Sydney Metropolitan Group Pty Ltd",
-  "Australian School of Accounting Pty Ltd",
-  "Universal Higher Education Pty Ltd",
-  "Inspired Australia Holdings PTY LTD",
-  "Global Institute of Training and Education Pty Ltd",
-  "Altocap Pty Ltd",
-  "Morrison College Pty Ltd",
-  "Eastern College Australia Incorporated",
-  "LEARNVAULT PTY LTD",
-  "Clayton Education Group Pty LTD",
-  "THE EARLY CHILDHOOD LEARNING COMPANY PTY. LTD.",
-  "Australian National Education Pty Ltd",
-  "Hills International College Ltd",
-  "EBEJER, THOMAS JOSEPH",
-  "AFG SECURITY AND PROTECTIVE SERVICES PTY LTD",
-  "Reeves College Pty Ltd",
-  "ECA Graduate Institute Pty Ltd",
-  "Sydney Institute of Higher Education Pty Ltd",
-  "Chambers School of Business Pty Ltd",
-  "Mount Alvernia College Limited",
-  "EMBRACIA EDUCATION & DEVELOPMENT PTY LTD",
-  "Australian Scholar's College Pty Ltd",
-  "Phoenix College of Australia Pty Ltd",
-  "Pivotal Training & Development Pty Ltd",
-  "Oxford Creative Academy Pty Ltd",
-  "West Melbourne Institute of Technology Pty Ltd",
-  "Global Institute Australia Pty Ltd",
-  "Focus Academy of Learning Pty Ltd",
-  "TRIDENT EDUCATION AUSTRALIA PTY LTD",
-  "Opulence College Pty Ltd",
-  "Edvantage Institute Australia Pty Ltd",
-  "Bhairav Baba Pty Ltd",
-  "ABOARD TRAINING AUSTRALIA PTY LTD",
-  "ROCKFORD INTERNATIONAL COLLEGE PTY LTD",
-  "Langports (Gold Coast) Pty Ltd",
-  "Skills Training College Pty Ltd",
-  "Australian Leadership Institute (ALI) Pty. Ltd",
-  "AUSTRALIAN NATIONAL EDUCATION HOLDING Pty Ltd",
-  "Career Solutions Group Pty Ltd The Trustee for Career Solutions Trust",
-  "Australian City International College Pty Ltd",
-  "Guided Pathways Pty Ltd",
-  "Melbourne Training College Pty Ltd",
-  "Tower Australian College Pty Ltd",
-  "McEvoy & Doust Pty Ltd",
-  "City Language Institute Pty Ltd",
-  "Texila College Australia Pty Ltd",
-  "Clinton English Pty Ltd",
-  "Horizon Training Institute Pty Ltd",
-  "Performing Arts Education Pty Ltd",
-  "AEC Simply Studies Pty Ltd",
-  "St. Marys Institute Pty Ltd",
-  "OPERA EDUCATION GROUP PTY LTD",
-  "Integrated Training Pty Ltd",
-  "L.P. Communications Pty Ltd as trustee for LP communications Trust",
-  "Australian International Aviation College PTY LTD",
-  "Reach Community College Pty Ltd",
-  "Prime Education Group Pty Ltd",
-  "Sydney Metropolitan Institute of Technology Pty Ltd",
-  "AUSTRALIAN SOVEREIGN COLLEGE PTY LTD",
-  "Eton College Pty Ltd",
-  "CJAE Pty Ltd",
-  "Corporate Business Academy Pty Ltd",
-  "Old School Technical Training Pty Ltd",
-  "Trade Institute of Victoria Pty Ltd",
-  "Learn to Fly Australia Pty Ltd",
-  "Bentley College Pty Ltd",
-  "Kingsway College Pty Ltd",
-  "Shafston International Pty Ltd",
-  "Holborne Institute Pty Ltd",
-  "Spark SA Investments Pty Ltd",
-  "Fox Endeavours Pty Ltd",
-  "BFJ International Studies Pty Ltd",
-  "Victorian Institute of Applied Learning Pty Ltd",
-  "English Direct Australia Pty Ltd",
-  "AWS Institute Pty Ltd",
-  "Australasian College of Advanced Education Pty Ltd",
-  "FIT College Pty Ltd",
-  "Highgate International College Pty Ltd",
-  "Signet College Pty Ltd",
-  "Top End Group Training Pty Ltd",
-  "Loreto Normanhurst Limited",
-  "ECA Higher Education Institute Pty Ltd",
-  "Contempo Education Pty Ltd",
-  "Australian Institute of Professionals (AIP) Pty Ltd",
-  "Helix College Pty Ltd",
-  "J Chazzer & B Singh & H Singh",
-  "Luminous Education Pty Ltd",
-  "Signature Training Pty Ltd",
-  "Unique Edge Education Pty Ltd",
-  "Academia of Trade Pty Ltd",
-  "PAKENHAM INSTITUTE PTY LTD",
-  "Triple Five Group Pty. Ltd.",
-  "Australian Chiropractic College Limited",
-  "INTERNATIONAL INSTITUTE OF SYDNEY PTY LTD",
-  "The Bright College Pty Ltd",
-  "Penfold College Pty Ltd",
-  "SET QLD Pty Ltd as trustee for SET QLD UNIT TRUST",
-  "JMD Business Institute Pty Ltd",
-  "Riverdale Institute Pty Ltd",
-  "Australian Business Skills College Pty Ltd",
-  "Sunbeam International College Pty Ltd",
-  "EQUINIM COLLEGE PTY LTD",
-  "Nithi College Pty Ltd",
-  "Australian Health and Horticulture Institute Pty Ltd",
-  "Wisdom International College Pty Ltd",
-  "Pioneer College Pty Ltd",
-  "Starford College Pty Ltd",
-  "Aim Institute Pty Ltd",
-  "GIPPSLAND TRADE INSTITUTE PTY LTD",
-  "AA Training Pty Ltd",
-  "J&L Consultancy Pty Ltd",
-  "Prospect Education Group Pty Ltd",
-  "Workforce Education Institute Pty. Ltd.",
-  "Culinary Institute Australia Pty Ltd",
-  "Malwa College of Australia Pty Ltd",
-  "NOVUS EDUCATION PTY LTD",
-  "Apex Institute of Higher Education Pty Ltd",
-  "Polytechnic Victoria Pty Ltd",
-  "ADELAIDE EDUCATION AND TRAINING PTY LTD",
-  "Australian Guess International College Pty Ltd",
-  "Australian Prime Education and Training Pty Ltd",
-  "Hospitality Institute of NSW Pty Ltd",
-  "Epoch International Group Pty Ltd",
-  "Alpha Beta College Australia PTY LTD",
-  "Easy Buy Products Pty Ltd",
-  "Chase Aus Pty Ltd",
-  "Bush Tukka Pty Ltd",
-  "Datum College Pty Ltd",
-  "FEDERATION ACADEMY AUSTRALIA PTY LTD",
-  "AUSWAY COLLEGE OF EDUCATION & TRAINING PTY. LTD.",
-  "WINSLOW PROFESSIONAL EDUCATION PTY LTD",
-  "AUSTRALIAN INSTITUTE OF DIGITAL TECHNOLOGY PTY LTD",
-  "Palmir Educreation Pty Ltd",
-  "Australian International College of Skills & Education Pty Ltd",
-  "AIE Institute Limited",
-  "AUSTRALIAN VOCATIONAL TRAINING PTY LTD",
-  "Seir Pty Ltd",
-  "Valley International Pty Ltd",
-  "Workplace Health & Safety Services Pty Ltd",
-  "Atlantic College Pty Ltd",
-  "Le Pont International College Pty Ltd",
-  "Ferguson Project Management Services Pty Ltd",
-  "Sydney Institute of Top Education Pty Ltd",
-  "Raymond International College Pty Ltd",
-  "Australian Institute of Technology and Commerce Pty Ltd",
-  "ANZ College Pty Ltd",
-  "Woodstock International Pty Ltd",
-  "Pentagon College Pty Ltd",
-  "Brooklyn International College Pty Ltd",
-  "LEGEND INSTITUTE PTY LTD",
-  "Unison Education and Training Pty Ltd",
-  "Innovative College Pty Ltd",
-  "Willows Education Australia Pty Ltd",
-  "Award Academy Australia Pty Ltd",
-  "Australian Institute of Education and Technology Pty Ltd",
-  "Australian College of Vocational Education and Training Pty Ltd",
-  "National Academy of Professional Studies Pty Ltd",
-  "ELS FUTURES PTY LTD",
-  "United Institute Pty Ltd",
-  "Edunex Pty Ltd",
-  "Queensland Institute of Higher Education Pty Ltd",
-  "Enjoy English Pty Ltd",
-  "Ivory Education Group Pty Ltd",
-  "SAPIENCE COLLEGE PTY LTD",
-  "Future College Pty Ltd",
-  "Melbourne Institute of Higher Education Pty Ltd",
-  "ACCORD COLLEGE PTY LTD",
-  "AUSTRALIAN EDUCATION EXCELLENCE CENTRE PTY LTD",
-  "Alice Springs College of Australia Pty Ltd",
-  "HIGH SKILLED TRAINING AND EDUCATION AUSTRALIA PTY LTD",
-  "Australian Virtus Institute Pty Ltd",
-  "Harvard International College Pty Ltd",
-  "Brightpart Learning Centre Pty Ltd",
-  "BDMS Education Pty Ltd",
-  "Australian Educare College Pty Ltd",
-  "International Institute of Training Pty Ltd",
-  "Greenhill Institute Pty Ltd",
-  "AIPT GROUP PTY LTD",
-  "Graceland Institute Pty Ltd",
-  "Boston International Pty Ltd",
-  "Educate Australia Pty Ltd",
-  "Australian Vocational Training Academy Pty Ltd",
-  "Waratah Polytechnic Pty Ltd",
-  "Kingsford Education Group Pty Ltd",
-  "Wissen Holdings Pty Ltd",
-  "Australian College of Culinary and Management Pty Ltd",
-  "UQ College",
-  "Nick Hannay Pty Ltd",
-  "Avir Institute of Skills Pty Ltd",
-  "Vigil International College Pty Ltd",
-  "Vocational Trainers Pty Ltd",
-  "Pace Business College Pty Ltd",
-  "Genesis Education Group Pty Ltd",
-  "Australian Institute of Business and Technical Education Pty Ltd",
-  "Perth Institute of Australia Pty Ltd",
-  "ABBI Educational Services Pty Ltd",
-  "The Ballarat Academy Pty Ltd",
-  "Institute of Management and Trade",
-  "AUSTRALIA INTERNATIONAL COLLEGE OF BUSINESS & TECHNOLOGY PTY LTD",
-  "THE ANIMAL ACADEMY",
-  "Auscare Staffing Agency Pty Ltd",
-  "MARS INSTITUTE PTY LTD",
-  "SECURITY COLLEGE OF AUSTRALIA Pty Ltd",
-  "Alma Mater College Australia Pty Ltd",
-  "Analytics Institute of Australia Pty Ltd",
-  "Enlighten Talent Pty Ltd",
-  "Sheppard Associates Pty Ltd",
-  "Auscanus Institute of Australia Pty Ltd",
-  "Ming-De International School Toowoomba Inc",
-  "UTA Institute of Technology Pty. Ltd.",
-  "AUSTRALIAN INSTITUTE OF HOSPITALITY & TRADE PTY LTD",
-  "Marasi Education Pty Ltd (VSC)",
-  "WHITEHOUSE INTERNATIONAL COLLEGE PTY LTD",
-  "Boston Institute Pty Ltd",
-  "College of Nursing Education & Training Australia Pty Ltd",
-  "Southern Institute of Early Learning and Leadership Pty Ltd",
-  "D P Training Pty Ltd as The Trustee for Goodeve Family Trust",
-  "Career Employment Group Inc",
-  "Daffodil International College Pty Ltd",
-  "Australian Professional Training Academy Pty Ltd",
-  "Achievers Global Pty Ltd",
-  "Avalon College Pty Ltd",
-  "EXCEED VENTURES PTY LTD",
-  "Southern Cross Institute (SCI)",
-  "Thames International College Pty Ltd",
-  "DS College Pty Ltd",
-  "OAK LEAF EDUCATION",
-  "Mpika Holdings Pty Ltd",
-  "Sunway International College Pty Ltd",
-  "Concordia College - St Peters Campus Blackwood",
-  "Kings Institute of Vocational Studies Pty Ltd",
-  "Oban College Pty Ltd",
-  "ELITE COLLEGE OF ENGLISH",
-  "RSN Consultancy Pty Ltd",
-  "Global Healthcare Management College",
-  "Sydney Polytechnic Institute",
-  "AUSTRALIAN SCHOOL OF BUSINESS & TRADE PTY LTD",
-  "International Institute of Technology and Management",
-  "College of Skills & Knowledge Pty Ltd",
-  "NSW Higher Education Pty Ltd",
-  "Australian Institute of Professional Counsellors",
-  "NATIONAL POLYTECHNIC OF AUSTRALIA PTY LTD",
-  "Lincoln Institute of Higher Education Ltd",
-  "Australian Engineering College Pty Ltd",
-  "Norton Institute Pty Ltd",
-  "A GRADE EDUCATION AND TRAINING PTY LIMITED",
-  "Dynamic Training Services Pty Ltd",
-  "The Australian Data Institute Pty Ltd",
-  "Grenfell Education Enterprises Pty Ltd",
-  "The Health Arts College Pty Ltd",
-  "Far North Training & Consultancy Pty Ltd",
-  "States College Australia Pty Ltd",
-  "Atlas Education Pty Ltd",
-  "IIVS Pty Ltd",
-  "Sharma Education Pty Ltd",
-  "Australian Business Training Institute Pty Ltd",
-  "Universal Training Institute Pty Ltd",
-  "Sunbright Pty Ltd",
-  "Silverline College Pty Ltd",
-  "Indopacific Global Pty Ltd",
-  "Yarra Education Australia",
-  "Institute of Innovation, Entrepreneurship and Technology (IIET)",
-  "Ardor College Pty Ltd",
-  "Australian Training and Education College Pty Ltd",
-  "Australian Management College Pty Ltd",
-  "Kangaroo International College Pty Ltd",
-  "Core Training Pty Ltd",
-  "Danford Higher Education Pty Ltd",
-  "Austin Institute of Trades Pty Ltd",
-  "360 Training Academy Pty Ltd"
+  {
+    "Country_Name": "United States of America",
+    "Country_code": "US",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Aruba",
+    "Country_code": "AW",
+    "Dial_code": "297",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Afghanistan",
+    "Country_code": "AF",
+    "Dial_code": "93",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Angola",
+    "Country_code": "AO",
+    "Dial_code": "244",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Anguilla",
+    "Country_code": "AI",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Aland Islands",
+    "Country_code": "AX",
+    "Dial_code": "358",
+    "Phone_number_length": [
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Albania",
+    "Country_code": "AL",
+    "Dial_code": "355",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Andorra",
+    "Country_code": "AD",
+    "Dial_code": "376",
+    "Phone_number_length": [
+      "6"
+    ]
+  },
+  {
+    "Country_Name": "United Arab Emirates",
+    "Country_code": "AE",
+    "Dial_code": "971",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Argentina",
+    "Country_code": "AR",
+    "Dial_code": "54",
+    "Phone_number_length": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Armenia",
+    "Country_code": "AM",
+    "Dial_code": "374",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "American Samoa",
+    "Country_code": "AS",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Antigua and Barbuda",
+    "Country_code": "AG",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Australia",
+    "Country_code": "AU",
+    "Dial_code": "61",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Austria",
+    "Country_code": "AT",
+    "Dial_code": "43",
+    "Phone_number_length": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14"
+    ]
+  },
+  {
+    "Country_Name": "Azerbaijan",
+    "Country_code": "AZ",
+    "Dial_code": "994",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Burundi",
+    "Country_code": "BI",
+    "Dial_code": "257",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Belgium",
+    "Country_code": "BE",
+    "Dial_code": "32",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Benin",
+    "Country_code": "BJ",
+    "Dial_code": "229",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Burkina Faso",
+    "Country_code": "BF",
+    "Dial_code": "226",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Bangladesh",
+    "Country_code": "BD",
+    "Dial_code": "880",
+    "Phone_number_length": [
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Bulgaria",
+    "Country_code": "BG",
+    "Dial_code": "359",
+    "Phone_number_length": [
+      "8",
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Bahrain",
+    "Country_code": "BH",
+    "Dial_code": "973",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Bahamas",
+    "Country_code": "BS",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Bosnia and Herzegovina",
+    "Country_code": "BA",
+    "Dial_code": "387",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Belarus",
+    "Country_code": "BY",
+    "Dial_code": "375",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Belize",
+    "Country_code": "BZ",
+    "Dial_code": "501",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Bermuda",
+    "Country_code": "BM",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Bolivia",
+    "Country_code": "BO",
+    "Dial_code": "591",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Brazil",
+    "Country_code": "BR",
+    "Dial_code": "55",
+    "Phone_number_length": [
+      "10",
+      "11"
+    ]
+  },
+  {
+    "Country_Name": "Barbados",
+    "Country_code": "BB",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Brunei Darussalam",
+    "Country_code": "BN",
+    "Dial_code": "673",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Bhutan",
+    "Country_code": "BT",
+    "Dial_code": "975",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Botswana",
+    "Country_code": "BW",
+    "Dial_code": "267",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Central African Republic",
+    "Country_code": "CF",
+    "Dial_code": "236",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Canada",
+    "Country_code": "CA",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Switzerland",
+    "Country_code": "CH",
+    "Dial_code": "41",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Chile",
+    "Country_code": "CL",
+    "Dial_code": "56",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "China",
+    "Country_code": "CN",
+    "Dial_code": "86",
+    "Phone_number_length": [
+      "11"
+    ]
+  },
+  {
+    "Country_Name": "Cte d'Ivoire, Ivory Coast",
+    "Country_code": "CI",
+    "Dial_code": "225",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Cameroon",
+    "Country_code": "CM",
+    "Dial_code": "237",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Congo, Democratic Republic of the",
+    "Country_code": "CD",
+    "Dial_code": "243",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Congo (Brazzaville)",
+    "Country_code": "CG",
+    "Dial_code": "242",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Cook Islands",
+    "Country_code": "CK",
+    "Dial_code": "682",
+    "Phone_number_length": [
+      "5"
+    ]
+  },
+  {
+    "Country_Name": "Colombia",
+    "Country_code": "CO",
+    "Dial_code": "57",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Comoros",
+    "Country_code": "KM",
+    "Dial_code": "269",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Cape Verde",
+    "Country_code": "CV",
+    "Dial_code": "238",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Costa Rica",
+    "Country_code": "CR",
+    "Dial_code": "506",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Cuba",
+    "Country_code": "CU",
+    "Dial_code": "53",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Cayman Islands",
+    "Country_code": "KY",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Cyprus",
+    "Country_code": "CY",
+    "Dial_code": "357",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Czech Republic",
+    "Country_code": "CZ",
+    "Dial_code": "420",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Germany",
+    "Country_code": "DE",
+    "Dial_code": "49",
+    "Phone_number_length": [
+      "10",
+      "11"
+    ]
+  },
+  {
+    "Country_Name": "Djibouti",
+    "Country_code": "DJ",
+    "Dial_code": "253",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Dominica",
+    "Country_code": "DM",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Denmark",
+    "Country_code": "DK",
+    "Dial_code": "45",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Dominican Republic",
+    "Country_code": "DO",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Algeria",
+    "Country_code": "DZ",
+    "Dial_code": "213",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Ecuador",
+    "Country_code": "EC",
+    "Dial_code": "593",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Egypt",
+    "Country_code": "EG",
+    "Dial_code": "20",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Eritrea",
+    "Country_code": "ER",
+    "Dial_code": "291",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Spain",
+    "Country_code": "ES",
+    "Dial_code": "34",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Estonia",
+    "Country_code": "EE",
+    "Dial_code": "372",
+    "Phone_number_length": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Ethiopia",
+    "Country_code": "ET",
+    "Dial_code": "251",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Finland",
+    "Country_code": "FI",
+    "Dial_code": "358",
+    "Phone_number_length": [
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Fiji",
+    "Country_code": "FJ",
+    "Dial_code": "679",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Falkland Islands (Malvinas)",
+    "Country_code": "FK",
+    "Dial_code": "500",
+    "Phone_number_length": [
+      "5"
+    ]
+  },
+  {
+    "Country_Name": "France",
+    "Country_code": "FR",
+    "Dial_code": "33",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Faroe Islands",
+    "Country_code": "FO",
+    "Dial_code": "298",
+    "Phone_number_length": [
+      "6"
+    ]
+  },
+  {
+    "Country_Name": "Micronesia, Federated States of",
+    "Country_code": "FM",
+    "Dial_code": "691",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Gabon",
+    "Country_code": "GA",
+    "Dial_code": "241",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "United Kingdom",
+    "Country_code": "GB",
+    "Dial_code": "44",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Georgia",
+    "Country_code": "GE",
+    "Dial_code": "995",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Ghana",
+    "Country_code": "GH",
+    "Dial_code": "233",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Gibraltar",
+    "Country_code": "GI",
+    "Dial_code": "350",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Guinea",
+    "Country_code": "GN",
+    "Dial_code": "224",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Guadeloupe",
+    "Country_code": "GP",
+    "Dial_code": "590",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Gambia",
+    "Country_code": "GM",
+    "Dial_code": "220",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Guinea-Bissau",
+    "Country_code": "GW",
+    "Dial_code": "245",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Equatorial Guinea",
+    "Country_code": "GQ",
+    "Dial_code": "240",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Greece",
+    "Country_code": "GR",
+    "Dial_code": "30",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Grenada",
+    "Country_code": "GD",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Greenland",
+    "Country_code": "GL",
+    "Dial_code": "299",
+    "Phone_number_length": [
+      "6"
+    ]
+  },
+  {
+    "Country_Name": "Guatemala",
+    "Country_code": "GT",
+    "Dial_code": "502",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "French Guiana",
+    "Country_code": "GF",
+    "Dial_code": "594",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Guam",
+    "Country_code": "GU",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Guyana",
+    "Country_code": "GY",
+    "Dial_code": "592",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Hong Kong, Special Administrative Region of China",
+    "Country_code": "HK",
+    "Dial_code": "852",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Honduras",
+    "Country_code": "HN",
+    "Dial_code": "504",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Croatia",
+    "Country_code": "HR",
+    "Dial_code": "385",
+    "Phone_number_length": [
+      "8",
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Haiti",
+    "Country_code": "HT",
+    "Dial_code": "509",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Hungary",
+    "Country_code": "HU",
+    "Dial_code": "36",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Indonesia",
+    "Country_code": "ID",
+    "Dial_code": "62",
+    "Phone_number_length": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  {
+    "Country_Name": "India",
+    "Country_code": "IN",
+    "Dial_code": "91",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Ireland",
+    "Country_code": "IE",
+    "Dial_code": "353",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Iran, Islamic Republic of",
+    "Country_code": "IR",
+    "Dial_code": "98",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Iraq",
+    "Country_code": "IQ",
+    "Dial_code": "964",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Iceland",
+    "Country_code": "IS",
+    "Dial_code": "354",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Israel",
+    "Country_code": "IL",
+    "Dial_code": "972",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Italy",
+    "Country_code": "IT",
+    "Dial_code": "39",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Jamaica",
+    "Country_code": "JM",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Jordan",
+    "Country_code": "JO",
+    "Dial_code": "962",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Japan",
+    "Country_code": "JP",
+    "Dial_code": "81",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Kazakhstan",
+    "Country_code": "KZ",
+    "Dial_code": "7",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Kenya",
+    "Country_code": "KE",
+    "Dial_code": "254",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Kyrgyzstan",
+    "Country_code": "KG",
+    "Dial_code": "996",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Cambodia",
+    "Country_code": "KH",
+    "Dial_code": "855",
+    "Phone_number_length": [
+      "8",
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Kiribati",
+    "Country_code": "KI",
+    "Dial_code": "686",
+    "Phone_number_length": [
+      "5"
+    ]
+  },
+  {
+    "Country_Name": "Saint Kitts and Nevis",
+    "Country_code": "KN",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Korea, Democratic People's Republic of",
+    "Country_code": "KP",
+    "Dial_code": "850",
+    "Phone_number_length": [
+      "6",
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Korea, Republic of",
+    "Country_code": "KR",
+    "Dial_code": "82",
+    "Phone_number_length": [
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Kuwait",
+    "Country_code": "KW",
+    "Dial_code": "965",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Lao PDR",
+    "Country_code": "LA",
+    "Dial_code": "856",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Lebanon",
+    "Country_code": "LB",
+    "Dial_code": "961",
+    "Phone_number_length": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Liberia",
+    "Country_code": "LR",
+    "Dial_code": "231",
+    "Phone_number_length": [
+      "7",
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Libya",
+    "Country_code": "LY",
+    "Dial_code": "218",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Saint Lucia",
+    "Country_code": "LC",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Liechtenstein",
+    "Country_code": "LI",
+    "Dial_code": "423",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Sri Lanka",
+    "Country_code": "LK",
+    "Dial_code": "94",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Lesotho",
+    "Country_code": "LS",
+    "Dial_code": "266",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Lithuania",
+    "Country_code": "LT",
+    "Dial_code": "370",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Luxembourg",
+    "Country_code": "LU",
+    "Dial_code": "352",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Latvia",
+    "Country_code": "LV",
+    "Dial_code": "371",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Macao, Special Administrative Region of China",
+    "Country_code": "MO",
+    "Dial_code": "853",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Morocco",
+    "Country_code": "MA",
+    "Dial_code": "212",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Monaco",
+    "Country_code": "MC",
+    "Dial_code": "377",
+    "Phone_number_length": [
+      "8",
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Moldova",
+    "Country_code": "MD",
+    "Dial_code": "373",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Madagascar",
+    "Country_code": "MG",
+    "Dial_code": "261",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Maldives",
+    "Country_code": "MV",
+    "Dial_code": "960",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Mexico",
+    "Country_code": "MX",
+    "Dial_code": "52",
+    "Phone_number_length": [
+      "10",
+      "11"
+    ]
+  },
+  {
+    "Country_Name": "Marshall Islands",
+    "Country_code": "MH",
+    "Dial_code": "692",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Macedonia, Republic of",
+    "Country_code": "MK",
+    "Dial_code": "389",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Mali",
+    "Country_code": "ML",
+    "Dial_code": "223",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Malta",
+    "Country_code": "MT",
+    "Dial_code": "356",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Myanmar",
+    "Country_code": "MM",
+    "Dial_code": "95",
+    "Phone_number_length": [
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Montenegro",
+    "Country_code": "ME",
+    "Dial_code": "382",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Mongolia",
+    "Country_code": "MN",
+    "Dial_code": "976",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Northern Mariana Islands",
+    "Country_code": "MP",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Mozambique",
+    "Country_code": "MZ",
+    "Dial_code": "258",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Mauritania",
+    "Country_code": "MR",
+    "Dial_code": "222",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Montserrat",
+    "Country_code": "MS",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Martinique",
+    "Country_code": "MQ",
+    "Dial_code": "596",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Mauritius",
+    "Country_code": "MU",
+    "Dial_code": "230",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Malawi",
+    "Country_code": "MW",
+    "Dial_code": "265",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Malaysia",
+    "Country_code": "MY",
+    "Dial_code": "60",
+    "Phone_number_length": [
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Mayotte",
+    "Country_code": "YT",
+    "Dial_code": "269",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Namibia",
+    "Country_code": "NA",
+    "Dial_code": "264",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "New Caledonia",
+    "Country_code": "NC",
+    "Dial_code": "687",
+    "Phone_number_length": [
+      "6"
+    ]
+  },
+  {
+    "Country_Name": "Niger",
+    "Country_code": "NE",
+    "Dial_code": "227",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Norfolk Island",
+    "Country_code": "NF",
+    "Dial_code": "672",
+    "Phone_number_length": [
+      "5"
+    ]
+  },
+  {
+    "Country_Name": "Nigeria",
+    "Country_code": "NG",
+    "Dial_code": "234",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Nicaragua",
+    "Country_code": "NI",
+    "Dial_code": "505",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Niue",
+    "Country_code": "NU",
+    "Dial_code": "683",
+    "Phone_number_length": [
+      "4"
+    ]
+  },
+  {
+    "Country_Name": "Netherlands",
+    "Country_code": "NL",
+    "Dial_code": "31",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Norway",
+    "Country_code": "NO",
+    "Dial_code": "47",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Nepal",
+    "Country_code": "NP",
+    "Dial_code": "977",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Nauru",
+    "Country_code": "NR",
+    "Dial_code": "674",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "New Zealand",
+    "Country_code": "NZ",
+    "Dial_code": "64",
+    "Phone_number_length": [
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Oman",
+    "Country_code": "OM",
+    "Dial_code": "968",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Pakistan",
+    "Country_code": "PK",
+    "Dial_code": "92",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Panama",
+    "Country_code": "PA",
+    "Dial_code": "507",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Peru",
+    "Country_code": "PE",
+    "Dial_code": "51",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Philippines",
+    "Country_code": "PH",
+    "Dial_code": "63",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Palau",
+    "Country_code": "PW",
+    "Dial_code": "680",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Papua New Guinea",
+    "Country_code": "PG",
+    "Dial_code": "675",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Poland",
+    "Country_code": "PL",
+    "Dial_code": "48",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Puerto Rico",
+    "Country_code": "PR",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Portugal",
+    "Country_code": "PT",
+    "Dial_code": "351",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Paraguay",
+    "Country_code": "PY",
+    "Dial_code": "595",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Palestinian Territory, Occupied",
+    "Country_code": "PS",
+    "Dial_code": "970",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "French Polynesia",
+    "Country_code": "PF",
+    "Dial_code": "689",
+    "Phone_number_length": [
+      "6"
+    ]
+  },
+  {
+    "Country_Name": "Qatar",
+    "Country_code": "QA",
+    "Dial_code": "974",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Runion",
+    "Country_code": "RE",
+    "Dial_code": "262",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Romania",
+    "Country_code": "RO",
+    "Dial_code": "40",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Russian Federation",
+    "Country_code": "RU",
+    "Dial_code": "7",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Rwanda",
+    "Country_code": "RW",
+    "Dial_code": "250",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Saudi Arabia",
+    "Country_code": "SA",
+    "Dial_code": "966",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Sudan",
+    "Country_code": "SD",
+    "Dial_code": "249",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Senegal",
+    "Country_code": "SN",
+    "Dial_code": "221",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Singapore",
+    "Country_code": "SG",
+    "Dial_code": "65",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Saint Helena",
+    "Country_code": "SH",
+    "Dial_code": "290",
+    "Phone_number_length": [
+      "4"
+    ]
+  },
+  {
+    "Country_Name": "Svalbard and Jan Mayen Islands",
+    "Country_code": "SJ",
+    "Dial_code": "47",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Solomon Islands",
+    "Country_code": "SB",
+    "Dial_code": "677",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Sierra Leone",
+    "Country_code": "SL",
+    "Dial_code": "232",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "El Salvador",
+    "Country_code": "SV",
+    "Dial_code": "503",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "San Marino",
+    "Country_code": "SM",
+    "Dial_code": "378",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Somalia",
+    "Country_code": "SO",
+    "Dial_code": "252",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": null,
+    "Country_code": "SX",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Saint Pierre and Miquelon",
+    "Country_code": "PM",
+    "Dial_code": "508",
+    "Phone_number_length": [
+      "6"
+    ]
+  },
+  {
+    "Country_Name": "Serbia",
+    "Country_code": "RS",
+    "Dial_code": "381",
+    "Phone_number_length": [
+      "8",
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Sao Tome and Principe",
+    "Country_code": "ST",
+    "Dial_code": "239",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Suriname *",
+    "Country_code": "SR",
+    "Dial_code": "597",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Slovakia",
+    "Country_code": "SK",
+    "Dial_code": "421",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Slovenia",
+    "Country_code": "SI",
+    "Dial_code": "386",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Sweden",
+    "Country_code": "SE",
+    "Dial_code": "46",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Seychelles",
+    "Country_code": "SC",
+    "Dial_code": "248",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Syrian Arab Republic (Syria)",
+    "Country_code": "SY",
+    "Dial_code": "963",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Turks and Caicos Islands",
+    "Country_code": "TC",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Chad",
+    "Country_code": "TD",
+    "Dial_code": "235",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Togo",
+    "Country_code": "TG",
+    "Dial_code": "228",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Thailand",
+    "Country_code": "TH",
+    "Dial_code": "66",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Tajikistan",
+    "Country_code": "TJ",
+    "Dial_code": "992",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Tokelau",
+    "Country_code": "TK",
+    "Dial_code": "690",
+    "Phone_number_length": [
+      "4"
+    ]
+  },
+  {
+    "Country_Name": "Turkmenistan",
+    "Country_code": "TM",
+    "Dial_code": "993",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Timor-Leste",
+    "Country_code": "TL",
+    "Dial_code": "670",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Tonga",
+    "Country_code": "TO",
+    "Dial_code": "676",
+    "Phone_number_length": [
+      "5"
+    ]
+  },
+  {
+    "Country_Name": "Trinidad and Tobago",
+    "Country_code": "TT",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Tunisia",
+    "Country_code": "TN",
+    "Dial_code": "216",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Turkey",
+    "Country_code": "TR",
+    "Dial_code": "90",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Tuvalu",
+    "Country_code": "TV",
+    "Dial_code": "688",
+    "Phone_number_length": [
+      "5"
+    ]
+  },
+  {
+    "Country_Name": "Taiwan, Republic of China",
+    "Country_code": "TW",
+    "Dial_code": "886",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Tanzania *, United Republic of",
+    "Country_code": "TZ",
+    "Dial_code": "255",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Uganda",
+    "Country_code": "UG",
+    "Dial_code": "256",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Ukraine",
+    "Country_code": "UA",
+    "Dial_code": "380",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Uruguay",
+    "Country_code": "UY",
+    "Dial_code": "598",
+    "Phone_number_length": [
+      "8"
+    ]
+  },
+  {
+    "Country_Name": "Uzbekistan",
+    "Country_code": "UZ",
+    "Dial_code": "998",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Saint Vincent and Grenadines",
+    "Country_code": "VC",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Venezuela (Bolivarian Republic of)",
+    "Country_code": "VE",
+    "Dial_code": "58",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "British Virgin Islands",
+    "Country_code": "VG",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Virgin Islands, US",
+    "Country_code": "VI",
+    "Dial_code": "1",
+    "Phone_number_length": [
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Viet Nam",
+    "Country_code": "VN",
+    "Dial_code": "84",
+    "Phone_number_length": [
+      "9",
+      "10"
+    ]
+  },
+  {
+    "Country_Name": "Vanuatu",
+    "Country_code": "VU",
+    "Dial_code": "678",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Wallis and Futuna Islands",
+    "Country_code": "WF",
+    "Dial_code": "681",
+    "Phone_number_length": [
+      "6"
+    ]
+  },
+  {
+    "Country_Name": "Samoa",
+    "Country_code": "WS",
+    "Dial_code": "685",
+    "Phone_number_length": [
+      "7"
+    ]
+  },
+  {
+    "Country_Name": "Yemen",
+    "Country_code": "YE",
+    "Dial_code": "967",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "South Africa",
+    "Country_code": "ZA",
+    "Dial_code": "27",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Zambia",
+    "Country_code": "ZM",
+    "Dial_code": "260",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Zimbabwe",
+    "Country_code": "ZW",
+    "Dial_code": "263",
+    "Phone_number_length": [
+      "9"
+    ]
+  },
+  {
+    "Country_Name": "Antarctica",
+    "Country_code": "AQ",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Bouvet Island",
+    "Country_code": "BV",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "British Indian Ocean Territory",
+    "Country_code": "IO",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Christmas Island",
+    "Country_code": "CX",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Cocos (Keeling) Islands",
+    "Country_code": "CC",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "French Southern Territories",
+    "Country_code": "TF",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Guernsey",
+    "Country_code": "GG",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Heard Island and McDonald Islands",
+    "Country_code": "HM",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Holy See (Vatican City State)",
+    "Country_code": "VA",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Isle of Man",
+    "Country_code": "IM",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Jersey",
+    "Country_code": "JE",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Netherlands Antilles",
+    "Country_code": "AN",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Pitcairn",
+    "Country_code": "PN",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Saint-Barthlemy",
+    "Country_code": "BL",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Saint-Martin (French part)",
+    "Country_code": "MF",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "South Georgia and the South Sandwich Islands",
+    "Country_code": "GS",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "South Sudan",
+    "Country_code": "SS",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Swaziland",
+    "Country_code": "SZ",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "United States Minor Outlying Islands",
+    "Country_code": "UM",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Western Sahara",
+    "Country_code": "EH",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Ascension Island",
+    "Country_code": "AC",
+    "Dial_code": "247",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "French Afar and Issas",
+    "Country_code": "AI",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Bonaire, Saint Eustatius And Saba",
+    "Country_code": "BQ",
+    "Dial_code": "599",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "British Antarctic Territory",
+    "Country_code": "BQ",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Burma",
+    "Country_code": "BU",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Byelorussian SSR",
+    "Country_code": "BY",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Clipperton Island",
+    "Country_code": "CP",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Czechoslovakia",
+    "Country_code": "CS",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Serbia and Montenegro",
+    "Country_code": "CS",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Canton and Enderbury Islands",
+    "Country_code": "CT",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Curacao",
+    "Country_code": "CW",
+    "Dial_code": "599",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "German Democratic Republic",
+    "Country_code": "DD",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Diego Garcia",
+    "Country_code": "DG",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Dahomey",
+    "Country_code": "DY",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Ceuta, Mulilla",
+    "Country_code": "EA",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "European Union",
+    "Country_code": "EU",
+    "Dial_code": "388",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "France, Metropolitan",
+    "Country_code": "FX",
+    "Dial_code": "241",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Gilbert and Ellice Islands",
+    "Country_code": "GE",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Upper Volta",
+    "Country_code": "HV",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Canary Islands",
+    "Country_code": "IC",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Johnston Island",
+    "Country_code": "JT",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Midway Islands",
+    "Country_code": "MI",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "New Hebrides",
+    "Country_code": "NH",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Dronning Maud Land",
+    "Country_code": "NQ",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Neutral Zone",
+    "Country_code": "NT",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Pacific Islands, Trust Territory of the",
+    "Country_code": "PC",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "U.S. Miscellaneous Pacific Islands",
+    "Country_code": "PU",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Panama Canal Zone",
+    "Country_code": "PZ",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Southern Rhodesia",
+    "Country_code": "RH",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Sikkim",
+    "Country_code": "SK",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "USSR",
+    "Country_code": "SU",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Tristan de Cunha",
+    "Country_code": "TA",
+    "Dial_code": "290",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "East Timor",
+    "Country_code": "TP",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Viet-Nam, Democratic Republic of",
+    "Country_code": "VD",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Wake Island",
+    "Country_code": "WK",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Kosovo",
+    "Country_code": "XK",
+    "Dial_code": "383",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Yemen, Democratic",
+    "Country_code": "YD",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Yugoslavia",
+    "Country_code": "YU",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  },
+  {
+    "Country_Name": "Zaire",
+    "Country_code": "ZR",
+    "Dial_code": "",
+    "Phone_number_length": ""
+  }
 ]
