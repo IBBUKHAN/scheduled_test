@@ -1,0 +1,816 @@
+"id","name","countrySlug","country","status","slug"
+"622f0df5dd1620e7d22dc2e4",Columbus (Ohio),united-states,United States,true,columbus
+"622f135bdd1620e7d22dc345",Lubbock (Texas),united-states,United States,true,lubbock
+"622f1767dd1620e7d22dc385",Colorado Springs (Colorado),united-states,United States,true,colorado-springs
+"622f1bb4dd1620e7d22dc3aa",Birmingham (Alabama),united-states,United States,true,birmingham-2
+"622f2592dd1620e7d22dc3ea",Lyon,france,France,true,lyon
+"622f28b8dd1620e7d22dc401",Nantes,france,France,true,nantes
+"622f2b0add1620e7d22dc406",Dijon,france,France,true,dijon
+"623c7098dd1620e7d22defc3",Flint,united-states,United States,true,flint
+"624eb5c2dd1620e7d22e4c48",Vernon,canada,Canada,false,vernon
+"62860fb50abd577459b37338",Donostia-San Sebastian,spain,Spain,true,donostia-san-sebastian
+"6289fa4a0abd577459b37b4f",Granada,spain,Spain,true,granada
+"6298a17ee42eacbaf6ad55f0",Ashfield,australia,Australia,false,ashfield
+"629f295a0306315e6979cf87",Ames (Iowa),united-states,United States,true,ames
+"629f314a3106c368a0036e96",Bowling Green,united-states,United States,true,bowling-green
+"629f3579bb40a56dfca8d8eb",Gainesville (Florida),united-states,United States,true,gainesville
+"629f3795a8ba2570c143a22b",Laramie (Wyoming),united-states,United States,true,laramie
+"629f3b3cf87a4174a0afa08a",Mount Pleasant (Michigan),united-states,United States,true,mt-pleasant
+"629f3d2bcca74c770e74d214",Stillwater (Oklahoma),united-states,United States,true,stillwater
+"629f3ec9f1fa2c78b3de6162",Willington,united-states,United States,true,wilmington
+"62c6c1b2894e5502899e536d",Mississippi,united-states,United States,true,mississippi
+"62cbe14e8c5cc63203564a1e",CBD,singapore,Singapore,false,cbd
+"62cbf3278c5cc63203564bdc",Jurong East,singapore,Singapore,false,jurong-east
+"62cbfbd28c5cc63203564d6b",Paya Lebar,singapore,Singapore,false,paya-lebar
+"62cc18698c5cc63203564f92",Geylang,singapore,Singapore,false,geylang
+"62cd2d798c5cc63203565726",Pittsburgh (Pennsylvania),united-states,United States,true,pittsburgh
+"62cd37978c5cc632035657a7",Princeton,united-states,United States,true,princeton
+"62cd38c98c5cc632035657a9",South Orange (New Jersey),united-states,United States,true,south-orange
+"62cd3aa48c5cc632035657c4",Montclair (New Jersey),united-states,United States,true,montclair
+"62cd3bd68c5cc632035657c6",Glassboro (New Jersey),united-states,United States,true,glassboro
+"62cd44148c5cc63203565801",Hoboken,united-states,United States,true,hoboken
+"62cd46448c5cc63203565815",Clementi,singapore,Singapore,false,clementi
+"62cd48748c5cc6320356582c",Jersey City (New Jersey),united-states,United States,true,new-jersey-city
+"62d6558c9e7caa296e4443b7",Cleveland (Ohio),united-states,United States,true,cleveland
+"62e8b55caa6a0fa561e72343",Dayton (Ohio),united-states,United States,true,dayton
+"62e8bb65aa6a0fa561e72394",North York,canada,Canada,true,north-york
+"62e8e838aa6a0fa561e7266c",Miami,united-states,United States,true,miami
+"6303245876fb4cab0d04598d",Scranton,united-states,United States,false,scranton
+"6305c9ef76fb4cab0d046f31",Ithaca (New York),united-states,United States,true,ithaca
+"64acfd3d6170c6ec112592cc",SÃ£o Paulo,brazil,Brazil,false,sao-paulo
+"630752c776fb4cab0d048350",Newfoundland,canada,Canada,false,newfoundland
+"630a258bc3f90731a35ff4b0",default test,spain,Spain,false,autonomous-university-of-barcelona
+"630a26a0c3f90731a35ff4ec",default test,germany,Germany,false,#NAME?
+"630a2870c3f90731a35ff531",default test,united-arab-emirates,United Arab Emirates,false,alfalah-university
+"630a28e7c3f90731a35ff53c",default,united-arab-emirates,United Arab Emirates,false,university-of-wollongong-in-dubai-2
+"630a29a8c3f90731a35ff585",default test,switzerland,Switzerland,false,university-of-neuchatel
+"630a2a1bc3f90731a35ff619",default test,singapore,Singapore,false,singapore-management-university
+"630a2a91c3f90731a35ff642",default test,singapore,Singapore,false,national-university-of-singapore
+"630cbe3acdab48470ea35bcf",Carcavelos,portugal,Portugal,true,carcavelos
+"6315d09f839139acc891f971",Aarhus,denmark,Denmark,true,aarhus
+"6315d45d839139acc891fdd2",Saint-Martin-d'Heres,france,France,false,saint-martin-d-heres
+"6315d4e9839139acc891fe0e",Neuchatel,switzerland,Switzerland,false,neuchatel
+"6333e9c8820811b69156bad6",Thornhill,canada,Canada,true,thornhill
+"634916b0c96c6e1c5f8404e4",Basel,switzerland,Switzerland,true,basel
+"635791b4a76ff922c7939290",Guelph,canada,Canada,true,guelph
+"635793e7a76ff922c79399ae",Stratford,canada,Canada,false,stratford
+"6357943fa76ff922c7939bce",Trenton,canada,Canada,false,trenton
+"635794daa76ff922c7939d24",Grimsby,canada,Canada,false,grimsby
+"635797a7a76ff922c793a6fa",Oakville,canada,Canada,true,oakville
+"635798dda76ff922c793ad8d",Brossard,canada,Canada,false,brossard
+"6368d18c71919c1c72e78f85",Newcastle,australia,Australia,true,newcastle-2
+"636b3b8fa3159f6e87eaba78",South Bend (Indiana),united-states,United States,true,south-bend
+"63785f80bdf7b540cc899a3b",Thunderbay,canada,Canada,false,thunderbay
+"637db2f182268ee2e4231472",Springfield (Missouri),united-states,United States,true,springfield
+"638061ec82268ee2e428c16e",Stamford,united-states,United States,true,stamford
+"6384421d82268ee2e42e20da",Denton (Texas),united-states,United States,true,denton
+"638737a782268ee2e433e3ef",Vienna,austria,Austria,true,vienna
+"6389d491807000a4e6f40f3d",Ta Xbiex,malta,Malta,true,ta-xbiex
+"6389d5a8807000a4e6f41511",Sliema,malta,Malta,true,sliema
+"63a1b2aabc2e0efb2e661ee6",Oxford (Ohio),united-states,United States,true,oxford-ohio
+"63a2e72cbc2e0efb2e67af02",Richmond (Virginia),united-states,United States,true,richmond-2
+"63aeaed6b521642e15cd0075",Tempe (Arizona),united-states,United States,true,tempe
+"63b66670b521642e15d9716c",Milton Keynes,united-kingdom,United Kingdom,true,milton-keynes
+"63b92a3bb521642e15dec80d",Flagstaff (Arizona),united-states,United States,true,flagstaff
+"63ca88c771fa6db3a19ca290",Santa Cruz (California),united-states,United States,true,santa-cruz
+"63cbd6c771fa6db3a19ea8c2",Ballarat,australia,Australia,true,ballarat
+"63cbdcd671fa6db3a19eb487",Albury,australia,Australia,false,albury
+"63cbdf4271fa6db3a19eb845",Mildura,australia,Australia,true,mildura
+"63ce7cb371fa6db3a1a2794b",Bundoora,australia,Australia,true,bundoora
+"63d10b8971fa6db3a1a9468c",Massachusetts,united-states,United States,false,massachusetts
+"63e20b552c08937c665c080b",Ã‰pinay-sur-Seine,france,France,false,epinay-sur-seine
+"63e20ba42c08937c665c0bcf",Noisy-le-Sec,france,France,true,noisy-le-sec
+"63e20d132c08937c665c165b",Evry Courcouronnes,france,France,true,evry-courcouronnes
+"63e219702c08937c665c66eb",Villeneuve La Garenne,france,France,true,villeneuve-la-garenne
+"63e219eb2c08937c665c6915",Thiais,france,France,true,thiais
+"63e21a8f2c08937c665c6e03",Bagneux,france,France,true,bagneux
+"63e21dd42c08937c665c8e39",Villeneuve-Loubet,france,France,true,villeneuve-loubet
+"63e21f312c08937c665ca407",Choisy Le Roi,france,France,true,choisy-le-roi
+"63e21f5b2c08937c665ca502",Champrond-en-GÃ¢tine,france,France,true,champrond-en-gatine
+"63e2200a2c08937c665cab29",Bagnolet,france,France,true,bagnolet
+"63e220df2c08937c665cb149","18Ã¨me Arrondissement",france,France,false,"18eme-arrondissement"
+"63e222d52c08937c665cce4d",Saint Andre Lez Lille,france,France,false,saint-andre-lez-lille
+"63e2239c2c08937c665cd3bd","4e arrondissement de Marseille",france,France,false,"4e-arrondissement-de-marseille"
+"63e225322c08937c665cdce5",Villejuif,france,France,true,villejuif
+"63e225832c08937c665cdcee",Marseille 1er Arrondissement,france,France,false,marseille-1er-arrondissement
+"63e228842c08937c665cf6d2",Suresnes,france,France,true,suresnes
+"63e228fe2c08937c665cfba3",Le Bouscat,france,France,true,le-bouscat
+"63e229962c08937c665d01a3",Issy Les Moulineaux,france,France,false,issy-les-moulineaux
+"63e22a7f2c08937c665d07ba",Canet-en-Roussillon,france,France,true,canet-en-roussillon
+"63e22d6f2c08937c665d1e62",Aix En Provence,france,France,false,aix-en-provence
+"63e22da72c08937c665d2178",Asnieres Sur Seine,france,France,false,asnieres-sur-seine
+"63e22e0b2c08937c665d25cc",Boulogne Billancourt,france,France,true,boulogne-billancourt
+"63e22e662c08937c665d2bb5",Lyon 3eme Arrondissement,france,France,false,lyon-3eme-arrondissement
+"63e22fd72c08937c665d3dae",Livry-Gargan,france,France,true,livry-gargan
+"63e22ff22c08937c665d3db7",Champs Sur Marne,france,France,false,champs-sur-marne
+"63e2303d2c08937c665d3dd2",Francheville,france,France,true,francheville
+"63e2306a2c08937c665d3e2f",Saint-Germain-en-Laye,france,France,true,saint-germain-en-laye
+"63e230882c08937c665d3f4c",Juvisy Sur Orge,france,France,false,juvisy-sur-orge
+"63e230ad2c08937c665d3f5e",Saint-AndrÃ©-de-la-Roche,france,France,true,saint-andre-de-la-roche
+"63e230d62c08937c665d42b9",Vesseaux,france,France,true,vesseaux
+"63e2311a2c08937c665d4601",Saint Denis,france,France,false,saint-denis-2
+"63e231452c08937c665d460a","6e Arrondissement de Marseille",france,France,false,"6e-arrondissement-de-marseille"
+"63e231732c08937c665d4794",Nogent-sur-Marne,france,France,true,nogent-sur-marne
+"63e231cc2c08937c665d4e45",Gennevilliers,france,France,true,gennevilliers
+"63e2322b2c08937c665d504e",Bezons,france,France,true,bezons
+"63e7744c37adfe5b065df026",Macon (Georgia),united-states,United States,true,macon
+"63e7760b37adfe5b065df453",Lawrence (Kansas),united-states,United States,true,lawrence
+"63f47966bfe76f6e53395335",Maia,portugal,Portugal,true,maia
+"63f8c6c3bfe76f6e53490ce1",St. Louis (Missouri),united-states,United States,true,st-louis
+"6401901664cbb4aa97eaffd7",Windsor,canada,Canada,true,windsor
+"64116bb55b01988052b1ae6e",Ambleside,united-kingdom,United Kingdom,true,ambleside-2
+"641d7c3991d3ab62b054b1e8",Ormskirk,united-kingdom,United Kingdom,true,ormskirk
+"64212dd391d3ab62b05a5b4c",Beaconia,canada,Canada,false,beaconia
+"6422e51d91d3ab62b064cbb3",Halifax,united-kingdom,United Kingdom,true,halifax
+"6427d0258509eeaf352f4244",Canton (Massachusetts),united-states,United States,true,canton
+"642abc778509eeaf35353916",Helsinki,finland,Finland,true,helsinki
+"642da63371e20dabc3b9f7b0",Troy (Alabama),united-states,United States,true,troy
+"64372864bf2a6d2a9ed0fedc",Mattoon (Illinois),united-states,United States,true,mattoon
+"64416d27f8ad7c6ca1a04d7e",St. Charles (Illinois),united-states,United States,true,st-charles
+"64513cdbc69b41a7718610a8",Brampton,canada,Canada,true,brampton
+"6464653ca93d647a619629fe",Vilnius,lithuania,Lithuania,true,vilnius
+"646544002ec5918f246df1bd",Louisville (Kentucky),united-states,United States,true,louisville
+"647096bd070b722db169021f",Essen,germany,Germany,true,essen
+"6470973a070b722db16906ff",Bremen,germany,Germany,true,bremen
+"64709867070b722db169115e",Hannover,germany,Germany,true,hannover
+"6470988f070b722db169132f",Karlsruhe,germany,Germany,true,karlsruhe
+"647099a8070b722db16920a8",GÃ¶ttingen,germany,Germany,true,gottingen
+"64709e0d070b722db16936b6",Augsburg,germany,Germany,true,augsburg
+"6470a019070b722db16954ab",Donostia-San Sebastian,spain,Spain,false,donostia-san-sebastian-2
+"6470a0aa070b722db1695d27",Cartagena,spain,Spain,false,cartagena
+"6470a425070b722db1698f94",Pisa,italy,Italy,false,pisa
+"6470a588070b722db169a003",Genoa,italy,Italy,false,genoa
+"6470a646070b722db169a273",Palermo,italy,Italy,false,palermo
+"6470a786070b722db169ae2a",Utrecht,netherlands,Netherlands,true,utrecht
+"6470a8eb070b722db169ba1f",Strasbourg,france,France,true,strasbourg
+"6470a96b070b722db169be65",Palaiseau,france,France,true,palaiseau
+"6470aa87070b722db169c3aa",Aix-en-Provence,france,France,true,aix-en-provence-2
+"6470aac1070b722db169c51a",Saint-Ã‰tienne,france,France,false,saint-etienne
+"6470aba8070b722db169cd97",Versailles,france,France,true,versailles
+"6470abdc070b722db169cfb2",Rennes,france,France,false,rennes
+"6470ad4e070b722db169d8d9",Antwerp,belgium,Belgium,true,antwerpen
+"6470adba070b722db169d94c",Mons,belgium,Belgium,false,mons
+"6470adee070b722db169d9a6",Brugge,belgium,Belgium,true,brugge
+"6470ae69070b722db169dc9b",GenÃ¨ve,switzerland,Switzerland,false,geneve
+"6470af10070b722db169dffe",Bern,switzerland,Switzerland,true,bern
+"6470afbf070b722db169e477",Warsaw,poland,Poland,true,warsaw
+"6470affc070b722db169e52f",Almada,portugal,Portugal,true,almada
+"6470b07c070b722db169e546",Linz,austria,Austria,true,linz
+"64896e13f9b501eddaf9e45e",Rennes,france,France,true,rennes-2
+"648fe0fd650cbf6b71be3fd5",Leoben,austria,Austria,true,leoben
+"6493d4876b54e7b478c40eb0",Morgantown (West Virginia),united-states,United States,true,morgantown
+"6494d9c36b54e7b478ca3ad8",Albany (New York),united-states,United States,true,albany
+"6496b3416c0584f27c4d2735",Rolla,united-states,United States,false,rolla
+"649d31c756912b2a5673782d",Goleta,united-states,United States,true,goleta
+"649d320d56912b2a56737a3c",Boone (North Carolina),united-states,United States,true,boone
+"649e6f3bc2ab6f6e2b99aa61",Katowice,poland,Poland,true,katowice-2
+"64acf29a6170c6ec1125158a",lagos,portugal,Portugal,false,lagos
+"64acf4fd6170c6ec112538b2",Cologne,germany,Germany,true,cologne
+"64acf68c6170c6ec112546c2",Roubaix,france,France,false,roubaix
+"64acf7166170c6ec11254925",Bruges,belgium,Belgium,true,bruges
+"64acf7d86170c6ec11255abd",Oslo,norway,Norway,false,oslo
+"64acf8f26170c6ec11255fb4",logrono,spain,Spain,false,logrono
+"64acf99c6170c6ec11256757",cordova,spain,Spain,false,cordova
+"64acfa1e6170c6ec11256ef8",tours,france,France,false,tours
+"64acfbea6170c6ec11257e10",istanbul,turkey,Turkey,false,istanbul
+"64acfe4e6170c6ec1125ac3e",wolfsburg,germany,Germany,false,wolfsburg
+"64acfebb6170c6ec1125b13d",ibiza,spain,Spain,false,ibiza
+"64acff0d6170c6ec1125b5ea",ferrara,italy,Italy,false,ferrara
+"64acff9c6170c6ec1125bfa0",Cergy,france,France,true,cergy
+"64acffd36170c6ec1125c140",Salzburg,austria,Austria,true,salzburg
+"64ad01356170c6ec1125cdf4",Fontenay-sous-Bois,france,France,true,fontenay-sous-bois
+"64afcfa201f4389266d00e99",Halifax,canada,Canada,true,halifax-2
+"64c903d1bec2dcc3e7e4b3df",Wilmington,united-kingdom,United Kingdom,false,wilmington-2
+"64e3a9f366d3b9d85e99d9fb",Storrs (Connecticut),united-states,United States,true,storrs
+"64e759cd945c91b554db8dfd",Arlington (VA),united-states,United States,true,arlington-va
+"651e69f269a4398227cca953",North Bay,canada,Canada,true,north-bay
+"653f370ca4c9783be094304d",Valletta,malta,Malta,true,valletta
+"65421f19a4c9783be0ac16eb",Viseu,portugal,Portugal,true,viseu
+"654a1e418fba32e73d881d3f",Sharjah,united-arab-emirates,United Arab Emirates,true,sharjah
+"654b3112b41b8d25d93f67e2",Brinkin,australia,Australia,true,brinkin
+"654e3bc67abd13c9e7fd4036",Upstate (South Carolina),united-states,United States,true,upstate
+"654e46b37abd13c9e7fd51b0",St.Petersburg (Florida),united-states,United States,true,st-petersburg
+"656991274ece49f5e9092aca",Neustadt,austria,Austria,true,neustadt
+"657af11ab79ce79b01299425",Padova,italy,Italy,false,padova
+"657beb57b79ce79b012daa34",Cantabria,spain,Spain,false,cantabria
+"657d8deb661ef78a723ba09e",Evora,portugal,Portugal,true,evora
+"5ec3981c2bc2310f7134fe5c",Jaipur,india,India,false,jaipur
+"65801ae39fdae9b3447147ff",Worcester,united-states,United States,false,worcester-3
+"65841b99ee8ed0de65a639e0",Orange Park (Florida),united-states,United States,true,orange-park-florida
+"658c3056a0be1c9354fdc90a",Spring hill (Florida),united-states,United States,true,spring-hill-florida
+"65af56d0081731f9b1b2c632",Fort Wayne (Indiana),united-states,United States,true,fort-wayne
+"65b0162189764889d26d8f13",Corvallis (Oregon),united-states,United States,true,corvallis-oregon
+"65b968c588f06c0d847a240f",Memphis (Tennessee),united-states,United States,true,memphis-tennessee
+"65c0abc0b706bc33294d8f25",Providence,united-states,United States,true,providence
+"65ce67e8a30da5d4fc05a298",Waco (Texas),united-states,United States,true,waco-texas
+"65dc1d6002503120172dba3f",Quebec city,canada,Canada,true,quebec
+"65ddccc5b91a3d4b4f9b30a2",Iowa City (Iowa),united-states,United States,true,iowa-city-iowa
+"65ddcd43b91a3d4b4f9b3644",Boise (Idaho),united-states,United States,true,boise-idaho
+"65ddd2c7b91a3d4b4f9b81cf",Wilmington (North Carolina),united-states,United States,true,wilmington-north-carolina
+"5a609500eab2ac270ee64e27",Canterbury,united-kingdom,United Kingdom,true,canterbury
+"5b3b684cef70a31e4ecb8b23",College Station (Texas),united-states,United States,true,college-station
+"5ecf90cd718f226c7278a104",Jalandhar,india,India,false,jalandhar
+"5ecfadcd11e294194724596c",Pokhara,nepal,Nepal,false,pokhara
+"5b518163d930230a4c0d76ba",Boston (Massachusetts),united-states,United States,true,boston
+"5cefbd6048a3cb13245e2e0e",Pennsylvania,united-states,United States,false,pennsylvania
+"5ecf92f6718f226c7278a112",Kottayam,india,India,false,kottayam
+"5d0c7fb1ca7a626a408a37ed",Frankfurt,germany,Germany,true,frankfurt
+"5ecf9288718f226c7278a10a",Jammu,india,India,false,jammu
+"5d52907af509a942d65d1747",Dortmund,germany,Germany,true,dortmund
+"5bf91a9fd3e04b157e1e09f2",Brighton (UK),united-kingdom,United Kingdom,true,brighton
+"5a609500eab2ac270ee65057",Springvale,australia,Australia,false,springvale
+"5d412c2630dbd228915a26a7",Philadelphia (Pennsylvania),united-states,United States,true,philadelphia
+"5d4ea88ef509a942d65d13db",Marseille,france,France,true,marseille
+"5c1333383ef96e7a40d6a7de",Seoul,south-korea,South Korea,true,seoul
+"5b3b6801ef70a31e4ecb8b21",New Haven (Connecticut),united-states,United States,true,new-haven
+"5a672278015c14671071981a",Ipswich,united-kingdom,United Kingdom,true,ipswich
+"5ecf9116718f226c7278a105",Chitradurga,india,India,false,chitradurga
+"5b3b6830ef70a31e4ecb8b22",Tallahassee (Florida),united-states,United States,true,tallahassee
+"5a6f01d070748f8d66bbd368",North Melbourne,australia,Australia,false,north-melbourne
+"5a609500eab2ac270ee64b86",Belfast,united-kingdom,United Kingdom,true,belfast
+"5c52b1633f9b841cc65bca57",Norwich,united-kingdom,United Kingdom,true,norwich
+"5d27443ce0a05c21fef70405",Raleigh (North Carolina),united-states,United States,true,raleigh
+"5bb756c3bfa4620fe912635d",Christchurch,new-zealand,New Zealand,false,christchurch
+"5a609500eab2ac270ee64b6d",Hull,united-kingdom,United Kingdom,true,hull
+"5a609501eab2ac270ee652c5",Dubai,united-arab-emirates,United Arab Emirates,true,dubai
+"5ecf8df5718f226c7278a100",Raipur,india,India,false,raipur
+"5a609500eab2ac270ee64b5d",Newport,united-kingdom,United Kingdom,true,newport
+"5a609500eab2ac270ee64e2f",Bolton,united-kingdom,United Kingdom,true,bolton
+"5d4d2aabf509a942d65d123a",La Rochelle,france,France,true,la-rochelle
+"5d4d4e25f509a942d65d126f",British Columbia,canada,Canada,false,british-columbia
+"5ecf9c03718f226c7278a157",Rajpura,india,India,false,rajpura
+"5a609500eab2ac270ee64860",Darwin,australia,Australia,true,darwin
+"5a673771c0cb9b78d9f7fd50",New York,united-states,United States,true,newyork
+"5dce9e7bee75e7045a77035e",Milledgeville,united-states,United States,false,milledgeville
+"5ecfaec611e2941947245970",Kathmandu,nepal,Nepal,false,kathmandu
+"5d52b692f509a942d65d1793",Washington,united-states,United States,true,washington
+"5d120702ab36ac75c93b6a4f",California,united-states,United States,true,california
+"5d4285c1f73aa6254b6833cb",Tarragona,spain,Spain,false,tarragona
+"5b45a056717c5d01d2f096ce",Wellington,new-zealand,New Zealand,true,wellington
+"5a609500eab2ac270ee64ca8",Madison (Wisconsin),united-states,United States,true,madison-heights
+"5a609500eab2ac270ee65063",Gold Coast,australia,Australia,true,gold-coast
+"5a6f076970748f8d66bbd40f",Box Hill,australia,Australia,false,box-hill
+"5b5182b1d930230a4c0d76bc",Chicago (Illinois),united-states,United States,true,chicago
+"5d19c435335840177016d4fd",County Donegal,ireland,Ireland,false,county-donegal
+"5bf3e411ae26865eb104cc27",Stirling,united-kingdom,United Kingdom,true,stirling
+"5d4284adf73aa6254b6833c4",Valenciennes,france,France,false,valenciennes
+"5ecf9081718f226c7278a103",Jabalpur,india,India,false,jabalpur
+"5c7cd47e54733c535cb5ea40",Carlisle,united-kingdom,United Kingdom,true,carlisle
+"5a609500eab2ac270ee650af",Lancaster,united-kingdom,United Kingdom,true,lancaster
+"5ecf935a718f226c7278a113",Madurai,india,India,false,madurai
+"5c836969bdc1dd0db79be2c1",Staffordshire,united-kingdom,United Kingdom,false,staffordshire
+"5a6725c4015c14671071a11b",Egham,united-kingdom,United Kingdom,true,egham
+"5ecf984f718f226c7278a140",Nashik,india,India,false,nashik
+"5a6726ca015c14671071a182",High Wycombe,united-kingdom,United Kingdom,true,high-wycombe
+"5a609500eab2ac270ee6486e",Lismore,australia,Australia,true,lismore
+"5ecf8f24718f226c7278a101",Bhilai,india,India,false,bhilai
+"5d19ef57335840177016d60d",Florida,united-states,United States,false,florida
+"5c1b3a6e2ad54c23c8964b52",Nancy,france,France,true,nancy
+"5a609501eab2ac270ee65289",Cambridge,united-kingdom,United Kingdom,true,cambridge
+"5ec398a52bc2310f7134fe5e",Gwalior,india,India,false,gwalior
+"5a609500eab2ac270ee65068",Craigieburn,australia,Australia,false,craigieburn
+"5ec396e12bc2310f7134fe56",Rajkot,india,India,false,rajkot
+"5ec3972b2bc2310f7134fe57",Mangalore,india,India,false,mangalore
+"5a609501eab2ac270ee6524e",Warwick,united-kingdom,United Kingdom,true,warwick
+"5ecfaca111e2941947245965",Dhaka,bangladesh,Bangladesh,false,dhaka
+"5e3b99c8bc29af51d5a8c042",Knoxville,united-states,United States,true,knoxville
+"5ecfad2b11e2941947245969",Chittagong,bangladesh,Bangladesh,false,chittagong
+"5da6c7d2fbcd031199537a59",Tokyo,japan,Japan,true,tokyo
+"5a609500eab2ac270ee64dcf",Geelong,australia,Australia,false,geelong
+"5a609501eab2ac270ee6522b",Melbourne,australia,Australia,true,melbourne
+"5a672a13015c14671071a532",Sunshine Coast,australia,Australia,false,sunshine-coast
+"5e1c12daf43078678ce7d8a9",State College (Pennsylvania),united-states,United States,true,state-college
+"5ecfacd911e2941947245967",Colombo,sri-lanka,Sri Lanka,false,colombo
+"5ec395292bc2310f7134fe4a",Coimbatore,india,India,false,coimbatore
+"5ecf8d21718f226c7278a0fe",Mysuru,india,India,false,mysuru
+"5a609500eab2ac270ee650c3",Bournemouth,united-kingdom,United Kingdom,true,bournemouth
+"5a609500eab2ac270ee65056",Sydney,australia,Australia,true,sydney
+"5a6f31c870748f8d66bbeeab",Newcastle,united-kingdom,United Kingdom,true,newcastle
+"5dd63f609a20a02f60e9714d",Hyderabad,india,India,false,hyderabad
+"5ec395ac2bc2310f7134fe4c",Warangal,india,India,false,warangal
+"5a609501eab2ac270ee65235",Coffs Harbour,australia,Australia,true,coffs-harbour
+"5d00f9a41fdc4f1b16d397cf",Alcala de Henares,spain,Spain,true,alcala-de-henares
+"5a609501eab2ac270ee652a0",Aberystwyth,united-kingdom,United Kingdom,true,aberystwyth
+"5eb64ba71959db06ec1cedca",Clemson (South Carolina),united-states,United States,true,clemson
+"5f2b947b284c21202da5b4f5",Victoria,canada,Canada,false,victoria
+"5cee2234bb89ee0410090790",Limerick,ireland,Ireland,false,limerick
+"5d31cb683073207f453a0451",Fairfax (Virginia),united-states,United States,true,fairfax
+"5ecf99ae718f226c7278a14b",Puducherry,india,India,false,puducherry
+"5ecf9a4d718f226c7278a155",Panaji,india,India,false,panaji
+"5ec395dd2bc2310f7134fe4d",Visakhapatnam,india,India,false,visakhapatnam
+"5ec395a92bc2310f7134fe4b",Surat,india,India,false,surat
+"5a609500eab2ac270ee650de",Singapore,singapore,Singapore,true,singapore
+"5b45a228717c5d01d2f096d0",Ontario,canada,Canada,true,ontario
+"5dd640689a20a02f60e97166",Mumbai,india,India,false,mumbai
+"5a609500eab2ac270ee64b68",Liverpool,united-kingdom,United Kingdom,true,liverpool
+"5dd6706135dc4949bdd1165d",Austin (Texas),united-states,United States,true,austin
+"5cebb632a9cdce6c7a51c60e",Munich,germany,Germany,true,munich
+"5cf6670fe7f45f37a24a605b",Montreal,canada,Canada,true,montreal
+"5e3b9907bc29af51d5a8c040",Weatherford,united-states,United States,false,weatherford
+"5a609500eab2ac270ee64b56",Peterhead,united-kingdom,United Kingdom,false,peterhead
+"5a609500eab2ac270ee650c6",Birmingham,united-kingdom,United Kingdom,true,birmingham
+"5b45a461717c5d01d2f096d1",Madrid,spain,Spain,true,madrid
+"5cb172f08cb0557c787525c0",Hatfield,united-kingdom,United Kingdom,true,hatfield
+"5a609501eab2ac270ee65245",Wrexham,united-kingdom,United Kingdom,true,wrexham
+"5e16cb8dbdde946fd5f5dad3",Buffalo (New York),united-states,United States,true,buffalo
+"5d134e935317e43e6a515da2",Geneva,switzerland,Switzerland,true,geneva
+"5a67326f015c14671071ac82",Dublin,ireland,Ireland,true,dublin
+"5cef516c0df97508133622dd",Porto,portugal,Portugal,true,porto
+"5ceb828cfbb83a6b4e38715b",Reims,france,France,true,reims
+"5b45a56f717c5d01d2f096d2",Valencia,spain,Spain,true,valencia
+"5d270d08e0a05c21fef7038a",Leiden,netherlands,Netherlands,false,leiden
+"5a609500eab2ac270ee649ec",Swansea,united-kingdom,United Kingdom,true,swansea
+"5e255b6b4753c9660ccbe553",Champaign (Illinois),united-states,United States,true,champaign
+"5a609500eab2ac270ee64b67",London,united-kingdom,United Kingdom,true,london
+"5ec3964d2bc2310f7134fe50",Amritsar,india,India,false,amritsar
+"5ecfae6711e294194724596f",Butwal,nepal,Nepal,false,butwal
+"5ec396ad2bc2310f7134fe54",Bhubaneswar,india,India,false,bhubaneswar
+"5ec396e12bc2310f7134fe55",Nagpur,india,India,false,nagpur
+"5b51804cd930230a4c0d76b6",San Francisco (California),united-states,United States,true,san-francisco
+"5d9eeb5547ce1a46fbc5a635",Budapest,hungary,Hungary,true,budapest
+"5a6094ffeab2ac270ee647b5",Colchester,united-kingdom,United Kingdom,true,colchester
+"5a609500eab2ac270ee64b7d",Bristol,united-kingdom,United Kingdom,true,bristol
+"5e1c5d9f47f5b578ed72c46c",Kingston (Canada),canada,Canada,true,kingston-canada
+"5ecf989a718f226c7278a141",Patiala,india,India,false,patiala
+"5ec397cf2bc2310f7134fe5b",Kozhikode,india,India,false,kozhikode
+"5ecf9d41718f226c7278a15a",Ghaziabad,india,India,false,ghaziabad
+"5dee3870ee55cc7775b75cbc",Others,others,Others,false,others
+"5ec396112bc2310f7134fe4f",Kolkata,india,India,false,kolkata
+"5d427c9cf73aa6254b6833b1",New Orleans,united-states,United States,false,new-orleans
+"5dedfb16f387333d4597d51d",Urbana (Illinois),united-states,United States,true,urbana
+"5a609500eab2ac270ee64a34",Kingston (UK),united-kingdom,United Kingdom,true,kingston
+"5c7cc14354733c535cb5ea16",Cork,ireland,Ireland,true,cork
+"5e00687457c86a28a7c887a9",Tuscaloosa (Alabama),united-states,United States,true,tuscaloosa
+"5a6721ac015c1467107196b9",Coventry,united-kingdom,United Kingdom,true,coventry
+"5dcea083ee75e7045a770366",Toledo (Ohio),united-states,United States,true,toledo
+"5a609500eab2ac270ee650ca",Bedford,united-kingdom,United Kingdom,true,bedford
+"5e0ad6d10b09a946b7c330a4",Valparaiso,united-states,United States,true,valparaiso
+"5ec396562bc2310f7134fe51",Vadodara,india,India,false,vadodara
+"5d122310ab36ac75c93b6a63",Maryland,united-states,United States,false,maryland
+"5e3b9971bc29af51d5a8c041",College Park (Maryland),united-states,United States,true,college-park
+"5cc8052e3de1447ae85e16ee",Davis (California),united-states,United States,true,davis
+"5fa4f906c1a9e88fedf2ce31",Fiumicino,italy,Italy,false,fiumicino
+"5cc2f3f7753f65670671759d",Winchester,united-kingdom,United Kingdom,true,winchester
+"5a67232c015c146710719a8b",Dundee,united-kingdom,United Kingdom,true,dundee
+"5a609500eab2ac270ee648d1",Bradford,united-kingdom,United Kingdom,true,bradford
+"5e253495617dce1e79bc8d8e",Bloomington,united-states,United States,true,bloomington
+"5e09d00e0abe9e2ba08ac697",Oshawa,canada,Canada,true,oshawa
+"5a671fa7015c14671071936f",Exeter,united-kingdom,United Kingdom,true,exeter
+"5ecfaefb11e2941947245971",Phuentsholing,bhutan,Bhutan,false,phuentsholing
+"5ecf9c43718f226c7278a158",Siliguri,india,India,false,siliguri
+"5cb9985be5c5e006f31d1f4a",Bordeaux,france,France,true,bordeaux
+"5a609500eab2ac270ee64dd4",Wollongong,australia,Australia,false,wollongong
+"5a609501eab2ac270ee65279",Lincoln,united-kingdom,United Kingdom,true,lincoln
+"5f29457679125448a7f2a2fa",Dresden,germany,Germany,true,dresden
+"5dcea006ee75e7045a770364",Tucson (Arizona),united-states,United States,true,tucson
+"5dd664fe6cd5bf42423397b5",Kota,india,India,false,kota
+"5cfb5910819b69774f0c1e09",Ottawa,canada,Canada,true,ottawa
+"5ec396092bc2310f7134fe4e",Vijayawada,india,India,false,vijayawada
+"5d42816cf73aa6254b6833ba",New Jersey,united-states,United States,false,new-jersey
+"5d07480a7a3feb45e8045a1b",Auckland,new-zealand,New Zealand,true,auckland
+"5a671eff015c14671071921f",Huddersfield,united-kingdom,United Kingdom,true,huddersfield
+"5a609500eab2ac270ee64b41",Stoke on Trent,united-kingdom,United Kingdom,true,stoke-on-trent
+"5a609500eab2ac270ee648bc",Leicester,united-kingdom,United Kingdom,true,leicester
+"5cde895195949a018eb2baa3",Dallas (Texas),united-states,United States,true,dallas
+"5ecfad8b11e294194724596b",Chitwan,nepal,Nepal,false,chitwan
+"5ec394a82bc2310f7134fe49",Ahmedabad,india,India,false,ahmedabad
+"5d14c1a2c60ce47669dd94a8",Hamilton,new-zealand,New Zealand,true,hamilton
+"5dca385d9a94d674f215df02",Kalamazoo (Michigan),united-states,United States,true,kalamazoo
+"5ecfaf2e11e2941947245972",Thimphu,bhutan,Bhutan,false,thimphu
+"5ec3967b2bc2310f7134fe52",Bhopal,india,India,false,bhopal
+"5f030287dc108734c350cd24",Giza,egypt,Egypt,false,giza
+"5d8effb047ce1a46fbc59cb5",Irvine (California),united-states,United States,true,irvine
+"5c9c410d6ebb3b42755c90cf",Berlin,germany,Germany,true,berlin
+"5d5bd1394e40902b9d1a3fad",Fredericton,canada,Canada,true,fredericton
+"5a609500eab2ac270ee648dc",Bangor,united-kingdom,United Kingdom,true,bangor
+"5a609500eab2ac270ee648a7",Plymouth,united-kingdom,United Kingdom,true,plymouth
+"5d076f8dc5aa2f53b759753c",Rotterdam,netherlands,Netherlands,true,rotterdam
+"5dccd14628eed75e99dc6121",Ann Arbor (Michigan),united-states,United States,true,ann-arbor
+"5d29b488435c42434643cc30",Angers,france,France,true,angers
+"5ecf9818718f226c7278a13f",Namakkal,india,India,false,namakkal
+"5ec398722bc2310f7134fe5d",Guwahati,india,India,false,guwahati
+"5a609500eab2ac270ee6509b",Oxford (UK),united-kingdom,United Kingdom,true,oxford
+"5da98900da3c2f0c211ca0e5",West Lafayette,united-states,United States,true,west-lafayette
+"5a6723d7015c146710719c7b",Sunderland,united-kingdom,United Kingdom,true,sunderland
+"5dba9a0385a39178dfc6cb78",Brighton (USA),united-states,United States,true,brighton-usa
+"5dd6105b49206d0ef01d8e27",Berkeley (California),united-states,United States,true,berkeley
+"5a609500eab2ac270ee648b3",Middlesbrough,united-kingdom,United Kingdom,true,middlesbrough
+"5cfdf401819b69774f0c1e34",Galway,ireland,Ireland,true,galway
+"5d2493a69524e13dc8ba9e85",Delft,netherlands,Netherlands,true,delft
+"5a609500eab2ac270ee650ae",Leeds,united-kingdom,United Kingdom,true,leeds
+"5f29468579125448a7f2a2fb",Hamburg,germany,Germany,true,hamburg
+"5ecf9ce8718f226c7278a159",Indore,india,India,false,indore
+"5ec396a22bc2310f7134fe53",Thiruvananthapuram,india,India,false,thiruvananthapuram
+"5a6f070270748f8d66bbd405",South Yarra,australia,Australia,false,south-yarra
+"5a609500eab2ac270ee65052",Bunbury,australia,Australia,true,bunbury
+"5ce7d3343d2478532c8269fd",St. Catharines,canada,Canada,true,st-catharines
+"5e1c5ce647f5b578ed72c46a",Thorold,canada,Canada,true,thorold
+"5dd642609a20a02f60e9716b",Delhi,india,India,false,delhi
+"5dd642169a20a02f60e9716a",Pune,india,India,false,pune
+"5e3b9887bc29af51d5a8c03f",Eugene (Oregon),united-states,United States,true,eugene
+"5ec3972b2bc2310f7134fe58",Faridabad,india,India,false,faridabad
+"5a609500eab2ac270ee64888",Wolverhampton,united-kingdom,United Kingdom,true,wolverhampton
+"5d1079b81379d04ba665d335",Aachen,germany,Germany,true,aachen
+"5ddf96a5d2d510664a01860c",Lehi,united-states,United States,false,lehi
+"5dd63f0f9a20a02f60e9714c",Bengaluru,india,India,false,bangalore
+"5b3b5bdaef70a31e4ecb8b1f",Auburn (Alabama),united-states,United States,true,auburn
+"5a609501eab2ac270ee65260",Reading,united-kingdom,United Kingdom,true,reading
+"5ec78bad9dfb2b46659636e6",Chennai,india,India,false,chennai
+"5f030204dc108734c350cd23",Cairo,egypt,Egypt,false,cairo
+"5ec397902bc2310f7134fe5a",Lucknow,india,India,false,lucknow
+"5ce50c9905f58630e46b5f41",Toronto,canada,Canada,true,toronto
+"5a6f080d70748f8d66bbd41e",West Midlands,united-kingdom,United Kingdom,false,west-midlands
+"5d79d9938c9b7b55b51911ed",Seville,spain,Spain,true,seville
+"5a609500eab2ac270ee64c24",Durham,united-kingdom,United Kingdom,true,durham
+"5b45a5bf717c5d01d2f096d3",Barcelona,spain,Spain,true,barcelona
+"5e37ac1e7008d0160a81fbcb",Charlotte (North Carolina),united-states,United States,true,charlotte
+"5dce9f99ee75e7045a770362",Oxford (Mississippi),united-states,United States,true,oxford-usa
+"5a609500eab2ac270ee648ca",Cardiff,united-kingdom,United Kingdom,true,cardiff
+"5e5cb3ff3fec785f320dd19e",Stuttgart,germany,Germany,true,stuttgart
+"5a609501eab2ac270ee65255",Southampton,united-kingdom,United Kingdom,true,southampton
+"5a609500eab2ac270ee64dbe",Adelaide,australia,Australia,true,adelaide
+"5a609500eab2ac270ee650b8",Chester,united-kingdom,United Kingdom,true,chester
+"5a609500eab2ac270ee648e2",Aberdeen,united-kingdom,United Kingdom,true,aberdeen
+"5e5a0dca7e0de678fa2e5a8c",Medway,united-kingdom,United Kingdom,true,medway
+"5de8d35aefbe761104371c60",Tampa,united-states,United States,true,tampa
+"5dd3d24321f5c851857ee161",Noida,india,India,false,noida
+"5eb6586eeb299c14e06b316c",Starkville (Mississippi),united-states,United States,true,starkville
+"5f58589c285549258d0841ae",Krakow,poland,Poland,true,krakow
+"5a609500eab2ac270ee65073",Malvern East,australia,Australia,false,malvern-east
+"5f29470979125448a7f2a2fc",Munster,germany,Germany,true,munster
+"5ce3d0b60a1e2225ce2819e4",Cairns,australia,Australia,true,cairns
+"5e1c5d4c47f5b578ed72c46b",Barrie,canada,Canada,true,barrie
+"5a609500eab2ac270ee650a7",Manchester,united-kingdom,United Kingdom,true,manchester
+"5ebe62b10a621860a9ec1bde",Cheltenham,united-kingdom,United Kingdom,true,cheltenham
+"5dd664546cd5bf42423397af",Chandigarh,india,India,false,chandigarh
+"5a609500eab2ac270ee64899",Sheffield,united-kingdom,United Kingdom,true,sheffield
+"5dce9f20ee75e7045a77035f",Columbia (South Carolina),united-states,United States,true,columbia
+"5dce9f5bee75e7045a770361",Fayetteville (Arkansas),united-states,United States,true,fayetteville
+"5a609501eab2ac270ee65276",Loughborough,united-kingdom,United Kingdom,true,loughborough
+"5cb01d0110f8ed518aab7f29",Stockton-on-Tees,united-kingdom,United Kingdom,true,stockton-on-tees
+"5e38fa5e85df225ac2b8b7d5",Houston (Texas),united-states,United States,true,houston
+"5d1340ff5317e43e6a515d19",Enschede,netherlands,Netherlands,false,enschede
+"5a609501eab2ac270ee65263",Portsmouth,united-kingdom,United Kingdom,true,portsmouth
+"5e00697b57c86a28a7c887ac",San Marcos (Texas),united-states,United States,true,san-marcos
+"5b518232d930230a4c0d76bb",Los Angeles (California),united-states,United States,true,los-angeles
+"5d41109c8da9fd36aadd5335",Greenville (North Carolina),united-states,United States,true,greenville
+"5e0068c257c86a28a7c887aa",Hyattsville,united-states,United States,false,hyattsville
+"5a65fd27b0920aa9efdf5dcf",Edinburgh,united-kingdom,United Kingdom,true,edinburgh
+"5a609500eab2ac270ee648a9",Paisley,united-kingdom,United Kingdom,true,paisley
+"5f22ab0cea834f03cf35900c",Worcester,united-kingdom,United Kingdom,true,worcester
+"5a609501eab2ac270ee65298",Bath,united-kingdom,United Kingdom,true,bath
+"5d4ea7e8f509a942d65d13d8",Amsterdam,netherlands,Netherlands,true,amsterdam
+"5dd664b26cd5bf42423397b4",Dehradun,india,India,false,dehradun
+"5f2944e779125448a7f2a2f9",Darmstadt,germany,Germany,true,darmstadt
+"5e00679457c86a28a7c887a8",Boca Raton,united-states,United States,true,boca-raton
+"5e00690f57c86a28a7c887ab",Murfreesboro,united-states,United States,true,murfreesboro
+"5a609501eab2ac270ee65262",Preston,united-kingdom,United Kingdom,true,preston
+"5cf4f74048a3cb13245e306f",Tilburg,netherlands,Netherlands,true,tilburg
+"5dd641c49a20a02f60e97169",Gurugram,india,India,false,gurgaon
+"5a609500eab2ac270ee64bed",Derby,united-kingdom,United Kingdom,true,derby
+"5a609500eab2ac270ee648b7",Luton,united-kingdom,United Kingdom,true,luton
+"5a609501eab2ac270ee65237",Canberra,australia,Australia,true,canberra
+"5dcea042ee75e7045a770365",Statesboro (Georgia),united-states,United States,true,statesboro
+"5dce9fd8ee75e7045a770363",Baton Rouge (Louisiana),united-states,United States,true,baton-rouge
+"5d10cd92d3800271efe28715",West Haven,united-states,United States,false,west-haven
+"5a609500eab2ac270ee64b0c",Perth,australia,Australia,true,perth
+"5a67246f015c146710719e64",Guildford,united-kingdom,United Kingdom,true,guildford
+"5b459e95717c5d01d2f096cd",Paris,france,France,true,paris
+"5b45a0f4717c5d01d2f096cf",Vancouver,canada,Canada,true,vancouver
+"5f48d24e595649581d0666fe",Cambridge (Massachusetts),united-states,United States,true,cambridge-usa
+"5a671af9015c146710718c6e",Glasgow,united-kingdom,United Kingdom,true,glasgow
+"5a609500eab2ac270ee64e08",Nottingham,united-kingdom,United Kingdom,true,nottingham
+"5d4282adf73aa6254b6833bf",Eindhoven,netherlands,Netherlands,true,eindhoven
+"5b45a627717c5d01d2f096d4",Lisbon,portugal,Portugal,true,lisbon
+"5a609501eab2ac270ee65239",Brisbane,australia,Australia,true,brisbane
+"5a6725dc015c14671071a124",St Andrews,united-kingdom,United Kingdom,true,st-andrews
+"5ebe61e20a621860a9ec1bd6",Gloucester,united-kingdom,United Kingdom,true,gloucester
+"5de9d31d75867a2e548b75a0",East Lansing (Michigan),united-states,United States,true,east-lansing
+"5a609500eab2ac270ee64b34",York,united-kingdom,United Kingdom,true,york
+"5a609501eab2ac270ee652c2",Stanley,united-kingdom,United Kingdom,false,stanley
+"5e00673857c86a28a7c887a7",Big Rapids,united-states,United States,false,big-rapids
+"5a609500eab2ac270ee64b6b",Royal Leamington Spa,united-kingdom,United Kingdom,true,royal-leamington-spa
+"5d4287f0f73aa6254b6833d4",Naples,italy,Italy,true,naples
+"5fa4f905c1a9e88fedf2cd69",Alta Valle Intelvi,italy,Italy,true,alta-valle-intelvi
+"5d2f19473073207f4539fdba",Siena,italy,Italy,false,siena
+"5fa4f82dc1a9e88fedf28188",Alassio,italy,Italy,true,alassio
+"5fa4f906c1a9e88fedf2cddb",Carovigno,italy,Italy,true,carovigno
+"5fa4f906c1a9e88fedf2cdec",Castiglione Falletto,italy,Italy,true,castiglione-falletto
+"5fa4f906c1a9e88fedf2ce5d",Mango,italy,Italy,false,mango
+"5fa4f907c1a9e88fedf2cec3",Sanremo,italy,Italy,true,sanremo
+"5fa4ff38c1a9e88fedf50e66",Monza,italy,Italy,true,monza
+"5fa50063c1a9e88fedf57537",Genova,italy,Italy,false,genova
+"5fa5018cc1a9e88fedf5eb16",Seveso,italy,Italy,true,seveso
+"5fa4f905c1a9e88fedf2cd33",Alba,italy,Italy,true,alba
+"5fa4f906c1a9e88fedf2ce52",Lecce,italy,Italy,true,lecce
+"5d1351bc5317e43e6a515da5",Pavia,italy,Italy,false,pavia
+"5fa4f906c1a9e88fedf2cdc2",Bologna,italy,Italy,true,bologna
+"5fa4f907c1a9e88fedf2cf19",Valdisotto,italy,Italy,true,valdisotto
+"5b459dde717c5d01d2f096cc",Milan,italy,Italy,true,milan
+"5fa4f907c1a9e88fedf2ceab",Ostuni,italy,Italy,true,ostuni
+"5d4a7fdb38947e2a73b17da6",Torino,italy,Italy,true,torino
+"5fa4f907c1a9e88fedf2ceb7",Rome,italy,Italy,true,rome
+"5fa4f906c1a9e88fedf2cdd0",Bormio,italy,Italy,true,bormio
+"5fa4f907c1a9e88fedf2cecf",Santa Margherita Ligure,italy,Italy,true,santa-margherita-ligure
+"5fa4feb0c1a9e88fedf4e015",Roddi,italy,Italy,false,roddi
+"5fa4f906c1a9e88fedf2ce17",Como,italy,Italy,true,como
+"5fa4f907c1a9e88fedf2cf0c",Valdidentro,italy,Italy,true,valdidentro
+"5fa4f906c1a9e88fedf2ce02",Cerano d'Intelvi,italy,Italy,true,cerano-dintelvi
+"5d3171cd3073207f453a02f1",Venice,italy,Italy,false,venice
+"5fa501c2c1a9e88fedf60063",Cernusco sul Naviglio,italy,Italy,true,cernusco-sul-naviglio
+"5cb582c3aeec7242a87f0339",Florence,italy,Italy,true,florence
+"5fa4f905c1a9e88fedf2cdac",Argegno,italy,Italy,true,argegno
+"5fa4f907c1a9e88fedf2cee9",Termoli,italy,Italy,true,termoli
+"5fa4f906c1a9e88fedf2ce69",Marone,italy,Italy,true,marone
+"5fa4f907c1a9e88fedf2cedc",Siracusa,italy,Italy,true,siracusa
+"5fa4f906c1a9e88fedf2cdf7",Centro Valle Intelvi,italy,Italy,true,centro-valle-intelvi
+"5fa4f906c1a9e88fedf2ce84",Monforte d'Alba,italy,Italy,true,monforte-dalba
+"5fa4f907c1a9e88fedf2cf33",Zoagli,italy,Italy,true,zoagli
+"5fa50143c1a9e88fedf5c47f",Turin,italy,Italy,true,turin
+"5fa4f907c1a9e88fedf2cea0",Nesso,italy,Italy,true,nesso
+"5fa4f906c1a9e88fedf2ce3d",La Morra,italy,Italy,true,la-morra
+"5fa4f907c1a9e88fedf2cf28",Valfurva,italy,Italy,true,valfurva
+"5fa4f907c1a9e88fedf2cef5",Toscolano-Maderno,italy,Italy,false,toscolano-maderno
+"5fa4f907c1a9e88fedf2cf00",Udine,italy,Italy,true,udine
+"5fbb7ed065adfc410081ca35",Barbaresco,italy,Italy,false,barbaresco
+"5fbb7ed065adfc410081ca78",Rapallo,italy,Italy,true,rapallo
+"5fbb7ed065adfc410081cae4",Alghero,italy,Italy,false,alghero
+"5fe33823cfc05f1df2d4d7c8",Cagliari,italy,Italy,false,cagliari
+"5fe33823cfc05f1df2d4d7e6",Sesto San Giovanni,italy,Italy,true,sesto-san-giovanni
+"5fe33823cfc05f1df2d4d7ff",Bresso,italy,Italy,false,bresso
+"5fe33823cfc05f1df2d4d812",Villasanta,italy,Italy,true,villasanta
+"5fe6c490292a5f6681b5ddf6",Falmouth and Penryn,united-kingdom,United Kingdom,true,falmouth-and-penryn
+"6017cc0908e3ec2b729b3157",Bari,italy,Italy,false,bari
+"602f662244efaf71ad0b60f9",GdaÅ„sk,poland,Poland,true,gdansk
+"6040d2eced42a83d557ff3ef",Kitchener,canada,Canada,true,kitchener
+"604ae180dbd4cb73f6e6f2aa",Salamanca,spain,Spain,true,salamanca
+"604ae26cdbd4cb73f6e6f2ab",Oviedo,spain,Spain,true,oviedo
+"609119b0e47e3f71cbed7c91",Lampedusa e Linosa,italy,Italy,false,lampedusa-e-linosa
+"609119b0e47e3f71cbed7caf",Castellammare del Golfo,italy,Italy,true,castellammare-del-golfo
+"609119b0e47e3f71cbed7cd2",Alcamo,italy,Italy,true,alcamo
+"609119b0e47e3f71cbed7cfc",Livorno,italy,Italy,true,livorno
+"609119b0e47e3f71cbed7d17",Cervo,italy,Italy,true,cervo
+"609b840b98e6ae21793b793f",Gallipoli,italy,Italy,true,gallipoli
+"60abb93125c36484593ff0bd",Salford,united-kingdom,United Kingdom,true,salford
+"60e3bc7ea1f8ebad9448a43d",Rochester (New York),united-states,United States,true,rochester
+"60e690a6fbcac9cfde62f4d7",Winnipeg,canada,Canada,true,winnipeg
+"60e699ecfbcac9cfde62f5c8",Waterloo,canada,Canada,true,waterloo
+"60e6a10bfbcac9cfde62f66a",Hamilton,canada,Canada,true,hamilton-2
+"60e6acf6760c13dd2cb17946",Peterborough,canada,Canada,true,peterborough
+"60e6b061760c13dd2cb179db",Edmonton,canada,Canada,true,edmonton
+"610292cc5b96945fca5cb38a",Aranjuez,spain,Spain,false,aranjuez
+"610a0d5cbd31c3cb8a6e1f6a",Pamplona,spain,Spain,true,pamplona
+"610a5ad3c81d71d69fa65546",Bormujos,spain,Spain,true,bormujos
+"6114f18a6328a3565d34d32b",Pullman (Washington),united-states,United States,true,pullman
+"6127aff86ff0075ba8ee3cca",Kelowna,canada,Canada,false,kelowna
+"6127b38f6ff0075ba8ee3cd1",Prince George,canada,Canada,true,prince-george
+"6129144d86d3f78765a73ccb",Burgos,spain,Spain,true,burgos
+"612dd7b389d515bc6addbb44",Leipzig,germany,Germany,true,leipzig
+"612dd7ef89d515bc6addbb46",Potsdam,germany,Germany,true,potsdam
+"612dd82589d515bc6addbb48",Katowice,poland,Poland,false,katowice
+"612dd92689d515bc6addbb55",ÅÃ³dÅº,poland,Poland,false,lodz
+"614362e1e0088110d7de6ad5",Lyngby,denmark,Denmark,false,lyngby
+"614363a3e0088110d7de6ad6",Copenhagen,denmark,Denmark,true,copenhagen
+"6176665a0e73d0df61487d7c",Burnaby,canada,Canada,true,burnaby
+"61a0d07756b258ffb9bd4cc7",Fort Collins (Colorado),united-states,United States,true,fort-collins
+"61a0d0a256b258ffb9bd4cc8",Lancaster,united-states,United States,true,lancaster-2
+"61a0d0d156b258ffb9bd4cc9",Athens (Georgia),united-states,United States,true,athens
+"61a0d11a56b258ffb9bd4ccb",Atlanta (Georgia),united-states,United States,true,atlanta
+"61a0d13b56b258ffb9bd4ccc",Orlando (Florida),united-states,United States,true,orlando-2
+"61a0d15f56b258ffb9bd4ccd",Durham (North Carolina),united-states,United States,true,durham-2
+"61a0d1b456b258ffb9bd4cd0",Lafayette (Louisiana),united-states,United States,true,lafayette
+"61a0d1d756b258ffb9bd4cd1",Riverside (California),united-states,United States,true,riverside
+"61a0d1fb56b258ffb9bd4cd2",Decatur (Georgia),united-states,United States,true,decatur
+"61a0d21f56b258ffb9bd4cd3",Syracuse,united-states,United States,true,syracuse
+"61a491eb56b258ffb9bd5863",Richmond,united-kingdom,United Kingdom,true,richmond
+"61b02e564478747c00c8d80f",Somerville (Massachusetts),united-states,United States,true,somerville
+"62023add2b594fa6bb93b7f7",Northampton,united-kingdom,United Kingdom,true,northampton
+"6204d685994ebde3ad433438",Courtenay,canada,Canada,false,courtenay
+"6204dbbb994ebde3ad43344a",Calgary,canada,Canada,true,calgary
+"6204de29994ebde3ad433451",Penticton,canada,Canada,true,penticton
+"6204e033994ebde3ad43345a",Vemon,canada,Canada,false,vemon
+"6204e341994ebde3ad433462",Chilliwack,canada,Canada,true,chilliwack
+"6204e5e7994ebde3ad43346f",New Westminster,canada,Canada,true,new-westminster
+"620f9d18ae8bb98f63298abf",Bellingham (Washington),united-states,United States,true,bellingham
+"620f9ec8ae8bb98f63298ace",Denver (Colorado),united-states,United States,true,denver
+"620f9ffbae8bb98f63298ad2",Lincoln,united-states,United States,false,nebraska
+"620fa095ae8bb98f63298ad3",Lincoln (Nebraska),united-states,United States,true,lincoln-2
+"621498b747b90fb6c75359a3",Abbotsford,canada,Canada,true,abbotsford
+"6214996547b90fb6c75359ac",Surrey,canada,Canada,true,surrey
+"62149abe47b90fb6c7535aa2",Saskatoon,canada,Canada,true,saskatoon
+"62149be647b90fb6c7535abd",Cochrane (Alberta),canada,Canada,true,cochrane
+"62149d3a47b90fb6c7535acf",Fort Saskatchewan,canada,Canada,true,fort-saskatchewan
+"62149de947b90fb6c7535ad7",Lethbridge,canada,Canada,true,lethbridge
+"62149ed147b90fb6c7535ae6",Regina,canada,Canada,true,regina
+"62149f7b47b90fb6c7535af2",Airdrie,canada,Canada,true,airdrie
+"6214a02847b90fb6c7535afb",Kamloops,canada,Canada,true,kamloops
+"6221ba53dd1620e7d22d72e8",Mobile (Alabama),united-states,United States,true,mobile
+"6221bbc3dd1620e7d22d72f3",Huntsville,united-states,United States,true,hunstville
+"622eea44dd1620e7d22dc13c",Charleston,united-states,United States,true,charleston
+"622ef096dd1620e7d22dc1c9",Sacramento (California),united-states,United States,true,sacramento
+"622ef1cfdd1620e7d22dc1d6",Cincinnati (Ohio),united-states,United States,true,cincinnati
+"622f126add1620e7d22dc33a",Indianapolis (Indiana),united-states,United States,true,indianapolis
+"622f1479dd1620e7d22dc35a",Daytona Beach,united-states,United States,true,daytona-beach
+"622f1a80dd1620e7d22dc397",Johnson City (Tennessee),united-states,United States,true,johnson-city
+"622f218bdd1620e7d22dc3cb",Salamanca,spain,Spain,false,salamanca-2
+"622f2789dd1620e7d22dc3fd",Toulouse,france,France,true,toulouse
+"622f29bcdd1620e7d22dc404",Grenoble,france,France,true,grenoble
+"6239c396dd1620e7d22ddfd6",Essex,united-kingdom,United Kingdom,false,essex
+"6239ca27dd1620e7d22de01c",Alston,united-kingdom,United Kingdom,true,alston
+"62838c3f8f07bf571a3ca686",Coimbra,portugal,Portugal,true,coimbra
+"62860b0d0abd577459b3730e",Bilbao,spain,Spain,true,bilbao
+"628c96bc0abd577459b3825b",Townsville,australia,Australia,true,townsville
+"629a0da42adc7a7074564629",Malaga,spain,Spain,true,malaga
+"629f2a6b0306315e6979cf90",Blacksburg (Virginia),united-states,United States,true,blacksburg
+"629f3282ca33f769c54300a3",Cayce (South Carolina),united-states,United States,true,cayce
+"629f36823fbf606f59eaac6c",Greensboro (North Carolina),united-states,United States,true,greensboro
+"629f389a1ce9de7251395037",Minneapolis (Minnesota),united-states,United States,true,minneapolis
+"629f3c32824409767c219aa0",Norman,united-states,United States,true,norman
+"629f3decf1fa2c78b3de615f",Towson (Maryland),united-states,United States,true,towson
+"62a0aa92261897e9f1dc05d0",South Carolina,united-states,United States,false,south-carolina
+"62bd6db620399d825ced6fa5",Scarborough,canada,Canada,true,scarborough
+"62c6c39f894e5502899e5377",University Park,united-states,United States,false,university-park
+"62cbec6b8c5cc63203564b65",Pasir Panjang,singapore,Singapore,false,pasir-panjang
+"62cc02ab8c5cc63203564dc4",Farnham,united-kingdom,United Kingdom,true,farnham
+"62cc05158c5cc63203564de6",Aljunied,singapore,Singapore,false,aljunied
+"62cd1fff8c5cc63203565601",Queenstown,singapore,Singapore,false,queenstown
+"62cd2e208c5cc63203565734",San Diego (California),united-states,United States,true,san-diego
+"62cd382d8c5cc632035657a8",Newark (New Jersey),united-states,United States,true,newark
+"62cd3b5c8c5cc632035657c5",West Long Branch,united-states,United States,false,west-long-branch
+"62cd43838c5cc632035657d1",Teaneck,united-states,United States,true,teaneck
+"62cd45d08c5cc63203565813",New Brunswick (New Jersey),united-states,United States,true,new-brunswick
+"62cd465c8c5cc6320356581b",Camden,united-states,United States,false,camden
+"62cd46fb8c5cc63203565823",Piscataway,united-states,United States,false,piscataway
+"62ce8b6a8c5cc63203566121",Farrer Park,singapore,Singapore,false,farrer-park
+"62ce96a78c5cc6320356622d",Novena Balestier,singapore,Singapore,false,novena-balestier
+"62da8aaa4db347329abfdb5a",Wichita,united-states,United States,false,wichita
+"62e8b727aa6a0fa561e7236a",Rocklin,united-states,United States,false,rocklin
+"62e8bdfdaa6a0fa561e723a5",Orange County,united-states,United States,true,orange-county
+"62f5c776cbd758eeb2b1d284",Baltimore (Maryland),united-states,United States,true,baltimore
+"6307427e76fb4cab0d047d12",Savannah (Georgia),united-states,United States,true,savannah
+"630763a076fb4cab0d04855f",Missouri,united-states,United States,false,missouri
+"630a26d9c3f90731a35ff4f9",fdefault test,united-arab-emirates,United Arab Emirates,false,al-ghurair-university
+"630a279fc3f90731a35ff516",default test,united-arab-emirates,United Arab Emirates,false,university-of-wollongong-in-dubai
+"630a2928c3f90731a35ff563",default test,united-arab-emirates,United Arab Emirates,false,zayed-university
+"630a29efc3f90731a35ff5ff",default test,south-korea,South Korea,false,sungkyunkwan-university
+"630a2a44c3f90731a35ff626",default,singapore,Singapore,false,singapore-university-of-technology-and-designs
+"630a2a6bc3f90731a35ff635",default,singapore,Singapore,false,nanyang-technological-university
+"630cc001cdab48470ea35e11",Brooklyn,united-states,United States,true,brooklyn
+"6315d222839139acc891fb62",Aalborg,denmark,Denmark,true,aalborg
+"6315d383839139acc891fd1a",Saint-Aubin,france,France,false,saint-aubin
+"63183be4839139acc8939246",Newcastle-under-Lyme,united-kingdom,United Kingdom,true,newcastle-under-lyme
+"6328556c820811b691406b4b",Langley,canada,Canada,true,langley
+"63345beba61e65457ffb9bfd",Oakland (California),united-states,United States,true,oakland
+"63512951a76ff922c78f24d8",Quincy,united-states,United States,true,quincy
+"6357937aa76ff922c7939806",Mississauga,canada,Canada,true,mississauga
+"63579477a76ff922c7939c99",Burlington,canada,Canada,true,burlington
+"635796d1a76ff922c793a395",London (Canada),canada,Canada,true,london-canada
+"6357989da76ff922c793ab32",Aylmer,canada,Canada,false,aylmer
+"636a26d0effafbe4ce4e11ba",Peterborough (UK),united-kingdom,United Kingdom,true,peterborough-uk
+"636c9884bdf7b540cc746b60",Ambleside,united-kingdom,United Kingdom,false,ambleside
+"6377385dbdf7b540cc87f505",Charlottetown,canada,Canada,false,charlottetown
+"637dc21482268ee2e42355ec",Bingen,germany,Germany,false,bingen
+"638047d782268ee2e4283b67",Worcester,united-states,United States,false,worcester-2
+"638592f382268ee2e4309be5",Seattle (Washington),united-states,United States,true,seattle
+"6389d294807000a4e6f40789",Gzira,malta,Malta,true,gzira
+"6389d3da807000a4e6f40c16",Swieqi,malta,Malta,true,swieqi
+"638b17f1807000a4e6f621bc",Burnley,united-kingdom,United Kingdom,true,burnley
+"639845b05f1415fc7ba15883",Bridgewater,united-states,United States,true,bridgewater
+"63a2d29cbc2e0efb2e677a75",Arlington (Texas),united-states,United States,true,arlington
+"63a30586b521642e15bbabb7",Harrisonburg (Virginia),united-states,United States,true,harrisonburg
+"63aebe8ab521642e15cd765e",Gaillard,france,France,true,gaillard
+"63b544b4b521642e15d4a079",Thousand Oaks (California),united-states,United States,true,thousand-oaks
+"63b7ff7cb521642e15ddf955",Kent,united-states,United States,false,kent
+"63b94f45b521642e15df51ce",Groningen,netherlands,Netherlands,true,groningen
+"63cbd3a171fa6db3a19ea38d",Shepparton,australia,Australia,true,shepparton
+"63cbd90371fa6db3a19eaf02",Bendigo,australia,Australia,true,bendigo
+"63cbdf9d71fa6db3a19eb85c",Wodonga,australia,Australia,true,wodonga
+"63cbe13c71fa6db3a19eb9ad",Melton,australia,Australia,false,melton
+"63db6da571fa6db3a1c1a966",Sra. da Hora,portugal,Portugal,false,sra-da-hora
+"63e20a0e2c08937c665bffdd",Pierre-BÃ©nite,france,France,false,pierre-benite
+"63e20c2d2c08937c665c0e5e",Clichy,france,France,true,clichy
+"63e20c832c08937c665c107e",Nice,france,France,true,nice
+"63e219a72c08937c665c6797",Creteil,france,France,true,creteil
+"63e21a172c08937c665c691e",Cannes,france,France,true,cannes
+"63e21a532c08937c665c6ac2",Argenteuil,france,France,true,argenteuil
+"63e21e6e2c08937c665c95d3",Massy,france,France,true,massy
+"63e21ed32c08937c665c9bab",Biarritz,france,France,true,biarritz
+"63e21f8c2c08937c665ca614",Avignon,france,France,true,avignon
+"63e21fc72c08937c665ca6e2",Orly,france,France,false,orly
+"63e2216b2c08937c665cb887",Rosny-sous-Bois,france,France,true,rosny-sous-bois
+"63e222a12c08937c665ccce2",Lille,france,France,true,lille
+"63e223df2c08937c665cd63d",Fontainebleau,france,France,true,fontainebleau
+"63e224e52c08937c665cd8d1",Courbevoie,france,France,true,courbevoie
+"63e227ff2c08937c665cf5b9",Noisy Le Grand,france,France,true,noisy-le-grand
+"63e228422c08937c665cf5c2",Puteaux,france,France,true,puteaux
+"63e228c92c08937c665cfab4",Clamart,france,France,true,clamart
+"63e229c22c08937c665d0561",Colombes,france,France,true,colombes
+"63e22a112c08937c665d069b",Romainville,france,France,true,romainville
+"63e22cd92c08937c665d1721",Annemasse,france,France,true,annemasse
+"63e22dde2c08937c665d22ce",Nanterre,france,France,true,nanterre
+"63e22e362c08937c665d2784",Montpellier,france,France,true,montpellier
+"63e22e922c08937c665d2d44",Saint-Denis,france,France,false,saint-denis
+"63e22f932c08937c665d3bbf",Marcq En Baroeul,france,France,false,marcq-en-baroeul
+"63e230152c08937c665d3dc0",Montigny Le Bretonneux,france,France,false,montigny-le-bretonneux
+"63e230332c08937c665d3dc9",Ivry Sur Seine,france,France,false,ivry-sur-seine
+"63e230632c08937c665d3e26",Lambersart,france,France,true,lambersart
+"63e2309d2c08937c665d3f55",Orleans,france,France,true,orleans
+"63e230ce2c08937c665d4281",Pantin,france,France,true,pantin
+"63e230f62c08937c665d4567",Calais,france,France,true,calais
+"63e230fa2c08937c665d4577",Montreuil,france,France,true,montreuil
+"63e231502c08937c665d4613",Castries,france,France,true,castries
+"63e2319c2c08937c665d4b9f",Talence,france,France,true,talence
+"63e231b62c08937c665d4c39",ChampignyÂ SurÂ Marne,france,France,false,champigny-sur-marne
+"63e231f32c08937c665d4e69",Saint Ouen Sur Seine,france,France,false,saint-ouen-sur-seine
+"63e771f237adfe5b065dea51",Fullerton (California),united-states,United States,true,fullerton
+"63e774fa37adfe5b065df22e",Moscow (Idaho),united-states,United States,true,moscow
+"63e7786237adfe5b065dfde4",Corpus Christi (Texas),united-states,United States,true,corpus-christi
+"63fd8c85bfe76f6e534fe2b1",Etobicoke,canada,Canada,true,etobicoke
+"6405bad100bf9f1f8b339c96",Geraldton,australia,Australia,true,geraldton
+"6409749700bf9f1f8b3a3604",Uxbridge,united-kingdom,United Kingdom,true,uxbridge
+"641c903696f479dc344b2417",Kent (Ohio),united-states,United States,true,kent-2
+"6421824791d3ab62b05f2cee",Wasagaming,canada,Canada,false,wasagaming
+"6426d5c38509eeaf352e5a1b",Zaragoza,spain,Spain,true,zaragoza
+"642abb0e8509eeaf3535364f",Stockholm,sweden,Sweden,true,stockholm
+"642abbd78509eeaf35353907",MalmÃ¶,sweden,Sweden,true,malmo
+"642abcd38509eeaf353539eb",Tampere,finland,Finland,true,tampere
+"6436e136bf2a6d2a9ed08b2e",Terre Haute (Indiana),united-states,United States,true,terre-haute
+"6439b1af141ebeafdd40c87e",Sault Ste. Marie,canada,Canada,true,sault-ste-marie
+"644ada4a0e5c04cbdc2960d5",San Jose (California),united-states,United States,true,san-jose
+"64588f604b17e6688076c1b4",Lucerne,switzerland,Switzerland,true,lucerne
+"646466fda93d647a619646d8",Riga,latvia,Latvia,true,riga
+"64668b7689dc7e966d3296af",Binghamton (New York),united-states,United States,true,binghamton
+"647097fb070b722db1690c67",Bonn,germany,Germany,true,bonn
+"64709833070b722db1690e0e",DÃ¼sseldorf,germany,Germany,true,dusseldorf
+"647098bd070b722db169164b",Mannheim,germany,Germany,true,mannheim
+"647098ff070b722db16917a5",Mainz,germany,Germany,true,mainz
+"64709f3b070b722db1694df5",CÃ³rdoba,spain,Spain,true,cordoba
+"64709fa9070b722db1695292",Getafe,spain,Spain,true,getafe
+"6470a056070b722db16958bc",Burjassot,spain,Spain,true,burjassot
+"6470a496070b722db1699405",Parma,italy,Italy,false,parma
+"6470a503070b722db1699842",Santa Lucia,italy,Italy,false,santa-lucia
+"6470a679070b722db169a443",Chieti,italy,Italy,false,chieti
+"6470a737070b722db169ace7",The Hague,netherlands,Netherlands,true,the-hague
+"6470a7c6070b722db169b1c0",Maastricht,netherlands,Netherlands,false,maastricht
+"6470a860070b722db169b680",Brest,france,France,true,brest
+"6470a9cc070b722db169bfd2",Amiens,france,France,true,amiens
+"6470aa05070b722db169c08a",Bourges,france,France,false,bourges
+"6470ab16070b722db169c8b9",Rouen,france,France,true,rouen
+"6470ab5f070b722db169cc63",Noisy-le-Grand,france,France,false,noisy-le-grand-2
+"6470ad16070b722db169d711",Brussels,belgium,Belgium,true,brussels
+"6470ad92070b722db169d942",Leuven,belgium,Belgium,true,leuven
+"6470ae2f070b722db169dacc",ZÃ¼rich,switzerland,Switzerland,true,zurich
+"6470aec1070b722db169dec9",Lausanne,switzerland,Switzerland,true,lausanne
+"6470af59070b722db169e0b8",WrocÅ‚aw,poland,Poland,true,wroclaw
+"6470b03f070b722db169e539",Graz,austria,Austria,true,graz
+"6470b0bd070b722db169e553",Slough,united-kingdom,United Kingdom,true,slough
+"647456fe070b722db16fd997",Wembley,united-kingdom,United Kingdom,true,wembley
+"648fe141650cbf6b71be3fe4",wien,austria,Austria,false,wien
+"649093d7c5bdbaf9ee4c5c1b",Gatineau,canada,Canada,true,gatineau
+"6493d5696b54e7b478c42396",Lakeland (Florida),united-states,United States,true,lakeland
+"6494da746b54e7b478ca3da8",Spartanburg,united-states,United States,true,spartanburg
+"649d31ec56912b2a56737921",Fort Myers (Florida),united-states,United States,true,fort-myers
+"649d322b56912b2a56737cd8",Youngstown (Ohio),united-states,United States,true,youngstown
+"64a5136c94a920a36ea4cf2f",Cachen,france,France,false,cachen
+"64acf1bd6170c6ec112509cd",Bayreuth,germany,Germany,true,bayreuth
+"64acf3326170c6ec11251e79",verona,italy,Italy,false,verona
+"64acf5946170c6ec11253b87",Brescia,italy,Italy,false,brescia
+"64acf75a6170c6ec11254df3",freiburg,germany,Germany,false,freiburg
+"64acf8656170c6ec11255b97",bergamo,italy,Italy,true,bergamo
+"64acf8b26170c6ec11255d80",leuwaarden,netherlands,Netherlands,false,leuwaarden
+"64acf9f06170c6ec11256ab0",guadalajara,spain,Spain,false,guadalajara
+"64acfb0a6170c6ec11257978",prague,czechia,Czechia,false,prague
+"64acfc926170c6ec1125824c",santander,spain,Spain,false,santander
+"64acfe886170c6ec1125af49",modena,italy,Italy,false,modena
+"64acff456170c6ec1125b946",almeria,spain,Spain,false,almeria
+"64acff716170c6ec1125be0e",trieste,italy,Italy,false,trieste
+"64ad00006170c6ec1125c198",faro,portugal,Portugal,false,faro
+"64af11c401f4389266caa27c",Notre Dame (Indiana),united-states,United States,true,notre-dame
+"64afd2ab01f4389266d03018",Emeryville,united-states,United States,true,emeryville
+"64d55331e9b6ade3464609e0",Amherst (Massachusetts),united-states,United States,true,amherst
+"64e459ce878bdccfdc14f171",Washington DC,united-states,United States,true,washington-dc
+"64f0d5ae1268d6d251a9a84c",Milwaukee (Wisconsin),united-states,United States,true,milwaukee
+"652e150851bca35fe5ae222e",Hamrun,malta,Malta,true,hamrun
+"653f5767a4c9783be0972b98",Kalkara,malta,Malta,true,kalkara
+"65424ccca4c9783be0ae050a",Kaunas,lithuania,Lithuania,true,kaunas
+"654b340fb41b8d25d93fdd94",Bentley,australia,Australia,true,bentley
+"654e41857abd13c9e7fd44db",Santa Barbara (California),united-states,United States,true,santa-barbara
+"655dabbccf6d95abe411ff26",Algester,australia,Australia,true,algester
+"6567614fdbac4b1a18c98937",Amherst (New York),united-states,United States,true,amherst-new-york
+"657164df66e5f62f67443374",Milton,canada,Canada,true,milton
+"657c26f3b79ce79b0131a158",Estoril,portugal,Portugal,true,estoril
+"657d283e661ef78a723867ef",Stone Mountain,united-states,United States,true,stone-mountain
+"658294ffee8ed0de659858df",Hong Kong,china,China,true,hong-kong
+"65829c23ee8ed0de6598f416",Lugo,spain,Spain,true,lugo
+"658c1706a0be1c9354fc78ed",Maitland (Florida),united-states,United States,false,maitland-florida
+"65aed00b081731f9b1b077e6",Muncie (Indiana),united-states,United States,true,muncie-indiana
+"65af5f6a081731f9b1b38b8a",Lexington (Kentucky),united-states,United States,true,lexington-kentucky
+"65b1fa5f21d01ff8de1ed87a",Columbia (Missouri),united-states,United States,true,columbia-missouri
+"65b96bce88f06c0d847a2526",Salt Lake City (Utah),united-states,United States,true,salt-lake-city-utah
+"65c723983d03a2bb44cc5003",Nashville (Tennessee),united-states,United States,true,nashville-tennessee
+"65ce685da30da5d4fc05a35c",Chapel Hill (North Carolina),united-states,United States,true,chapel-hill-north-carolina
+"65cfc728717f4f306c4fef51",Cullowhee (North Carolina),united-states,United States,true,cullowhee-north-carolina
+"65ddcc6ab91a3d4b4f9b2b19",Carbondale (Illinois),united-states,United States,true,carbondale
+"65ddcd91b91a3d4b4f9b3b67",Reno (Nevada),united-states,United States,true,reno-nevada
+"65ddce55b91a3d4b4f9b41e1",Isla Vista (California),united-states,United States,true,isla-vista-california
+"65eff831e2623463c4c2c96d",Waterford,ireland,Ireland,true,waterford

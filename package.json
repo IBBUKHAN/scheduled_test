@@ -24,6 +24,7 @@
     "ffprobe-static": "^3.1.0",
     "fluent-ffmpeg": "^2.1.2",
     "fuse.js": "^6.6.2",
+    "json-2-csv": "^5.5.6",
     "minisearch": "^6.1.0",
     "moment-timezone": "^0.5.43",
     "music-metadata": "^8.1.4",
